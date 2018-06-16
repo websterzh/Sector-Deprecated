@@ -1,0 +1,428 @@
+DisplayTypeName:Eurocat Radar Display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZYSH.sct
+Airports:ZYAS:name
+Airports:ZYAS:symbol
+Airports:ZYBS:name
+Airports:ZYBS:symbol
+Airports:ZYCC:name
+Airports:ZYCC:symbol
+Airports:ZYCH:name
+Airports:ZYCH:symbol
+Airports:ZYCY:name
+Airports:ZYCY:symbol
+Airports:ZYDD:name
+Airports:ZYDD:symbol
+Airports:ZYDQ:name
+Airports:ZYDQ:symbol
+Airports:ZYHB:name
+Airports:ZYHB:symbol
+Airports:ZYHE:name
+Airports:ZYHE:symbol
+Airports:ZYJD:name
+Airports:ZYJD:symbol
+Airports:ZYJM:name
+Airports:ZYJM:symbol
+Airports:ZYJX:name
+Airports:ZYJX:symbol
+Airports:ZYJZ:name
+Airports:ZYJZ:symbol
+Airports:ZYLD:name
+Airports:ZYLD:symbol
+Airports:ZYMD:name
+Airports:ZYMD:symbol
+Airports:ZYMH:name
+Airports:ZYMH:symbol
+Airports:ZYQQ:name
+Airports:ZYQQ:symbol
+Airports:ZYTL:name
+Airports:ZYTL:symbol
+Airports:ZYTX:name
+Airports:ZYTX:symbol
+Airports:ZYYJ:name
+Airports:ZYYJ:symbol
+ARTCC low boundary:ZYCC:
+ARTCC low boundary:ZYHB:
+ARTCC low boundary:ZYSH:
+ARTCC low boundary:ZYTL:
+Fixes:A:name
+Fixes:A:symbol
+Fixes:ABVAX:name
+Fixes:ABVAX:symbol
+Fixes:AGAVO:name
+Fixes:AGAVO:symbol
+Fixes:ALARA:name
+Fixes:ALARA:symbol
+Fixes:ANDIN:name
+Fixes:ANDIN:symbol
+Fixes:ANRAT:name
+Fixes:ANRAT:symbol
+Fixes:ANSUK:name
+Fixes:ANSUK:symbol
+Fixes:APUKO:name
+Fixes:APUKO:symbol
+Fixes:ARGUK:name
+Fixes:ARGUK:symbol
+Fixes:ATODO:name
+Fixes:ATODO:symbol
+Fixes:BEBAN:name
+Fixes:BEBAN:symbol
+Fixes:BIDIB:name
+Fixes:BIDIB:symbol
+Fixes:BISUN:name
+Fixes:BISUN:symbol
+Fixes:BUBDI:name
+Fixes:BUBDI:symbol
+Fixes:BUBLO:name
+Fixes:BUBLO:symbol
+Fixes:BUTET:name
+Fixes:BUTET:symbol
+Fixes:BUTID:name
+Fixes:BUTID:symbol
+Fixes:DABMA:name
+Fixes:DABMA:symbol
+Fixes:DOBGA:name
+Fixes:DOBGA:symbol
+Fixes:DONVO:name
+Fixes:DONVO:symbol
+Fixes:DULEX:name
+Fixes:DULEX:symbol
+Fixes:EKADO:name
+Fixes:EKADO:symbol
+Fixes:EKULI:name
+Fixes:EKULI:symbol
+Fixes:EKVOK:name
+Fixes:EKVOK:symbol
+Fixes:ELPUN:name
+Fixes:ELPUN:symbol
+Fixes:GILEB:name
+Fixes:GILEB:symbol
+Fixes:GOLOT:name
+Fixes:GOLOT:symbol
+Fixes:GOTSU:name
+Fixes:GOTSU:symbol
+Fixes:GUMED:name
+Fixes:GUMED:symbol
+Fixes:GUMOD:name
+Fixes:GUMOD:symbol
+Fixes:H:name
+Fixes:H:symbol
+Fixes:IGADO:name
+Fixes:IGADO:symbol
+Fixes:IGDEG:name
+Fixes:IGDEG:symbol
+Fixes:IKARU:name
+Fixes:IKARU:symbol
+Fixes:IKITI:name
+Fixes:IKITI:symbol
+Fixes:IKOKO:name
+Fixes:IKOKO:symbol
+Fixes:INTIV:name
+Fixes:INTIV:symbol
+Fixes:ISBOP:name
+Fixes:ISBOP:symbol
+Fixes:ISKEM:name
+Fixes:ISKEM:symbol
+Fixes:IVPUV:name
+Fixes:IVPUV:symbol
+Fixes:K:name
+Fixes:K:symbol
+Fixes:KAD:name
+Fixes:KAD:symbol
+Fixes:KAGAK:name
+Fixes:KAGAK:symbol
+Fixes:KAKAT:name
+Fixes:KAKAT:symbol
+Fixes:KANVU:name
+Fixes:KANVU:symbol
+Fixes:KARPI:name
+Fixes:KARPI:symbol
+Fixes:KETOV:name
+Fixes:KETOV:symbol
+Fixes:LELOG:name
+Fixes:LELOG:symbol
+Fixes:LEMOT:name
+Fixes:LEMOT:symbol
+Fixes:LOTGO:name
+Fixes:LOTGO:symbol
+Fixes:LOVKA:name
+Fixes:LOVKA:symbol
+Fixes:LUMKU:name
+Fixes:LUMKU:symbol
+Fixes:M:name
+Fixes:M:symbol
+Fixes:MAGIT:name
+Fixes:MAGIT:symbol
+Fixes:MAKNO:name
+Fixes:MAKNO:symbol
+Fixes:MANLI:name
+Fixes:MANLI:symbol
+Fixes:MUDAL:name
+Fixes:MUDAL:symbol
+Fixes:N:name
+Fixes:N:symbol
+Fixes:NIXEP:name
+Fixes:NIXEP:symbol
+Fixes:NODAL:name
+Fixes:NODAL:symbol
+Fixes:NUBKI:name
+Fixes:NUBKI:symbol
+Fixes:NUTVA:name
+Fixes:NUTVA:symbol
+Fixes:O:name
+Fixes:O:symbol
+Fixes:OGIPO:name
+Fixes:OGIPO:symbol
+Fixes:OMBAD:name
+Fixes:OMBAD:symbol
+Fixes:OMDUS:name
+Fixes:OMDUS:symbol
+Fixes:ONINA:name
+Fixes:ONINA:symbol
+Fixes:ORAVA:name
+Fixes:ORAVA:symbol
+Fixes:OSUTU:name
+Fixes:OSUTU:symbol
+Fixes:OTABO:name
+Fixes:OTABO:symbol
+Fixes:PABKI:name
+Fixes:PABKI:symbol
+Fixes:PATRI:name
+Fixes:PATRI:symbol
+Fixes:PONIL:name
+Fixes:PONIL:symbol
+Fixes:POVAG:name
+Fixes:POVAG:symbol
+Fixes:Q:name
+Fixes:Q:symbol
+Fixes:RANBO:name
+Fixes:RANBO:symbol
+Fixes:REDEM:name
+Fixes:REDEM:symbol
+Fixes:RULOP:name
+Fixes:RULOP:symbol
+Fixes:RUPID:name
+Fixes:RUPID:symbol
+Fixes:SAMAV:name
+Fixes:SAMAV:symbol
+Fixes:SANKO:name
+Fixes:SANKO:symbol
+Fixes:SARUD:name
+Fixes:SARUD:symbol
+Fixes:SARUL:name
+Fixes:SARUL:symbol
+Fixes:SIMLI:name
+Fixes:SIMLI:symbol
+Fixes:SUMBE:name
+Fixes:SUMBE:symbol
+Fixes:T:name
+Fixes:T:symbol
+Fixes:TANIB:name
+Fixes:TANIB:symbol
+Fixes:TELOK:name
+Fixes:TELOK:symbol
+Fixes:TEPOD:name
+Fixes:TEPOD:symbol
+Fixes:TOMUK:name
+Fixes:TOMUK:symbol
+Fixes:TOSID:name
+Fixes:TOSID:symbol
+Fixes:TUSGI:name
+Fixes:TUSGI:symbol
+Fixes:U:name
+Fixes:U:symbol
+Fixes:UDETI:name
+Fixes:UDETI:symbol
+Fixes:UGABI:name
+Fixes:UGABI:symbol
+Fixes:UGRUP:name
+Fixes:UGRUP:symbol
+Fixes:UNSEK:name
+Fixes:UNSEK:symbol
+Fixes:UPNAT:name
+Fixes:UPNAT:symbol
+Fixes:V:name
+Fixes:V:symbol
+Fixes:VABRA:name
+Fixes:VABRA:symbol
+Fixes:VASRO:name
+Fixes:VASRO:symbol
+Fixes:VENOS:name
+Fixes:VENOS:symbol
+Fixes:VIDUX:name
+Fixes:VIDUX:symbol
+Fixes:VILIX:name
+Fixes:VILIX:symbol
+Fixes:W:name
+Fixes:W:symbol
+Fixes:X:name
+Fixes:X:symbol
+Fixes:Y:name
+Fixes:Y:symbol
+Fixes:Z:name
+Fixes:Z:symbol
+High airways:A326:line
+High airways:A345:line
+High airways:A575:line
+High airways:A588:line
+High airways:A591:line
+High airways:B150:line
+High airways:B332:line
+High airways:B334:line
+High airways:B451:line
+High airways:G212:line
+High airways:G332:line
+High airways:G338:line
+High airways:G341:line
+High airways:G494:line
+High airways:G597:line
+High airways:R213:line
+High airways:R224:line
+High airways:V43:line
+High airways:V44:line
+High airways:V45:line
+High airways:V46:line
+High airways:V47:line
+High airways:V56:line
+High airways:V57:line
+High airways:V58:line
+High airways:V59:line
+High airways:V60:line
+High airways:V61:line
+High airways:V62:line
+High airways:V63:line
+High airways:W106:line
+High airways:W107:line
+High airways:W173:line
+High airways:W27:line
+High airways:W39:line
+High airways:W4:line
+High airways:W42:line
+High airways:W5:line
+High airways:W511:line
+High airways:W512:line
+High airways:W538:line
+High airways:W539:line
+High airways:W573:line
+High airways:W574:line
+High airways:W575:line
+High airways:W576:line
+High airways:W577:line
+High airways:W578:line
+High airways:W579:line
+High airways:W599:line
+High airways:W600:line
+High airways:W601:line
+High airways:W602:line
+High airways:W603:line
+High airways:W604:line
+High airways:W606:line
+High airways:W8:line
+High airways:W89:line
+NDBs:B:name
+NDBs:B:symbol
+NDBs:BM:name
+NDBs:BM:symbol
+NDBs:D:name
+NDBs:D:symbol
+NDBs:FC:name
+NDBs:FC:symbol
+NDBs:G:name
+NDBs:G:symbol
+NDBs:GF:name
+NDBs:GF:symbol
+NDBs:IJ:name
+NDBs:IJ:symbol
+NDBs:J:name
+NDBs:J:symbol
+NDBs:JA:name
+NDBs:JA:symbol
+NDBs:K:name
+NDBs:K:symbol
+NDBs:KY:name
+NDBs:KY:symbol
+NDBs:L:name
+NDBs:L:symbol
+NDBs:LJ:name
+NDBs:LJ:symbol
+NDBs:LS:name
+NDBs:LS:symbol
+NDBs:LZ:name
+NDBs:LZ:symbol
+NDBs:M:name
+NDBs:M:symbol
+NDBs:MJ:name
+NDBs:MJ:symbol
+NDBs:MR:name
+NDBs:MR:symbol
+NDBs:P:name
+NDBs:P:symbol
+NDBs:PU:name
+NDBs:PU:symbol
+NDBs:R:name
+NDBs:R:symbol
+NDBs:U:name
+NDBs:U:symbol
+NDBs:UC:name
+NDBs:UC:symbol
+NDBs:X:name
+NDBs:X:symbol
+NDBs:Z:name
+NDBs:Z:symbol
+NDBs:ZF:name
+NDBs:ZF:symbol
+VORs:BLG:name
+VORs:BLG:symbol
+VORs:CHG:name
+VORs:CHG:symbol
+VORs:CHI:name
+VORs:CHI:symbol
+VORs:DBL:name
+VORs:DBL:symbol
+VORs:DDG:name
+VORs:DDG:symbol
+VORs:DHN:name
+VORs:DHN:symbol
+VORs:FYU:name
+VORs:FYU:symbol
+VORs:HEK:name
+VORs:HEK:symbol
+VORs:HLD:name
+VORs:HLD:symbol
+VORs:HRB:name
+VORs:HRB:symbol
+VORs:JMU:name
+VORs:JMU:symbol
+VORs:KYU:name
+VORs:KYU:symbol
+VORs:LJB:name
+VORs:LJB:symbol
+VORs:MDJ:name
+VORs:MDJ:symbol
+VORs:MZL:name
+VORs:MZL:symbol
+VORs:NDG:name
+VORs:NDG:symbol
+VORs:SEY:name
+VORs:SEY:symbol
+VORs:TGO:name
+VORs:TGO:symbol
+VORs:WQG:name
+VORs:WQG:symbol
+VORs:YNJ:name
+VORs:YNJ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:32.727120:93.981327:56.878163:154.900907

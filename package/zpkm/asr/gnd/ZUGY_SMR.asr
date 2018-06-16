@@ -1,0 +1,87 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZPKM.sct
+Free Text:Sectors\All Right Reserved VATPRC@2017 www.vatprc.net:freetext
+Free Text:ZUGY\1:freetext
+Free Text:ZUGY\10:freetext
+Free Text:ZUGY\11:freetext
+Free Text:ZUGY\12:freetext
+Free Text:ZUGY\13:freetext
+Free Text:ZUGY\14:freetext
+Free Text:ZUGY\15:freetext
+Free Text:ZUGY\16:freetext
+Free Text:ZUGY\17:freetext
+Free Text:ZUGY\18:freetext
+Free Text:ZUGY\19:freetext
+Free Text:ZUGY\2:freetext
+Free Text:ZUGY\20:freetext
+Free Text:ZUGY\21:freetext
+Free Text:ZUGY\22:freetext
+Free Text:ZUGY\23:freetext
+Free Text:ZUGY\24:freetext
+Free Text:ZUGY\25:freetext
+Free Text:ZUGY\26:freetext
+Free Text:ZUGY\27:freetext
+Free Text:ZUGY\28:freetext
+Free Text:ZUGY\29:freetext
+Free Text:ZUGY\3:freetext
+Free Text:ZUGY\30:freetext
+Free Text:ZUGY\31:freetext
+Free Text:ZUGY\32:freetext
+Free Text:ZUGY\4:freetext
+Free Text:ZUGY\5:freetext
+Free Text:ZUGY\6:freetext
+Free Text:ZUGY\7:freetext
+Free Text:ZUGY\8:freetext
+Free Text:ZUGY\9:freetext
+Free Text:ZUGY\A:freetext
+Free Text:ZUGY\A:freetext
+Free Text:ZUGY\A:freetext
+Free Text:ZUGY\A:freetext
+Free Text:ZUGY\A:freetext
+Free Text:ZUGY\A1:freetext
+Free Text:ZUGY\A1:freetext
+Free Text:ZUGY\A2:freetext
+Free Text:ZUGY\A3:freetext
+Free Text:ZUGY\A3:freetext
+Free Text:ZUGY\B:freetext
+Free Text:ZUGY\C:freetext
+Free Text:ZUGY\C:freetext
+Free Text:ZUGY\D:freetext
+Free Text:ZUGY\D:freetext
+Free Text:ZUGY\D:freetext
+Free Text:ZUGY\E:freetext
+Free Text:ZUGY\F:freetext
+Free Text:ZUGY\T1:freetext
+Regions:ZUGY:polygon
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 left base
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 left ticks
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 left vectoring
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 right base
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 right ticks
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 1 right vectoring
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 left base
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 left ticks
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 left vectoring
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 right base
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 right ticks
+Runways:ZUGY LONGDONGBAO 01-19:extended centerline 2 right vectoring
+Runways:ZUGY LONGDONGBAO 01-19:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:26.518763:106.758026:26.557831:106.843569
+PLUGIN:vSMR:Airport:ZUGY

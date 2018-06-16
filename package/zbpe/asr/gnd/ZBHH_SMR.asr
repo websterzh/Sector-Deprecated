@@ -1,0 +1,108 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZBPE.sct
+Airports:ZBHH:name
+Airports:ZBHH:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016  www.vatprc.net:freetext
+Free Text:ZBHH\1:freetext
+Free Text:ZBHH\10:freetext
+Free Text:ZBHH\11:freetext
+Free Text:ZBHH\12:freetext
+Free Text:ZBHH\12A:freetext
+Free Text:ZBHH\13:freetext
+Free Text:ZBHH\14:freetext
+Free Text:ZBHH\15:freetext
+Free Text:ZBHH\16:freetext
+Free Text:ZBHH\17:freetext
+Free Text:ZBHH\18:freetext
+Free Text:ZBHH\19:freetext
+Free Text:ZBHH\1A:freetext
+Free Text:ZBHH\2:freetext
+Free Text:ZBHH\20:freetext
+Free Text:ZBHH\21:freetext
+Free Text:ZBHH\22:freetext
+Free Text:ZBHH\23:freetext
+Free Text:ZBHH\24:freetext
+Free Text:ZBHH\25:freetext
+Free Text:ZBHH\26:freetext
+Free Text:ZBHH\27:freetext
+Free Text:ZBHH\28:freetext
+Free Text:ZBHH\29:freetext
+Free Text:ZBHH\3:freetext
+Free Text:ZBHH\30:freetext
+Free Text:ZBHH\31:freetext
+Free Text:ZBHH\32:freetext
+Free Text:ZBHH\32A:freetext
+Free Text:ZBHH\4:freetext
+Free Text:ZBHH\5:freetext
+Free Text:ZBHH\6:freetext
+Free Text:ZBHH\61:freetext
+Free Text:ZBHH\62:freetext
+Free Text:ZBHH\63:freetext
+Free Text:ZBHH\64:freetext
+Free Text:ZBHH\65:freetext
+Free Text:ZBHH\66:freetext
+Free Text:ZBHH\67:freetext
+Free Text:ZBHH\68:freetext
+Free Text:ZBHH\69:freetext
+Free Text:ZBHH\7:freetext
+Free Text:ZBHH\70:freetext
+Free Text:ZBHH\71:freetext
+Free Text:ZBHH\72:freetext
+Free Text:ZBHH\8:freetext
+Free Text:ZBHH\9:freetext
+Free Text:ZBHH\A:freetext
+Free Text:ZBHH\A:freetext
+Free Text:ZBHH\A:freetext
+Free Text:ZBHH\A:freetext
+Free Text:ZBHH\B:freetext
+Free Text:ZBHH\C:freetext
+Free Text:ZBHH\D:freetext
+Free Text:ZBHH\E:freetext
+Free Text:ZBHH\F:freetext
+Free Text:ZBHH\G:freetext
+Free Text:ZBHH\G:freetext
+Free Text:ZBHH\H:freetext
+Free Text:ZBHH\HANGAR APRON:freetext
+Free Text:ZBHH\K:freetext
+Free Text:ZBHH\L01:freetext
+Free Text:ZBHH\L02:freetext
+Free Text:ZBHH\L03:freetext
+Free Text:ZBHH\L04:freetext
+Free Text:ZBHH\L05:freetext
+Free Text:ZBHH\L06:freetext
+Free Text:ZBHH\M01:freetext
+Free Text:ZBHH\M02:freetext
+Geo:ZBHH:
+Regions:ZBHH:polygon
+Runways:ZBHH BAITA 08-26:extended centerline 1
+Runways:ZBHH BAITA 08-26:extended centerline 1 left base
+Runways:ZBHH BAITA 08-26:extended centerline 1 left ticks
+Runways:ZBHH BAITA 08-26:extended centerline 1 left vectoring
+Runways:ZBHH BAITA 08-26:extended centerline 1 right base
+Runways:ZBHH BAITA 08-26:extended centerline 1 right ticks
+Runways:ZBHH BAITA 08-26:extended centerline 1 right vectoring
+Runways:ZBHH BAITA 08-26:extended centerline 2
+Runways:ZBHH BAITA 08-26:extended centerline 2 left base
+Runways:ZBHH BAITA 08-26:extended centerline 2 left ticks
+Runways:ZBHH BAITA 08-26:extended centerline 2 left vectoring
+Runways:ZBHH BAITA 08-26:extended centerline 2 right base
+Runways:ZBHH BAITA 08-26:extended centerline 2 right ticks
+Runways:ZBHH BAITA 08-26:extended centerline 2 right vectoring
+Runways:ZBHH BAITA 08-26:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:40.834077:111.780027:40.867467:111.863542
+PLUGIN:vSMR:Airport:ZBHH

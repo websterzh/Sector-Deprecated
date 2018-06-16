@@ -1,0 +1,97 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Free Text:ZSQD\10:freetext
+Free Text:ZSQD\11:freetext
+Free Text:ZSQD\12:freetext
+Free Text:ZSQD\13:freetext
+Free Text:ZSQD\14:freetext
+Free Text:ZSQD\15:freetext
+Free Text:ZSQD\16:freetext
+Free Text:ZSQD\17:freetext
+Free Text:ZSQD\18:freetext
+Free Text:ZSQD\19:freetext
+Free Text:ZSQD\20:freetext
+Free Text:ZSQD\20B:freetext
+Free Text:ZSQD\23:freetext
+Free Text:ZSQD\24:freetext
+Free Text:ZSQD\25:freetext
+Free Text:ZSQD\26:freetext
+Free Text:ZSQD\27:freetext
+Free Text:ZSQD\28:freetext
+Free Text:ZSQD\29:freetext
+Free Text:ZSQD\30:freetext
+Free Text:ZSQD\31:freetext
+Free Text:ZSQD\32:freetext
+Free Text:ZSQD\33:freetext
+Free Text:ZSQD\34:freetext
+Free Text:ZSQD\35:freetext
+Free Text:ZSQD\36:freetext
+Free Text:ZSQD\37:freetext
+Free Text:ZSQD\38:freetext
+Free Text:ZSQD\39:freetext
+Free Text:ZSQD\41:freetext
+Free Text:ZSQD\42:freetext
+Free Text:ZSQD\43:freetext
+Free Text:ZSQD\44:freetext
+Free Text:ZSQD\45:freetext
+Free Text:ZSQD\46:freetext
+Free Text:ZSQD\47:freetext
+Free Text:ZSQD\48:freetext
+Free Text:ZSQD\49:freetext
+Free Text:ZSQD\5:freetext
+Free Text:ZSQD\6:freetext
+Free Text:ZSQD\7:freetext
+Free Text:ZSQD\8:freetext
+Free Text:ZSQD\9:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A:freetext
+Free Text:ZSQD\A1:freetext
+Free Text:ZSQD\A2:freetext
+Free Text:ZSQD\A3:freetext
+Free Text:ZSQD\A5:freetext
+Free Text:ZSQD\A6:freetext
+Free Text:ZSQD\A7:freetext
+Free Text:ZSQD\B:freetext
+Free Text:ZSQD\C:freetext
+Free Text:ZSQD\C1:freetext
+Free Text:ZSQD\C2:freetext
+Free Text:ZSQD\C3:freetext
+Free Text:ZSQD\C4:freetext
+Free Text:ZSQD\D:freetext
+Free Text:ZSQD\D:freetext
+Free Text:ZSQD\E:freetext
+Free Text:ZSQD\F:freetext
+Free Text:ZSQD\G:freetext
+Free Text:ZSQD\L1:freetext
+Free Text:ZSQD\L1:freetext
+Free Text:ZSQD\L1:freetext
+Free Text:ZSQD\L2:freetext
+Free Text:ZSQD\L2:freetext
+Free Text:ZSQD\L4:freetext
+Free Text:ZSQD\L6:freetext
+Free Text:ZSQD\L8:freetext
+Geo:ZSQD:
+Regions:ZSQD:polygon
+Runways:ZSQD LIUTING 17-35:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:36.245059:120.331668:36.288548:120.427454
+PLUGIN:vSMR:Airport:ZSQD

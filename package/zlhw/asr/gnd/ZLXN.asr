@@ -1,0 +1,48 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZLHW.sct
+Airports:ZLXN:symbol
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A:freetext
+Free Text:ZLXN\A1:freetext
+Free Text:ZLXN\A2:freetext
+Free Text:ZLXN\A3:freetext
+Free Text:ZLXN\A4:freetext
+Free Text:ZLXN\C:freetext
+Free Text:ZLXN\D:freetext
+Free Text:ZLXN\E:freetext
+Geo:ZLXN:
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 left base
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 left ticks
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 left vectoring
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 right base
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 right ticks
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 1 right vectoring
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 left base
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 left ticks
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 left vectoring
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 right base
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 right ticks
+Runways:ZLXN CAOJIAPU 11-29:extended centerline 2 right vectoring
+Runways:ZLXN CAOJIAPU 11-29:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:36.504748:101.990258:36.548584:102.093075

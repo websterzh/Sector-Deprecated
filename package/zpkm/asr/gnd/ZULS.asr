@@ -1,0 +1,70 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZPKM.sct
+Free Text:ZULS\1:freetext
+Free Text:ZULS\10:freetext
+Free Text:ZULS\11:freetext
+Free Text:ZULS\12:freetext
+Free Text:ZULS\13:freetext
+Free Text:ZULS\14:freetext
+Free Text:ZULS\15:freetext
+Free Text:ZULS\16:freetext
+Free Text:ZULS\17:freetext
+Free Text:ZULS\18:freetext
+Free Text:ZULS\2:freetext
+Free Text:ZULS\3:freetext
+Free Text:ZULS\4:freetext
+Free Text:ZULS\5:freetext
+Free Text:ZULS\6:freetext
+Free Text:ZULS\7:freetext
+Free Text:ZULS\8:freetext
+Free Text:ZULS\9:freetext
+Free Text:ZULS\A:freetext
+Free Text:ZULS\A:freetext
+Free Text:ZULS\A:freetext
+Free Text:ZULS\A:freetext
+Free Text:ZULS\A:freetext
+Free Text:ZULS\A1:freetext
+Free Text:ZULS\A1:freetext
+Free Text:ZULS\A2:freetext
+Free Text:ZULS\A2:freetext
+Free Text:ZULS\A3:freetext
+Free Text:ZULS\A3:freetext
+Free Text:ZULS\A4:freetext
+Free Text:ZULS\A5:freetext
+Free Text:ZULS\A6:freetext
+Free Text:ZULS\A7:freetext
+Free Text:ZULS\Air Force Apron:freetext
+Free Text:ZULS\DO NOT USE:freetext
+Geo:ZULS:
+Regions:ZULS:polygon
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 left base
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 left ticks
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 left vectoring
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 right base
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 right ticks
+Runways:ZULS GONGGAR 09L-27R:extended centerline 1 right vectoring
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 left base
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 left ticks
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 left vectoring
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 right base
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 right ticks
+Runways:ZULS GONGGAR 09L-27R:extended centerline 2 right vectoring
+Runways:ZULS GONGGAR 09L-27R:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:29.284165:90.884294:29.309168:90.939040

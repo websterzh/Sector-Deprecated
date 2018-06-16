@@ -1,0 +1,54 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGKL:name
+Airports:ZGKL:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A:freetext
+Free Text:ZGKL\A01:freetext
+Free Text:ZGKL\A19:freetext
+Free Text:ZGKL\B:freetext
+Free Text:ZGKL\C:freetext
+Free Text:ZGKL\D:freetext
+Free Text:ZGKL\D:freetext
+Free Text:ZGKL\E:freetext
+Free Text:ZGKL\E:freetext
+Free Text:ZGKL\F:freetext
+Free Text:ZGKL\G:freetext
+Geo:ZGKL:
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 left base
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 left ticks
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 left vectoring
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 right base
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 right ticks
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 1 right vectoring
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 left base
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 left ticks
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 left vectoring
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 right base
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 right ticks
+Runways:ZGKL LIANGJIANG 01-19:extended centerline 2 right vectoring
+Runways:ZGKL LIANGJIANG 01-19:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:25.201183:110.003204:25.238714:110.080290
+PLUGIN:vSMR:Airport:ZGKL

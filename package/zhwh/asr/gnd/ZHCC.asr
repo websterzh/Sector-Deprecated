@@ -1,0 +1,118 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZHWH.sct
+Airports:ZHCC:name
+Airports:ZHCC:symbol
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D:freetext
+Free Text:ZHCC\D1:freetext
+Free Text:ZHCC\D1:freetext
+Free Text:ZHCC\D11:freetext
+Free Text:ZHCC\D11:freetext
+Free Text:ZHCC\D12:freetext
+Free Text:ZHCC\D12:freetext
+Free Text:ZHCC\D2:freetext
+Free Text:ZHCC\D2:freetext
+Free Text:ZHCC\D3:freetext
+Free Text:ZHCC\D4:freetext
+Free Text:ZHCC\D5:freetext
+Free Text:ZHCC\D6:freetext
+Free Text:ZHCC\D7:freetext
+Free Text:ZHCC\D8:freetext
+Free Text:ZHCC\D9:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E:freetext
+Free Text:ZHCC\E1:freetext
+Free Text:ZHCC\E2:freetext
+Free Text:ZHCC\E3:freetext
+Free Text:ZHCC\E4:freetext
+Free Text:ZHCC\G4:freetext
+Free Text:ZHCC\G5:freetext
+Free Text:ZHCC\H:freetext
+Free Text:ZHCC\H:freetext
+Free Text:ZHCC\H:freetext
+Free Text:ZHCC\H:freetext
+Free Text:ZHCC\H1:freetext
+Free Text:ZHCC\H11:freetext
+Free Text:ZHCC\H2:freetext
+Free Text:ZHCC\H4:freetext
+Free Text:ZHCC\H6:freetext
+Free Text:ZHCC\H8:freetext
+Free Text:ZHCC\R:freetext
+Free Text:ZHCC\R:freetext
+Free Text:ZHCC\R:freetext
+Free Text:ZHCC\R:freetext
+Free Text:ZHCC\R1:freetext
+Free Text:ZHCC\R2:freetext
+Free Text:ZHCC\R3:freetext
+Free Text:ZHCC\R4:freetext
+Free Text:ZHCC\S:freetext
+Free Text:ZHCC\S:freetext
+Free Text:ZHCC\S:freetext
+Free Text:ZHCC\S:freetext
+Free Text:ZHCC\S1:freetext
+Free Text:ZHCC\U:freetext
+Free Text:ZHCC\U:freetext
+Free Text:ZHCC\U:freetext
+Free Text:ZHCC\U:freetext
+Free Text:ZHCC\X:freetext
+Free Text:ZHCC\X:freetext
+Free Text:ZHCC\X:freetext
+Geo:ZHCC:
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 left base
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 left ticks
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 left vectoring
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 right base
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 right ticks
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 1 right vectoring
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 left base
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 left ticks
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 left vectoring
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 right base
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 right ticks
+Runways:ZHCC XINZHENG 12L-30R:extended centerline 2 right vectoring
+Runways:ZHCC XINZHENG 12L-30R:name
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 left base
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 left ticks
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 left vectoring
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 right base
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 right ticks
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 1 right vectoring
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 left base
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 left ticks
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 left vectoring
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 right base
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 right ticks
+Runways:ZHCC XINZHENG 12R-30L:extended centerline 2 right vectoring
+Runways:ZHCC XINZHENG 12R-30L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:34.507631:113.808162:34.545161:113.891862

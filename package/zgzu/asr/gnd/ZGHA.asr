@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGHA:name
+Airports:ZGHA:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGHA\A:freetext
+Free Text:ZGHA\A:freetext
+Free Text:ZGHA\A:freetext
+Free Text:ZGHA\A:freetext
+Free Text:ZGHA\C:freetext
+Free Text:ZGHA\D:freetext
+Free Text:ZGHA\E:freetext
+Free Text:ZGHA\E:freetext
+Free Text:ZGHA\F:freetext
+Free Text:ZGHA\F:freetext
+Free Text:ZGHA\G:freetext
+Free Text:ZGHA\G:freetext
+Free Text:ZGHA\H:freetext
+Free Text:ZGHA\H:freetext
+Free Text:ZGHA\J:freetext
+Free Text:ZGHA\K:freetext
+Free Text:ZGHA\L:freetext
+Free Text:ZGHA\T1:freetext
+Free Text:ZGHA\T2:freetext
+Geo:ZGHA:
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 left base
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 left ticks
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 left vectoring
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 right base
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 right ticks
+Runways:ZGHA HUANGHUA 18-36:extended centerline 1 right vectoring
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 left base
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 left ticks
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 left vectoring
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 right base
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 right ticks
+Runways:ZGHA HUANGHUA 18-36:extended centerline 2 right vectoring
+Runways:ZGHA HUANGHUA 18-36:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:28.173188:113.180995:28.210720:113.258081

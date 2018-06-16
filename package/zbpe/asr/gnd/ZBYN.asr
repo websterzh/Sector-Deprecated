@@ -1,0 +1,53 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZBPE.sct
+Airports:ZBYN:name
+Airports:ZBYN:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016  www.vatprc.net:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A:freetext
+Free Text:ZBYN\A1:freetext
+Free Text:ZBYN\A2:freetext
+Free Text:ZBYN\A3:freetext
+Free Text:ZBYN\A4:freetext
+Free Text:ZBYN\A5:freetext
+Free Text:ZBYN\A6:freetext
+Free Text:ZBYN\A8:freetext
+Free Text:ZBYN\B3:freetext
+Free Text:ZBYN\B4:freetext
+Free Text:ZBYN\B5:freetext
+Geo:ZBYN:
+Runways:ZBYN WUSU 13-31:extended centerline 1
+Runways:ZBYN WUSU 13-31:extended centerline 1 left base
+Runways:ZBYN WUSU 13-31:extended centerline 1 left ticks
+Runways:ZBYN WUSU 13-31:extended centerline 1 left vectoring
+Runways:ZBYN WUSU 13-31:extended centerline 1 right base
+Runways:ZBYN WUSU 13-31:extended centerline 1 right ticks
+Runways:ZBYN WUSU 13-31:extended centerline 1 right vectoring
+Runways:ZBYN WUSU 13-31:extended centerline 2
+Runways:ZBYN WUSU 13-31:extended centerline 2 left base
+Runways:ZBYN WUSU 13-31:extended centerline 2 left ticks
+Runways:ZBYN WUSU 13-31:extended centerline 2 left vectoring
+Runways:ZBYN WUSU 13-31:extended centerline 2 right base
+Runways:ZBYN WUSU 13-31:extended centerline 2 right ticks
+Runways:ZBYN WUSU 13-31:extended centerline 2 right vectoring
+Runways:ZBYN WUSU 13-31:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:37.730242:112.577972:37.771979:112.680789

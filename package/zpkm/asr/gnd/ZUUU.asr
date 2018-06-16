@@ -1,0 +1,304 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZPKM.sct
+Free Text:ZUUU\101:freetext
+Free Text:ZUUU\102:freetext
+Free Text:ZUUU\103:freetext
+Free Text:ZUUU\104:freetext
+Free Text:ZUUU\105:freetext
+Free Text:ZUUU\106:freetext
+Free Text:ZUUU\107:freetext
+Free Text:ZUUU\108:freetext
+Free Text:ZUUU\109:freetext
+Free Text:ZUUU\110:freetext
+Free Text:ZUUU\111:freetext
+Free Text:ZUUU\112:freetext
+Free Text:ZUUU\113:freetext
+Free Text:ZUUU\114:freetext
+Free Text:ZUUU\115:freetext
+Free Text:ZUUU\116:freetext
+Free Text:ZUUU\117:freetext
+Free Text:ZUUU\118:freetext
+Free Text:ZUUU\119:freetext
+Free Text:ZUUU\120:freetext
+Free Text:ZUUU\121:freetext
+Free Text:ZUUU\122:freetext
+Free Text:ZUUU\123:freetext
+Free Text:ZUUU\124:freetext
+Free Text:ZUUU\125:freetext
+Free Text:ZUUU\127:freetext
+Free Text:ZUUU\128:freetext
+Free Text:ZUUU\129:freetext
+Free Text:ZUUU\130:freetext
+Free Text:ZUUU\131:freetext
+Free Text:ZUUU\132:freetext
+Free Text:ZUUU\134:freetext
+Free Text:ZUUU\135:freetext
+Free Text:ZUUU\136:freetext
+Free Text:ZUUU\137:freetext
+Free Text:ZUUU\138:freetext
+Free Text:ZUUU\139:freetext
+Free Text:ZUUU\140:freetext
+Free Text:ZUUU\141:freetext
+Free Text:ZUUU\142:freetext
+Free Text:ZUUU\143:freetext
+Free Text:ZUUU\144:freetext
+Free Text:ZUUU\145:freetext
+Free Text:ZUUU\146:freetext
+Free Text:ZUUU\147:freetext
+Free Text:ZUUU\148:freetext
+Free Text:ZUUU\149:freetext
+Free Text:ZUUU\150:freetext
+Free Text:ZUUU\151:freetext
+Free Text:ZUUU\152:freetext
+Free Text:ZUUU\153:freetext
+Free Text:ZUUU\154:freetext
+Free Text:ZUUU\155:freetext
+Free Text:ZUUU\156:freetext
+Free Text:ZUUU\157:freetext
+Free Text:ZUUU\158:freetext
+Free Text:ZUUU\159:freetext
+Free Text:ZUUU\160:freetext
+Free Text:ZUUU\161:freetext
+Free Text:ZUUU\162:freetext
+Free Text:ZUUU\164:freetext
+Free Text:ZUUU\165:freetext
+Free Text:ZUUU\166:freetext
+Free Text:ZUUU\167:freetext
+Free Text:ZUUU\168:freetext
+Free Text:ZUUU\169:freetext
+Free Text:ZUUU\170:freetext
+Free Text:ZUUU\171:freetext
+Free Text:ZUUU\172:freetext
+Free Text:ZUUU\173:freetext
+Free Text:ZUUU\174:freetext
+Free Text:ZUUU\175:freetext
+Free Text:ZUUU\176:freetext
+Free Text:ZUUU\177:freetext
+Free Text:ZUUU\201:freetext
+Free Text:ZUUU\202:freetext
+Free Text:ZUUU\203:freetext
+Free Text:ZUUU\204:freetext
+Free Text:ZUUU\205:freetext
+Free Text:ZUUU\206:freetext
+Free Text:ZUUU\207:freetext
+Free Text:ZUUU\208:freetext
+Free Text:ZUUU\209:freetext
+Free Text:ZUUU\210:freetext
+Free Text:ZUUU\211:freetext
+Free Text:ZUUU\212:freetext
+Free Text:ZUUU\213:freetext
+Free Text:ZUUU\214:freetext
+Free Text:ZUUU\215:freetext
+Free Text:ZUUU\216:freetext
+Free Text:ZUUU\217:freetext
+Free Text:ZUUU\218:freetext
+Free Text:ZUUU\219:freetext
+Free Text:ZUUU\224:freetext
+Free Text:ZUUU\225:freetext
+Free Text:ZUUU\226:freetext
+Free Text:ZUUU\227:freetext
+Free Text:ZUUU\228:freetext
+Free Text:ZUUU\229:freetext
+Free Text:ZUUU\230:freetext
+Free Text:ZUUU\301:freetext
+Free Text:ZUUU\302:freetext
+Free Text:ZUUU\303:freetext
+Free Text:ZUUU\304:freetext
+Free Text:ZUUU\305:freetext
+Free Text:ZUUU\306:freetext
+Free Text:ZUUU\307:freetext
+Free Text:ZUUU\308:freetext
+Free Text:ZUUU\309:freetext
+Free Text:ZUUU\310:freetext
+Free Text:ZUUU\311:freetext
+Free Text:ZUUU\312:freetext
+Free Text:ZUUU\313:freetext
+Free Text:ZUUU\314:freetext
+Free Text:ZUUU\315:freetext
+Free Text:ZUUU\316:freetext
+Free Text:ZUUU\317:freetext
+Free Text:ZUUU\318:freetext
+Free Text:ZUUU\319:freetext
+Free Text:ZUUU\320:freetext
+Free Text:ZUUU\321:freetext
+Free Text:ZUUU\322:freetext
+Free Text:ZUUU\323:freetext
+Free Text:ZUUU\324:freetext
+Free Text:ZUUU\325:freetext
+Free Text:ZUUU\326:freetext
+Free Text:ZUUU\327:freetext
+Free Text:ZUUU\328:freetext
+Free Text:ZUUU\329:freetext
+Free Text:ZUUU\330:freetext
+Free Text:ZUUU\331:freetext
+Free Text:ZUUU\332:freetext
+Free Text:ZUUU\333:freetext
+Free Text:ZUUU\334:freetext
+Free Text:ZUUU\335:freetext
+Free Text:ZUUU\336:freetext
+Free Text:ZUUU\337:freetext
+Free Text:ZUUU\338:freetext
+Free Text:ZUUU\339:freetext
+Free Text:ZUUU\401:freetext
+Free Text:ZUUU\402:freetext
+Free Text:ZUUU\403:freetext
+Free Text:ZUUU\404:freetext
+Free Text:ZUUU\405:freetext
+Free Text:ZUUU\406:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A:freetext
+Free Text:ZUUU\A1:freetext
+Free Text:ZUUU\A1:freetext
+Free Text:ZUUU\A2:freetext
+Free Text:ZUUU\A2:freetext
+Free Text:ZUUU\A2:freetext
+Free Text:ZUUU\A3:freetext
+Free Text:ZUUU\A4:freetext
+Free Text:ZUUU\A5:freetext
+Free Text:ZUUU\A6:freetext
+Free Text:ZUUU\A7:freetext
+Free Text:ZUUU\A8:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B:freetext
+Free Text:ZUUU\B1:freetext
+Free Text:ZUUU\B1:freetext
+Free Text:ZUUU\B10:freetext
+Free Text:ZUUU\B10:freetext
+Free Text:ZUUU\B2:freetext
+Free Text:ZUUU\B3:freetext
+Free Text:ZUUU\B4:freetext
+Free Text:ZUUU\B5:freetext
+Free Text:ZUUU\B6:freetext
+Free Text:ZUUU\B6:freetext
+Free Text:ZUUU\B7:freetext
+Free Text:ZUUU\B7:freetext
+Free Text:ZUUU\B8:freetext
+Free Text:ZUUU\B8:freetext
+Free Text:ZUUU\B9:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C:freetext
+Free Text:ZUUU\C1:freetext
+Free Text:ZUUU\C2:freetext
+Free Text:ZUUU\C3:freetext
+Free Text:ZUUU\C4:freetext
+Free Text:ZUUU\D:freetext
+Free Text:ZUUU\D:freetext
+Free Text:ZUUU\D:freetext
+Free Text:ZUUU\D1:freetext
+Free Text:ZUUU\D2:freetext
+Free Text:ZUUU\D3:freetext
+Free Text:ZUUU\D4:freetext
+Free Text:ZUUU\D5:freetext
+Free Text:ZUUU\E:freetext
+Free Text:ZUUU\E:freetext
+Free Text:ZUUU\E:freetext
+Free Text:ZUUU\E:freetext
+Free Text:ZUUU\E1:freetext
+Free Text:ZUUU\E1:freetext
+Free Text:ZUUU\E2:freetext
+Free Text:ZUUU\E2:freetext
+Free Text:ZUUU\E3:freetext
+Free Text:ZUUU\E4:freetext
+Free Text:ZUUU\E5:freetext
+Free Text:ZUUU\E6:freetext
+Free Text:ZUUU\E7:freetext
+Free Text:ZUUU\E8:freetext
+Free Text:ZUUU\E8:freetext
+Free Text:ZUUU\E9:freetext
+Free Text:ZUUU\E9:freetext
+Free Text:ZUUU\E9:freetext
+Free Text:ZUUU\E9:freetext
+Free Text:ZUUU\H1:freetext
+Free Text:ZUUU\H2:freetext
+Free Text:ZUUU\H3:freetext
+Free Text:ZUUU\H4:freetext
+Free Text:ZUUU\H5:freetext
+Free Text:ZUUU\H6:freetext
+Free Text:ZUUU\H7:freetext
+Free Text:ZUUU\M:freetext
+Free Text:ZUUU\M:freetext
+Free Text:ZUUU\N:freetext
+Free Text:ZUUU\N:freetext
+Free Text:ZUUU\T1:freetext
+Free Text:ZUUU\T10:freetext
+Free Text:ZUUU\T12:freetext
+Free Text:ZUUU\T2:freetext
+Free Text:ZUUU\T3:freetext
+Free Text:ZUUU\T4:freetext
+Free Text:ZUUU\T5:freetext
+Free Text:ZUUU\T6:freetext
+Free Text:ZUUU\T7:freetext
+Free Text:ZUUU\T8:freetext
+Free Text:ZUUU\T9:freetext
+Geo:ZUUU:
+Regions:ZUUU:polygon
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 left base
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 left ticks
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 left vectoring
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 right base
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 right ticks
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 1 right vectoring
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 left base
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 left ticks
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 left vectoring
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 right base
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 right ticks
+Runways:ZUUU SHUANGLIU 02L-20R:extended centerline 2 right vectoring
+Runways:ZUUU SHUANGLIU 02L-20R:name
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 left base
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 left ticks
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 left vectoring
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 right base
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 right ticks
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 1 right vectoring
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 left base
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 left ticks
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 left vectoring
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 right base
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 right ticks
+Runways:ZUUU SHUANGLIU 02R-20L:extended centerline 2 right vectoring
+Runways:ZUUU SHUANGLIU 02R-20L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:30.529760:103.871696:30.606063:104.032452

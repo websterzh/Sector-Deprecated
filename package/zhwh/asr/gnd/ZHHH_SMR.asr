@@ -1,0 +1,132 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZHWH.sct
+Airports:ZHHH:name
+Airports:ZHHH:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\B:freetext
+Free Text:ZHHH\C:freetext
+Free Text:ZHHH\C:freetext
+Free Text:ZHHH\C:freetext
+Free Text:ZHHH\C:freetext
+Free Text:ZHHH\C:freetext
+Free Text:ZHHH\C1:freetext
+Free Text:ZHHH\C10:freetext
+Free Text:ZHHH\C11:freetext
+Free Text:ZHHH\C12:freetext
+Free Text:ZHHH\C13:freetext
+Free Text:ZHHH\C2:freetext
+Free Text:ZHHH\C3:freetext
+Free Text:ZHHH\C4:freetext
+Free Text:ZHHH\C5:freetext
+Free Text:ZHHH\C6:freetext
+Free Text:ZHHH\C7:freetext
+Free Text:ZHHH\C8:freetext
+Free Text:ZHHH\C9:freetext
+Free Text:ZHHH\Construction Area:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D:freetext
+Free Text:ZHHH\D1:freetext
+Free Text:ZHHH\D10:freetext
+Free Text:ZHHH\D11:freetext
+Free Text:ZHHH\D12:freetext
+Free Text:ZHHH\D14:freetext
+Free Text:ZHHH\D16:freetext
+Free Text:ZHHH\D3:freetext
+Free Text:ZHHH\D5:freetext
+Free Text:ZHHH\D6:freetext
+Free Text:ZHHH\D7:freetext
+Free Text:ZHHH\D8:freetext
+Free Text:ZHHH\D9:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\E:freetext
+Free Text:ZHHH\G:freetext
+Free Text:ZHHH\G:freetext
+Free Text:ZHHH\G:freetext
+Free Text:ZHHH\G1:freetext
+Free Text:ZHHH\G2:freetext
+Free Text:ZHHH\G3:freetext
+Free Text:ZHHH\G4:freetext
+Free Text:ZHHH\H:freetext
+Free Text:ZHHH\H:freetext
+Free Text:ZHHH\H:freetext
+Free Text:ZHHH\H1:freetext
+Free Text:ZHHH\H2:freetext
+Free Text:ZHHH\H3:freetext
+Free Text:ZHHH\H4:freetext
+Free Text:ZHHH\P1:freetext
+Free Text:ZHHH\P10:freetext
+Free Text:ZHHH\P11:freetext
+Free Text:ZHHH\P12:freetext
+Free Text:ZHHH\P13:freetext
+Free Text:ZHHH\P14:freetext
+Free Text:ZHHH\P2:freetext
+Free Text:ZHHH\P3:freetext
+Free Text:ZHHH\P4:freetext
+Free Text:ZHHH\P5:freetext
+Free Text:ZHHH\P6:freetext
+Free Text:ZHHH\P9:freetext
+Geo:ZHHH:
+Regions:ZHHH:polygon
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 left base
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 left ticks
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 left vectoring
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 right base
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 right ticks
+Runways:ZHHH TIANHE 04L-22R:extended centerline 1 right vectoring
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 left base
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 left ticks
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 left vectoring
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 right base
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 right ticks
+Runways:ZHHH TIANHE 04L-22R:extended centerline 2 right vectoring
+Runways:ZHHH TIANHE 04L-22R:name
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 left base
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 left ticks
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 left vectoring
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 right base
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 right ticks
+Runways:ZHHH TIANHE 04R-22L:extended centerline 1 right vectoring
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 left base
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 left ticks
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 left vectoring
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 right base
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 right ticks
+Runways:ZHHH TIANHE 04R-22L:extended centerline 2 right vectoring
+Runways:ZHHH TIANHE 04R-22L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:30.752846:114.164464:30.799759:114.269088
+PLUGIN:vSMR:Airport:ZHHH

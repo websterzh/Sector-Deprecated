@@ -1,0 +1,18 @@
+#define ctrCoastline 6579300
+#define ctrRestricted 1973875
+#define appBoundary 11513981
+#define appRestricted 200
+#define appHold 5263440
+#define appMVA 7631988
+#define gndGrass 3166213
+#define gndApron 5263440
+#define gndBuilding 13619151
+#define gndRunway 2829099
+#define gndTerminal 30886
+#define gndTaxi 7895160
+#define gndHP 170
+#define gndClosed 200
+#define gndDirection 60395
+#define gndTerminalEX 8553090
+#define gndRunwayEX 3684408
+

@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZWUQ.sct
+Free Text:ZWSH\3:freetext
+Free Text:ZWSH\4:freetext
+Free Text:ZWSH\5:freetext
+Free Text:ZWSH\6:freetext
+Free Text:ZWSH\7:freetext
+Free Text:ZWSH\8:freetext
+Free Text:ZWSH\A:freetext
+Free Text:ZWSH\A:freetext
+Free Text:ZWSH\A:freetext
+Free Text:ZWSH\A:freetext
+Free Text:ZWSH\B:freetext
+Free Text:ZWSH\C:freetext
+Free Text:ZWSH\D:freetext
+Free Text:ZWSH\E:freetext
+Free Text:ZWSH\F:freetext
+Geo:ZWSH:
+Regions:ZWSH:polygon
+Runways:ZWSH KASHI 08-26:extended centerline 1
+Runways:ZWSH KASHI 08-26:extended centerline 1 left base
+Runways:ZWSH KASHI 08-26:extended centerline 1 left ticks
+Runways:ZWSH KASHI 08-26:extended centerline 1 left vectoring
+Runways:ZWSH KASHI 08-26:extended centerline 1 right base
+Runways:ZWSH KASHI 08-26:extended centerline 1 right ticks
+Runways:ZWSH KASHI 08-26:extended centerline 1 right vectoring
+Runways:ZWSH KASHI 08-26:extended centerline 2
+Runways:ZWSH KASHI 08-26:extended centerline 2 left base
+Runways:ZWSH KASHI 08-26:extended centerline 2 left ticks
+Runways:ZWSH KASHI 08-26:extended centerline 2 left vectoring
+Runways:ZWSH KASHI 08-26:extended centerline 2 right base
+Runways:ZWSH KASHI 08-26:extended centerline 2 right ticks
+Runways:ZWSH KASHI 08-26:extended centerline 2 right vectoring
+Runways:ZWSH KASHI 08-26:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:39.530349:75.997769:39.548163:76.044378

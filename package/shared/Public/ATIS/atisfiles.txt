@@ -1,0 +1,162 @@
+RECORD:-:Minus.wav
+RECORD:,:0-Slient.wav
+RECORD:.:Decimal.wav
+RECORD:0:0.wav
+RECORD:1:1.wav
+RECORD:10:10.wav
+RECORD:2:2.wav
+RECORD:20:20.wav
+RECORD:3:3.wav
+RECORD:30:30.wav
+RECORD:4:4.wav
+RECORD:40:40.wav
+RECORD:5:5.wav
+RECORD:50:50.wav
+RECORD:6:6.wav
+RECORD:60:60.wav
+RECORD:7:7.wav
+RECORD:70:70.wav
+RECORD:8:8.wav
+RECORD:80:80.wav
+RECORD:9:9.wav
+RECORD:90:90.wav
+RECORD:A:A.wav
+RECORD:advise on initial contact you have info:Initial Contact.wav
+RECORD:and:And.wav
+RECORD:and confirm you will implement RNAV procedures:0-Slient.wav
+RECORD:approach:Approach.wav
+RECORD:at:At.wav
+RECORD:B:B.wav
+RECORD:blowing:Blowing.wav
+RECORD:broken:Broken.wav
+RECORD:C:C.wav
+RECORD:calm:Calm.wav
+RECORD:CAVOK:CAVOK.wav
+RECORD:center:Center.wav
+RECORD:cumulonimbus:Cumulonimbus.wav
+RECORD:D:D.wav
+RECORD:deg C:Degrees.wav
+RECORD:degrees:Degrees.wav
+RECORD:departure:Departure.wav
+RECORD:departure runway:Departure runway.wav
+RECORD:dewpoint:Dewpoint.wav
+RECORD:DME:DME.wav
+RECORD:downward:Downward.wav
+RECORD:drifting:Drifting.wav
+RECORD:drizzle:Drizzle.wav
+RECORD:dust:Dust.wav
+RECORD:duststorm:Duststorm.wav
+RECORD:E:E.wav
+RECORD:expect:Expect.wav
+RECORD:F:F.wav
+RECORD:few:Few.wav
+RECORD:fog:Fog.wav
+RECORD:freezing:Freezing.wav
+RECORD:funnel clouds:Funnel Clouds.wav
+RECORD:G:G.wav
+RECORD:gusting to:Gusting to.wav
+RECORD:H:H.wav
+RECORD:hail:Hail.wav
+RECORD:haze:Haze.wav
+RECORD:heavy:Heavy.wav
+RECORD:hPa:hPa.wav
+RECORD:hundred:Hundred.wav
+RECORD:I:I.wav
+RECORD:ice:Ice.wav
+RECORD:ice crystals:Ice Crystals.wav
+RECORD:ice pellets:Ice Pellets.wav
+RECORD:icing:Icing.wav
+RECORD:ILS:ILS.wav
+RECORD:in the vicinity:In the Vicinity.wav
+RECORD:Info:Info.wav
+RECORD:J:J.wav
+RECORD:K:K.wav
+RECORD:kilometers:Kilometers.wav
+RECORD:L:L.wav
+RECORD:landing:Landing.wav
+RECORD:landing runway:Landing runway.wav
+RECORD:left:Left.wav
+RECORD:light:Light.wav
+RECORD:M:M.wav
+RECORD:m/s:Meters per second.wav
+RECORD:meter:Meter.wav
+RECORD:meters:Meters.wav
+RECORD:mile:Mile.wav
+RECORD:miles:Miles.wav
+RECORD:mist:Mist.wav
+RECORD:N:N.wav
+RECORD:NDB:NDB.wav
+RECORD:no change:No Change.wav
+RECORD:no significant change:NOSIG.wav
+RECORD:no significant clouds:No Significant Clouds.wav
+RECORD:no significant weather:No Significant Weather.wav
+RECORD:O:O.wav
+RECORD:overcast:Overcast.wav
+RECORD:P:P.wav
+RECORD:partial:Partial.wav
+RECORD:patches:Patches.wav
+RECORD:Q:Q.wav
+RECORD:QNH:QNH.wav
+RECORD:R:R.wav
+RECORD:rain:Rain.wav
+RECORD:recent:Recent.wav
+RECORD:right:Right.wav
+RECORD:RNAV:RNAV.wav
+RECORD:RNP:RNP.wav
+RECORD:runway:Runway.wav
+RECORD:RVR:RVR.wav
+RECORD:S:S.wav
+RECORD:sand:Sand.wav
+RECORD:sand whirls:Sand Whirls.wav
+RECORD:sandstorm:Sandstorm.wav
+RECORD:scattered:Scattered.wav
+RECORD:shallow:Shallow.wav
+RECORD:showers:Showers.wav
+RECORD:sky clear:Sky Clear.wav
+RECORD:sky condition:Sky Condition.wav
+RECORD:smoke:Smoke.wav
+RECORD:snow:Snow.wav
+RECORD:snow grains:Snow Grains.wav
+RECORD:snow pellets:Snow Pellets.wav
+RECORD:special:Special.wav
+RECORD:squalls:Squalls.wav
+RECORD:T:T.wav
+RECORD:temperature:Temperature.wav
+RECORD:thousand:Thousand.wav
+RECORD:thunderstorm:Thunderstorm.wav
+RECORD:towering cumulus:Towering Cumulus.wav
+RECORD:transition altitude:Transition Altitude.wav
+RECORD:transition level:Transition Level.wav
+RECORD:U:U.wav
+RECORD:unknown precipitation:Unknown Precipitation.wav
+RECORD:upward:Upward.wav
+RECORD:UTC:UTC.wav
+RECORD:V:V.wav
+RECORD:variable:Variable.wav
+RECORD:variable between:Variable between.wav
+RECORD:visibility:Visibility.wav
+RECORD:VOR:VOR.wav
+RECORD:W:W.wav
+RECORD:wind:Wind.wav
+RECORD:X:X.wav
+RECORD:Y:Y.wav
+RECORD:Z:Z.wav
+RECORD:ZBAA:ZBAA.wav
+RECORD:ZBSJ:ZBSJ.wav
+RECORD:ZGGG:ZGGG.wav
+RECORD:ZGNN:ZGNN.wav
+RECORD:ZGSZ:ZGSZ.wav
+RECORD:ZJHK:ZJHK.wav
+RECORD:ZJSY:ZJSY.wav
+RECORD:ZLXY:ZLXY.wav
+RECORD:ZPPP:ZPPP.wav
+RECORD:ZSAM:ZSAM.wav
+RECORD:ZSHC:ZSHC.wav
+RECORD:ZSJN:ZSJN.wav
+RECORD:ZSOF:ZSOF.wav
+RECORD:ZSPD:ZSPD.wav
+RECORD:ZSSH:ZSSH.wav
+RECORD:ZSSS:ZSSS.wav
+RECORD:ZUGY:ZUGY.wav
+RECORD:ZUUU:ZUUU.wav
+RECORD:ZYCC:ZYCC.wav

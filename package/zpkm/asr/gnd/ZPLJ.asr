@@ -1,0 +1,63 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZPKM.sct
+Free Text:ZPLJ\01:freetext
+Free Text:ZPLJ\02:freetext
+Free Text:ZPLJ\03:freetext
+Free Text:ZPLJ\04:freetext
+Free Text:ZPLJ\05:freetext
+Free Text:ZPLJ\06:freetext
+Free Text:ZPLJ\07:freetext
+Free Text:ZPLJ\08:freetext
+Free Text:ZPLJ\09:freetext
+Free Text:ZPLJ\10:freetext
+Free Text:ZPLJ\11:freetext
+Free Text:ZPLJ\12:freetext
+Free Text:ZPLJ\13:freetext
+Free Text:ZPLJ\14:freetext
+Free Text:ZPLJ\15:freetext
+Free Text:ZPLJ\16:freetext
+Free Text:ZPLJ\17:freetext
+Free Text:ZPLJ\18:freetext
+Free Text:ZPLJ\19:freetext
+Free Text:ZPLJ\A:freetext
+Free Text:ZPLJ\A:freetext
+Free Text:ZPLJ\A:freetext
+Free Text:ZPLJ\A:freetext
+Free Text:ZPLJ\A:freetext
+Free Text:ZPLJ\B:freetext
+Free Text:ZPLJ\C:freetext
+Free Text:ZPLJ\D:freetext
+Free Text:ZPLJ\E:freetext
+Geo:ZPLJ:
+Regions:ZPLJ:polygon
+Runways:ZPLJ SANYI 02-20:extended centerline 1
+Runways:ZPLJ SANYI 02-20:extended centerline 1 left base
+Runways:ZPLJ SANYI 02-20:extended centerline 1 left ticks
+Runways:ZPLJ SANYI 02-20:extended centerline 1 left vectoring
+Runways:ZPLJ SANYI 02-20:extended centerline 1 right base
+Runways:ZPLJ SANYI 02-20:extended centerline 1 right ticks
+Runways:ZPLJ SANYI 02-20:extended centerline 1 right vectoring
+Runways:ZPLJ SANYI 02-20:extended centerline 2
+Runways:ZPLJ SANYI 02-20:extended centerline 2 left base
+Runways:ZPLJ SANYI 02-20:extended centerline 2 left ticks
+Runways:ZPLJ SANYI 02-20:extended centerline 2 left vectoring
+Runways:ZPLJ SANYI 02-20:extended centerline 2 right base
+Runways:ZPLJ SANYI 02-20:extended centerline 2 right ticks
+Runways:ZPLJ SANYI 02-20:extended centerline 2 right vectoring
+Runways:ZPLJ SANYI 02-20:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:26.656647:100.206722:26.695714:100.292263

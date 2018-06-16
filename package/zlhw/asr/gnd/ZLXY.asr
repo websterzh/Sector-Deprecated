@@ -1,0 +1,127 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZLHW.sct
+Airports:ZLXY:symbol
+Free Text:ZLXY\3:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A:freetext
+Free Text:ZLXY\A1:freetext
+Free Text:ZLXY\A2:freetext
+Free Text:ZLXY\A3:freetext
+Free Text:ZLXY\A4:freetext
+Free Text:ZLXY\A5:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B:freetext
+Free Text:ZLXY\B1:freetext
+Free Text:ZLXY\B2:freetext
+Free Text:ZLXY\B3:freetext
+Free Text:ZLXY\B4:freetext
+Free Text:ZLXY\B5:freetext
+Free Text:ZLXY\B6:freetext
+Free Text:ZLXY\B7:freetext
+Free Text:ZLXY\B8:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C:freetext
+Free Text:ZLXY\C1:freetext
+Free Text:ZLXY\C2:freetext
+Free Text:ZLXY\C3:freetext
+Free Text:ZLXY\C4:freetext
+Free Text:ZLXY\C4:freetext
+Free Text:ZLXY\C5:freetext
+Free Text:ZLXY\C5:freetext
+Free Text:ZLXY\C6:freetext
+Free Text:ZLXY\C6:freetext
+Free Text:ZLXY\C7:freetext
+Free Text:ZLXY\C7:freetext
+Free Text:ZLXY\C8:freetext
+Free Text:ZLXY\C9:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D:freetext
+Free Text:ZLXY\D1:freetext
+Free Text:ZLXY\D2:freetext
+Free Text:ZLXY\D3:freetext
+Free Text:ZLXY\D4:freetext
+Free Text:ZLXY\D5:freetext
+Free Text:ZLXY\D6:freetext
+Free Text:ZLXY\D7:freetext
+Free Text:ZLXY\D8:freetext
+Free Text:ZLXY\G:freetext
+Free Text:ZLXY\G:freetext
+Free Text:ZLXY\G:freetext
+Free Text:ZLXY\G:freetext
+Free Text:ZLXY\G:freetext
+Free Text:ZLXY\G1:freetext
+Free Text:ZLXY\G2:freetext
+Free Text:ZLXY\G3:freetext
+Free Text:ZLXY\H:freetext
+Free Text:ZLXY\H:freetext
+Free Text:ZLXY\H:freetext
+Free Text:ZLXY\H:freetext
+Free Text:ZLXY\H:freetext
+Geo:ZLXY:
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 left base
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 left ticks
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 left vectoring
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 right base
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 right ticks
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 1 right vectoring
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 left base
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 left ticks
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 left vectoring
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 right base
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 right ticks
+Runways:ZLXY XIANYANG 05L-23R:extended centerline 2 right vectoring
+Runways:ZLXY XIANYANG 05L-23R:name
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 left base
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 left ticks
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 left vectoring
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 right base
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 right ticks
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 1 right vectoring
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 left base
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 left ticks
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 left vectoring
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 right base
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 right ticks
+Runways:ZLXY XIANYANG 05R-23L:extended centerline 2 right vectoring
+Runways:ZLXY XIANYANG 05R-23L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:34.412218:108.697319:34.467014:108.825840

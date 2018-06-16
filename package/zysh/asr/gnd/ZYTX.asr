@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZYSH.sct
+Airports:ZYTX:name
+Airports:ZYTX:symbol
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\A:freetext
+Free Text:ZYTX\B:freetext
+Free Text:ZYTX\D:freetext
+Free Text:ZYTX\E:freetext
+Free Text:ZYTX\F:freetext
+Free Text:ZYTX\G:freetext
+Free Text:ZYTX\H:freetext
+Free Text:ZYTX\J:freetext
+Free Text:ZYTX\K:freetext
+Geo:ZYTX:
+Runways:ZYTX TAOXIAN 06-24:centerline
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 left base
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 left ticks
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 left vectoring
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 right base
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 right ticks
+Runways:ZYTX TAOXIAN 06-24:extended centerline 1 right vectoring
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 left base
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 left ticks
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 left vectoring
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 right base
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 right ticks
+Runways:ZYTX TAOXIAN 06-24:extended centerline 2 right vectoring
+Runways:ZYTX TAOXIAN 06-24:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:41.623973:123.452562:41.651685:123.522464

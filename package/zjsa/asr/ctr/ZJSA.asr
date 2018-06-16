@@ -1,0 +1,134 @@
+DisplayTypeName:Eurocat Radar Display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZJSA.sct
+Airports:ZJHK:name
+Airports:ZJHK:symbol
+Airports:ZJSY:name
+Airports:ZJSY:symbol
+ARTCC low boundary:ZJHK:
+ARTCC low boundary:ZJSY:
+Fixes:A:name
+Fixes:A:symbol
+Fixes:ADKUN:name
+Fixes:ADKUN:symbol
+Fixes:AGEGI:name
+Fixes:AGEGI:symbol
+Fixes:AGPOR:name
+Fixes:AGPOR:symbol
+Fixes:ASSAD:name
+Fixes:ASSAD:symbol
+Fixes:ATALA:name
+Fixes:ATALA:symbol
+Fixes:BAOSH:name
+Fixes:BAOSH:symbol
+Fixes:BESVU:name
+Fixes:BESVU:symbol
+Fixes:BUNTA:name
+Fixes:BUNTA:symbol
+Fixes:DABUB:name
+Fixes:DABUB:symbol
+Fixes:DOMGO:name
+Fixes:DOMGO:symbol
+Fixes:DONDA:name
+Fixes:DONDA:symbol
+Fixes:DOSUT:name
+Fixes:DOSUT:symbol
+Fixes:EGEMU:name
+Fixes:EGEMU:symbol
+Fixes:ENSIX:name
+Fixes:ENSIX:symbol
+Fixes:EPKAL:name
+Fixes:EPKAL:symbol
+Fixes:EXOTO:name
+Fixes:EXOTO:symbol
+Fixes:GIVIL:name
+Fixes:GIVIL:symbol
+Fixes:IDLUS:name
+Fixes:IDLUS:symbol
+Fixes:IKELA:name
+Fixes:IKELA:symbol
+Fixes:ISBIG:name
+Fixes:ISBIG:symbol
+Fixes:ITBAM:name
+Fixes:ITBAM:symbol
+Fixes:KAGUK:name
+Fixes:KAGUK:symbol
+Fixes:LENKO:name
+Fixes:LENKO:symbol
+Fixes:LIDLU:name
+Fixes:LIDLU:symbol
+Fixes:MIGUG:name
+Fixes:MIGUG:symbol
+Fixes:MONBO:name
+Fixes:MONBO:symbol
+Fixes:MUKES:name
+Fixes:MUKES:symbol
+Fixes:RUNEG:name
+Fixes:RUNEG:symbol
+Fixes:SAGSU:name
+Fixes:SAGSU:symbol
+Fixes:SAMAS:name
+Fixes:SAMAS:symbol
+Fixes:SAVNO:name
+Fixes:SAVNO:symbol
+Fixes:URDIN:name
+Fixes:URDIN:symbol
+Fixes:VEGDO:name
+Fixes:VEGDO:symbol
+Fixes:XELOV:name
+Fixes:XELOV:symbol
+High airways:A1:line
+High airways:A202:line
+High airways:G221:line
+High airways:J195:line
+High airways:J196:line
+High airways:L642:line
+High airways:M771:line
+High airways:N892:line
+High airways:P901:line
+High airways:V12:line
+High airways:V13:line
+High airways:V41:line
+High airways:W169:line
+High airways:W170:line
+High airways:W171:line
+High airways:W605:line
+High airways:W70:line
+High airways:X163:line
+High airways:X164:line
+High airways:X165:line
+NDBs:AL:name
+NDBs:AL:symbol
+NDBs:H:name
+NDBs:H:symbol
+NDBs:K:name
+NDBs:K:symbol
+NDBs:P:name
+NDBs:P:symbol
+NDBs:WL:name
+NDBs:WL:symbol
+VORs:DBA:name
+VORs:DBA:symbol
+VORs:HUT:name
+VORs:HUT:symbol
+VORs:MLT:name
+VORs:MLT:symbol
+VORs:NYB:name
+VORs:NYB:symbol
+VORs:SYX:name
+VORs:SYX:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:11.431932:97.914788:24.927401:124.710079

@@ -1,0 +1,85 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZYSH.sct
+Airports:ZYCC:name
+Airports:ZYCC:symbol
+Free Text:ZYCC\101:freetext
+Free Text:ZYCC\102:freetext
+Free Text:ZYCC\103:freetext
+Free Text:ZYCC\104:freetext
+Free Text:ZYCC\105:freetext
+Free Text:ZYCC\106:freetext
+Free Text:ZYCC\107:freetext
+Free Text:ZYCC\108:freetext
+Free Text:ZYCC\109:freetext
+Free Text:ZYCC\110:freetext
+Free Text:ZYCC\111:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A:freetext
+Free Text:ZYCC\A08:freetext
+Free Text:ZYCC\A09:freetext
+Free Text:ZYCC\A10:freetext
+Free Text:ZYCC\A11:freetext
+Free Text:ZYCC\A12:freetext
+Free Text:ZYCC\A13:freetext
+Free Text:ZYCC\A14:freetext
+Free Text:ZYCC\A15:freetext
+Free Text:ZYCC\A16:freetext
+Free Text:ZYCC\A17:freetext
+Free Text:ZYCC\A18:freetext
+Free Text:ZYCC\A19:freetext
+Free Text:ZYCC\A20:freetext
+Free Text:ZYCC\A21:freetext
+Free Text:ZYCC\A22:freetext
+Free Text:ZYCC\A23:freetext
+Free Text:ZYCC\A24:freetext
+Free Text:ZYCC\A25:freetext
+Free Text:ZYCC\A26:freetext
+Free Text:ZYCC\A27:freetext
+Free Text:ZYCC\A28:freetext
+Free Text:ZYCC\B:freetext
+Free Text:ZYCC\C:freetext
+Free Text:ZYCC\D:freetext
+Free Text:ZYCC\D:freetext
+Free Text:ZYCC\E:freetext
+Free Text:ZYCC\E:freetext
+Free Text:ZYCC\F:freetext
+Free Text:ZYCC\G:freetext
+Geo:ZYCC:
+Regions:ZYCC:polygon
+Runways:ZYCC LONGJIA 06-24:centerline
+Runways:ZYCC LONGJIA 06-24:extended centerline 1
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 left base
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 left ticks
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 left vectoring
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 right base
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 right ticks
+Runways:ZYCC LONGJIA 06-24:extended centerline 1 right vectoring
+Runways:ZYCC LONGJIA 06-24:extended centerline 2
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 left base
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 left ticks
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 left vectoring
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 right base
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 right ticks
+Runways:ZYCC LONGJIA 06-24:extended centerline 2 right vectoring
+Runways:ZYCC LONGJIA 06-24:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:43.982191:125.654110:44.009903:125.724012
+PLUGIN:vSMR:Airport:ZYCC

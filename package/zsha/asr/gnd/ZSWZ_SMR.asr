@@ -1,0 +1,66 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Free Text:ZSWZ\1:freetext
+Free Text:ZSWZ\10:freetext
+Free Text:ZSWZ\11:freetext
+Free Text:ZSWZ\12:freetext
+Free Text:ZSWZ\13:freetext
+Free Text:ZSWZ\14:freetext
+Free Text:ZSWZ\15:freetext
+Free Text:ZSWZ\16:freetext
+Free Text:ZSWZ\17:freetext
+Free Text:ZSWZ\18:freetext
+Free Text:ZSWZ\19:freetext
+Free Text:ZSWZ\2:freetext
+Free Text:ZSWZ\20:freetext
+Free Text:ZSWZ\21:freetext
+Free Text:ZSWZ\22:freetext
+Free Text:ZSWZ\23:freetext
+Free Text:ZSWZ\23A:freetext
+Free Text:ZSWZ\24:freetext
+Free Text:ZSWZ\25:freetext
+Free Text:ZSWZ\3:freetext
+Free Text:ZSWZ\4:freetext
+Free Text:ZSWZ\5:freetext
+Free Text:ZSWZ\6:freetext
+Free Text:ZSWZ\7:freetext
+Free Text:ZSWZ\8:freetext
+Free Text:ZSWZ\9:freetext
+Free Text:ZSWZ\Y1:freetext
+Free Text:ZSWZ\Y2:freetext
+Free Text:ZSWZ\Y3:freetext
+Free Text:ZSWZ\Y4:freetext
+Geo:ZSWZ_Closed:
+Regions:ZSWZ:polygon
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 left base
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 left ticks
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 left vectoring
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 right base
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 right ticks
+Runways:ZSWZ WENZHOU 03-21:extended centerline 1 right vectoring
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 left base
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 left ticks
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 left vectoring
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 right base
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 right ticks
+Runways:ZSWZ WENZHOU 03-21:extended centerline 2 right vectoring
+Runways:ZSWZ WENZHOU 03-21:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:27.886969:120.805696:27.930458:120.901482
+PLUGIN:vSMR:Airport:ZSWZ

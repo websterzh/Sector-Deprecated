@@ -1,0 +1,81 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZBPE.sct
+Airports:ZBSJ:name
+Airports:ZBSJ:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016  www.vatprc.net:freetext
+Free Text:ZBSJ\1:freetext
+Free Text:ZBSJ\10:freetext
+Free Text:ZBSJ\11:freetext
+Free Text:ZBSJ\12:freetext
+Free Text:ZBSJ\13:freetext
+Free Text:ZBSJ\14:freetext
+Free Text:ZBSJ\15:freetext
+Free Text:ZBSJ\17:freetext
+Free Text:ZBSJ\18:freetext
+Free Text:ZBSJ\19:freetext
+Free Text:ZBSJ\2:freetext
+Free Text:ZBSJ\20:freetext
+Free Text:ZBSJ\21:freetext
+Free Text:ZBSJ\22:freetext
+Free Text:ZBSJ\23:freetext
+Free Text:ZBSJ\24:freetext
+Free Text:ZBSJ\25:freetext
+Free Text:ZBSJ\26:freetext
+Free Text:ZBSJ\27:freetext
+Free Text:ZBSJ\28:freetext
+Free Text:ZBSJ\29:freetext
+Free Text:ZBSJ\3:freetext
+Free Text:ZBSJ\30:freetext
+Free Text:ZBSJ\31:freetext
+Free Text:ZBSJ\32:freetext
+Free Text:ZBSJ\4:freetext
+Free Text:ZBSJ\5:freetext
+Free Text:ZBSJ\6:freetext
+Free Text:ZBSJ\7:freetext
+Free Text:ZBSJ\8:freetext
+Free Text:ZBSJ\9:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\A:freetext
+Free Text:ZBSJ\D:freetext
+Free Text:ZBSJ\E:freetext
+Free Text:ZBSJ\E:freetext
+Free Text:ZBSJ\F:freetext
+Free Text:ZBSJ\F:freetext
+Free Text:ZBSJ\G:freetext
+Free Text:ZBSJ\H:freetext
+Regions:ZBSJ:polygon
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 left base
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 left ticks
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 left vectoring
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 right base
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 right ticks
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 1 right vectoring
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 left base
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 left ticks
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 left vectoring
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 right base
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 right ticks
+Runways:ZBSJ ZHENGDING 15-33:extended centerline 2 right vectoring
+Runways:ZBSJ ZHENGDING 15-33:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:38.263553:114.657722:38.296943:114.739976

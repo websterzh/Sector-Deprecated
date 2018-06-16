@@ -1,0 +1,221 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZPKM.sct
+Free Text:Sectors\All Right Reserved VATPRC@2017 www.vatprc.net:freetext
+Free Text:ZPPP\101:freetext
+Free Text:ZPPP\102:freetext
+Free Text:ZPPP\103:freetext
+Free Text:ZPPP\104:freetext
+Free Text:ZPPP\105:freetext
+Free Text:ZPPP\106:freetext
+Free Text:ZPPP\107:freetext
+Free Text:ZPPP\108:freetext
+Free Text:ZPPP\109:freetext
+Free Text:ZPPP\110:freetext
+Free Text:ZPPP\111:freetext
+Free Text:ZPPP\112:freetext
+Free Text:ZPPP\113:freetext
+Free Text:ZPPP\114:freetext
+Free Text:ZPPP\115:freetext
+Free Text:ZPPP\116:freetext
+Free Text:ZPPP\117:freetext
+Free Text:ZPPP\118:freetext
+Free Text:ZPPP\119:freetext
+Free Text:ZPPP\120:freetext
+Free Text:ZPPP\121:freetext
+Free Text:ZPPP\122:freetext
+Free Text:ZPPP\123:freetext
+Free Text:ZPPP\124:freetext
+Free Text:ZPPP\125:freetext
+Free Text:ZPPP\126:freetext
+Free Text:ZPPP\127:freetext
+Free Text:ZPPP\128:freetext
+Free Text:ZPPP\129:freetext
+Free Text:ZPPP\130:freetext
+Free Text:ZPPP\131:freetext
+Free Text:ZPPP\132:freetext
+Free Text:ZPPP\133:freetext
+Free Text:ZPPP\134:freetext
+Free Text:ZPPP\135:freetext
+Free Text:ZPPP\136:freetext
+Free Text:ZPPP\137:freetext
+Free Text:ZPPP\138:freetext
+Free Text:ZPPP\139:freetext
+Free Text:ZPPP\140:freetext
+Free Text:ZPPP\141:freetext
+Free Text:ZPPP\142:freetext
+Free Text:ZPPP\143:freetext
+Free Text:ZPPP\144:freetext
+Free Text:ZPPP\145:freetext
+Free Text:ZPPP\146:freetext
+Free Text:ZPPP\147:freetext
+Free Text:ZPPP\148:freetext
+Free Text:ZPPP\149:freetext
+Free Text:ZPPP\150:freetext
+Free Text:ZPPP\151:freetext
+Free Text:ZPPP\152:freetext
+Free Text:ZPPP\153:freetext
+Free Text:ZPPP\154:freetext
+Free Text:ZPPP\155:freetext
+Free Text:ZPPP\156:freetext
+Free Text:ZPPP\157:freetext
+Free Text:ZPPP\158:freetext
+Free Text:ZPPP\159:freetext
+Free Text:ZPPP\160:freetext
+Free Text:ZPPP\161:freetext
+Free Text:ZPPP\162:freetext
+Free Text:ZPPP\163:freetext
+Free Text:ZPPP\164:freetext
+Free Text:ZPPP\165:freetext
+Free Text:ZPPP\166:freetext
+Free Text:ZPPP\167:freetext
+Free Text:ZPPP\168:freetext
+Free Text:ZPPP\311:freetext
+Free Text:ZPPP\312:freetext
+Free Text:ZPPP\313:freetext
+Free Text:ZPPP\314:freetext
+Free Text:ZPPP\315:freetext
+Free Text:ZPPP\316:freetext
+Free Text:ZPPP\317:freetext
+Free Text:ZPPP\318:freetext
+Free Text:ZPPP\321:freetext
+Free Text:ZPPP\322:freetext
+Free Text:ZPPP\323:freetext
+Free Text:ZPPP\324:freetext
+Free Text:ZPPP\325:freetext
+Free Text:ZPPP\326:freetext
+Free Text:ZPPP\327:freetext
+Free Text:ZPPP\328:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C:freetext
+Free Text:ZPPP\C10:freetext
+Free Text:ZPPP\C10:freetext
+Free Text:ZPPP\C2:freetext
+Free Text:ZPPP\C2:freetext
+Free Text:ZPPP\C3:freetext
+Free Text:ZPPP\C4:freetext
+Free Text:ZPPP\C5:freetext
+Free Text:ZPPP\C6:freetext
+Free Text:ZPPP\C7:freetext
+Free Text:ZPPP\C8:freetext
+Free Text:ZPPP\C9:freetext
+Free Text:ZPPP\C9:freetext
+Free Text:ZPPP\D:freetext
+Free Text:ZPPP\D:freetext
+Free Text:ZPPP\D:freetext
+Free Text:ZPPP\D:freetext
+Free Text:ZPPP\D:freetext
+Free Text:ZPPP\D3:freetext
+Free Text:ZPPP\D4:freetext
+Free Text:ZPPP\D7:freetext
+Free Text:ZPPP\D8:freetext
+Free Text:ZPPP\D9:freetext
+Free Text:ZPPP\E:freetext
+Free Text:ZPPP\E:freetext
+Free Text:ZPPP\E:freetext
+Free Text:ZPPP\E3:freetext
+Free Text:ZPPP\E4:freetext
+Free Text:ZPPP\E5:freetext
+Free Text:ZPPP\E6:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F:freetext
+Free Text:ZPPP\F1:freetext
+Free Text:ZPPP\F10:freetext
+Free Text:ZPPP\F10:freetext
+Free Text:ZPPP\F2:freetext
+Free Text:ZPPP\F3:freetext
+Free Text:ZPPP\F4:freetext
+Free Text:ZPPP\F5:freetext
+Free Text:ZPPP\F6:freetext
+Free Text:ZPPP\F7:freetext
+Free Text:ZPPP\F8:freetext
+Free Text:ZPPP\F9:freetext
+Free Text:ZPPP\F9:freetext
+Free Text:ZPPP\H1:freetext
+Free Text:ZPPP\H2:freetext
+Free Text:ZPPP\H3:freetext
+Free Text:ZPPP\H4:freetext
+Free Text:ZPPP\J:freetext
+Free Text:ZPPP\J:freetext
+Free Text:ZPPP\Q:freetext
+Free Text:ZPPP\Q:freetext
+Free Text:ZPPP\Q:freetext
+Free Text:ZPPP\Q:freetext
+Free Text:ZPPP\Q:freetext
+Free Text:ZPPP\R:freetext
+Free Text:ZPPP\R:freetext
+Free Text:ZPPP\R:freetext
+Free Text:ZPPP\R:freetext
+Free Text:ZPPP\R:freetext
+Free Text:ZPPP\S:freetext
+Free Text:ZPPP\S:freetext
+Free Text:ZPPP\S:freetext
+Free Text:ZPPP\S:freetext
+Free Text:ZPPP\S:freetext
+Free Text:ZPPP\T21:freetext
+Free Text:ZPPP\T21:freetext
+Free Text:ZPPP\T22:freetext
+Free Text:ZPPP\T22:freetext
+Free Text:ZPPP\T23:freetext
+Free Text:ZPPP\T24:freetext
+Free Text:ZPPP\T24:freetext
+Free Text:ZPPP\T25:freetext
+Free Text:ZPPP\T25:freetext
+Free Text:ZPPP\T26:freetext
+Free Text:ZPPP\U:freetext
+Free Text:ZPPP\W:freetext
+Regions:ZPPP:polygon
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 left base
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 left ticks
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 left vectoring
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 right base
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 right ticks
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 1 right vectoring
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 left base
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 left ticks
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 left vectoring
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 right base
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 right ticks
+Runways:ZPPP CHANGSHUI 03-21:extended centerline 2 right vectoring
+Runways:ZPPP CHANGSHUI 03-21:name
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 left base
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 left ticks
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 left vectoring
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 right base
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 right ticks
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 1 right vectoring
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 left base
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 left ticks
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 left vectoring
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 right base
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 right ticks
+Runways:ZPPP CHANGSHUI 04-22:extended centerline 2 right vectoring
+Runways:ZPPP CHANGSHUI 04-22:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:25.085345:102.888683:25.134178:102.995610

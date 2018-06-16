@@ -1,0 +1,83 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Free Text:ZSNB\1:freetext
+Free Text:ZSNB\10:freetext
+Free Text:ZSNB\11:freetext
+Free Text:ZSNB\12:freetext
+Free Text:ZSNB\13:freetext
+Free Text:ZSNB\14:freetext
+Free Text:ZSNB\15:freetext
+Free Text:ZSNB\16:freetext
+Free Text:ZSNB\17:freetext
+Free Text:ZSNB\17A:freetext
+Free Text:ZSNB\17B:freetext
+Free Text:ZSNB\17C:freetext
+Free Text:ZSNB\18:freetext
+Free Text:ZSNB\19:freetext
+Free Text:ZSNB\2:freetext
+Free Text:ZSNB\20:freetext
+Free Text:ZSNB\21:freetext
+Free Text:ZSNB\22:freetext
+Free Text:ZSNB\23:freetext
+Free Text:ZSNB\24:freetext
+Free Text:ZSNB\25:freetext
+Free Text:ZSNB\26:freetext
+Free Text:ZSNB\3:freetext
+Free Text:ZSNB\4:freetext
+Free Text:ZSNB\5:freetext
+Free Text:ZSNB\6:freetext
+Free Text:ZSNB\7:freetext
+Free Text:ZSNB\8:freetext
+Free Text:ZSNB\9:freetext
+Free Text:ZSNB\A:freetext
+Free Text:ZSNB\A:freetext
+Free Text:ZSNB\A:freetext
+Free Text:ZSNB\A:freetext
+Free Text:ZSNB\A:freetext
+Free Text:ZSNB\B:freetext
+Free Text:ZSNB\C:freetext
+Free Text:ZSNB\D:freetext
+Free Text:ZSNB\E:freetext
+Free Text:ZSNB\E:freetext
+Free Text:ZSNB\F:freetext
+Free Text:ZSNB\F:freetext
+Free Text:ZSNB\G:freetext
+Free Text:ZSNB\T1:freetext
+Free Text:ZSNB\T1:freetext
+Free Text:ZSNB\T2:freetext
+Free Text:ZSNB\T3:freetext
+Free Text:ZSNB\Under Construction:freetext
+Geo:ZSNB:
+Regions:ZSNB:polygon
+Runways:ZSNB LISHE 13-31:extended centerline 1
+Runways:ZSNB LISHE 13-31:extended centerline 1 left base
+Runways:ZSNB LISHE 13-31:extended centerline 1 left ticks
+Runways:ZSNB LISHE 13-31:extended centerline 1 left vectoring
+Runways:ZSNB LISHE 13-31:extended centerline 1 right base
+Runways:ZSNB LISHE 13-31:extended centerline 1 right ticks
+Runways:ZSNB LISHE 13-31:extended centerline 1 right vectoring
+Runways:ZSNB LISHE 13-31:extended centerline 2
+Runways:ZSNB LISHE 13-31:extended centerline 2 left base
+Runways:ZSNB LISHE 13-31:extended centerline 2 left ticks
+Runways:ZSNB LISHE 13-31:extended centerline 2 left vectoring
+Runways:ZSNB LISHE 13-31:extended centerline 2 right base
+Runways:ZSNB LISHE 13-31:extended centerline 2 right ticks
+Runways:ZSNB LISHE 13-31:extended centerline 2 right vectoring
+Runways:ZSNB LISHE 13-31:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:29.812750:121.432681:29.840583:121.493984
+PLUGIN:vSMR:Airport:ZSNB

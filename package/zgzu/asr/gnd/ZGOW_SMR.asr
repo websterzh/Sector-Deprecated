@@ -1,0 +1,89 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGOW:name
+Airports:ZGOW:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGOW\108:freetext
+Free Text:ZGOW\109:freetext
+Free Text:ZGOW\110:freetext
+Free Text:ZGOW\111:freetext
+Free Text:ZGOW\112:freetext
+Free Text:ZGOW\113:freetext
+Free Text:ZGOW\114:freetext
+Free Text:ZGOW\115:freetext
+Free Text:ZGOW\116:freetext
+Free Text:ZGOW\117:freetext
+Free Text:ZGOW\118:freetext
+Free Text:ZGOW\119:freetext
+Free Text:ZGOW\120:freetext
+Free Text:ZGOW\121:freetext
+Free Text:ZGOW\122:freetext
+Free Text:ZGOW\123:freetext
+Free Text:ZGOW\124:freetext
+Free Text:ZGOW\201:freetext
+Free Text:ZGOW\202:freetext
+Free Text:ZGOW\203:freetext
+Free Text:ZGOW\204:freetext
+Free Text:ZGOW\601:freetext
+Free Text:ZGOW\602:freetext
+Free Text:ZGOW\603:freetext
+Free Text:ZGOW\604:freetext
+Free Text:ZGOW\605:freetext
+Free Text:ZGOW\A:freetext
+Free Text:ZGOW\A:freetext
+Free Text:ZGOW\A:freetext
+Free Text:ZGOW\A:freetext
+Free Text:ZGOW\A:freetext
+Free Text:ZGOW\A1:freetext
+Free Text:ZGOW\A1:freetext
+Free Text:ZGOW\A2:freetext
+Free Text:ZGOW\B:freetext
+Free Text:ZGOW\B:freetext
+Free Text:ZGOW\B:freetext
+Free Text:ZGOW\E:freetext
+Free Text:ZGOW\K:freetext
+Free Text:ZGOW\K:freetext
+Free Text:ZGOW\L:freetext
+Free Text:ZGOW\L:freetext
+Free Text:ZGOW\M:freetext
+Free Text:ZGOW\M:freetext
+Free Text:ZGOW\N:freetext
+Free Text:ZGOW\N:freetext
+Free Text:ZGOW\T1:freetext
+Free Text:ZGOW\T1:freetext
+Free Text:ZGOW\T2:freetext
+Free Text:ZGOW\T3:freetext
+Geo:ZGOW:
+Regions:ZGOW:polygon
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 left base
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 left ticks
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 left vectoring
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 right base
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 right ticks
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 1 right vectoring
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 left base
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 left ticks
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 left vectoring
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 right base
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 right ticks
+Runways:ZGOW CHAOSHAN 04-22:extended centerline 2 right vectoring
+Runways:ZGOW CHAOSHAN 04-22:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:23.535994:116.475974:23.566018:116.531487
+PLUGIN:vSMR:Airport:ZGOW

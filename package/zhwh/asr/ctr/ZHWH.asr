@@ -1,0 +1,156 @@
+DisplayTypeName:Eurocat Radar Display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZHWH.sct
+Airports:ZHCC:name
+Airports:ZHCC:symbol
+Airports:ZHES:name
+Airports:ZHES:symbol
+Airports:ZHHH:name
+Airports:ZHHH:symbol
+Airports:ZHSS:name
+Airports:ZHSS:symbol
+Airports:ZHYC:name
+Airports:ZHYC:symbol
+ARTCC low boundary:ZHCC:
+ARTCC low boundary:ZHHH:
+Fixes:AKOMA:name
+Fixes:AKOMA:symbol
+Fixes:BIVIP:name
+Fixes:BIVIP:symbol
+Fixes:DAPRO:name
+Fixes:DAPRO:symbol
+Fixes:DUBAG:name
+Fixes:DUBAG:symbol
+Fixes:ESDOS:name
+Fixes:ESDOS:symbol
+Fixes:GOLAK:name
+Fixes:GOLAK:symbol
+Fixes:GOSMA:name
+Fixes:GOSMA:symbol
+Fixes:GUGAM:name
+Fixes:GUGAM:symbol
+Fixes:GULEK:name
+Fixes:GULEK:symbol
+Fixes:IDULA:name
+Fixes:IDULA:symbol
+Fixes:IGPAR:name
+Fixes:IGPAR:symbol
+Fixes:IKUBA:name
+Fixes:IKUBA:symbol
+Fixes:KALMU:name
+Fixes:KALMU:symbol
+Fixes:KAMDA:name
+Fixes:KAMDA:symbol
+Fixes:LAPEN:name
+Fixes:LAPEN:symbol
+Fixes:LEKUB:name
+Fixes:LEKUB:symbol
+Fixes:LOTMO:name
+Fixes:LOTMO:symbol
+Fixes:MIDOX:name
+Fixes:MIDOX:symbol
+Fixes:NOPIN:name
+Fixes:NOPIN:symbol
+Fixes:OBLIK:name
+Fixes:OBLIK:symbol
+Fixes:OKTUV:name
+Fixes:OKTUV:symbol
+Fixes:PADNO:name
+Fixes:PADNO:symbol
+Fixes:SAGUD:name
+Fixes:SAGUD:symbol
+Fixes:SUKTO:name
+Fixes:SUKTO:symbol
+Fixes:TAMIX:name
+Fixes:TAMIX:symbol
+Fixes:TULMU:name
+Fixes:TULMU:symbol
+Fixes:UPDIV:name
+Fixes:UPDIV:symbol
+High airways:A461:line
+High airways:A581:line
+High airways:B208:line
+High airways:B213:line
+High airways:R343:line
+High airways:V33:line
+High airways:V38:line
+High airways:V54:line
+High airways:W105:line
+High airways:W128:line
+High airways:W129:line
+High airways:W139:line
+High airways:W141:line
+High airways:W151:line
+High airways:W4:line
+High airways:W50:line
+High airways:W517:line
+High airways:W518:line
+High airways:W519:line
+High airways:W520:line
+High airways:W594:line
+High airways:W595:line
+High airways:W596:line
+High airways:W608:line
+High airways:W612:line
+High airways:W88:line
+NDBs:A:name
+NDBs:A:symbol
+NDBs:F:name
+NDBs:F:symbol
+NDBs:HG:name
+NDBs:HG:symbol
+NDBs:J:name
+NDBs:J:symbol
+NDBs:JA:name
+NDBs:JA:symbol
+VORs:CGO:name
+VORs:CGO:symbol
+VORs:DCD:name
+VORs:DCD:symbol
+VORs:DHB:name
+VORs:DHB:symbol
+VORs:DHP:name
+VORs:DHP:symbol
+VORs:DWS:name
+VORs:DWS:symbol
+VORs:DZY:name
+VORs:DZY:symbol
+VORs:ENH:name
+VORs:ENH:symbol
+VORs:FYG:name
+VORs:FYG:symbol
+VORs:HOK:name
+VORs:HOK:symbol
+VORs:LIN:name
+VORs:LIN:symbol
+VORs:LKO:name
+VORs:LKO:symbol
+VORs:WHA:name
+VORs:WHA:symbol
+VORs:WTM:name
+VORs:WTM:symbol
+VORs:WXI:name
+VORs:WXI:symbol
+VORs:XSH:name
+VORs:XSH:symbol
+VORs:YCE:name
+VORs:YCE:symbol
+VORs:YIH:name
+VORs:YIH:symbol
+VORs:ZHO:name
+VORs:ZHO:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:24.398083:98.236377:39.021000:130.848152

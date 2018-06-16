@@ -1,0 +1,46 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZLHW.sct
+Airports:ZLIC:symbol
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\A:freetext
+Free Text:ZLIC\C:freetext
+Free Text:ZLIC\C:freetext
+Free Text:ZLIC\D:freetext
+Free Text:ZLIC\D:freetext
+Free Text:ZLIC\E:freetext
+Geo:ZLIC:
+Runways:ZLIC HEDONG 03-21:extended centerline 1
+Runways:ZLIC HEDONG 03-21:extended centerline 1 left base
+Runways:ZLIC HEDONG 03-21:extended centerline 1 left ticks
+Runways:ZLIC HEDONG 03-21:extended centerline 1 left vectoring
+Runways:ZLIC HEDONG 03-21:extended centerline 1 right base
+Runways:ZLIC HEDONG 03-21:extended centerline 1 right ticks
+Runways:ZLIC HEDONG 03-21:extended centerline 1 right vectoring
+Runways:ZLIC HEDONG 03-21:extended centerline 2
+Runways:ZLIC HEDONG 03-21:extended centerline 2 left base
+Runways:ZLIC HEDONG 03-21:extended centerline 2 left ticks
+Runways:ZLIC HEDONG 03-21:extended centerline 2 left vectoring
+Runways:ZLIC HEDONG 03-21:extended centerline 2 right base
+Runways:ZLIC HEDONG 03-21:extended centerline 2 right ticks
+Runways:ZLIC HEDONG 03-21:extended centerline 2 right vectoring
+Runways:ZLIC HEDONG 03-21:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:38.299087:106.342416:38.342923:106.445233

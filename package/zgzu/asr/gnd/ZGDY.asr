@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGDY:name
+Airports:ZGDY:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\A:freetext
+Free Text:ZGDY\B:freetext
+Free Text:ZGDY\F:freetext
+Free Text:ZGDY\G:freetext
+Free Text:ZGDY\H:freetext
+Free Text:ZGDY\J:freetext
+Geo:ZGDY:
+Runways:ZGDY HEHUA 08-26:extended centerline 1
+Runways:ZGDY HEHUA 08-26:extended centerline 1 left base
+Runways:ZGDY HEHUA 08-26:extended centerline 1 left ticks
+Runways:ZGDY HEHUA 08-26:extended centerline 1 left vectoring
+Runways:ZGDY HEHUA 08-26:extended centerline 1 right base
+Runways:ZGDY HEHUA 08-26:extended centerline 1 right ticks
+Runways:ZGDY HEHUA 08-26:extended centerline 1 right vectoring
+Runways:ZGDY HEHUA 08-26:extended centerline 2
+Runways:ZGDY HEHUA 08-26:extended centerline 2 left base
+Runways:ZGDY HEHUA 08-26:extended centerline 2 left ticks
+Runways:ZGDY HEHUA 08-26:extended centerline 2 left vectoring
+Runways:ZGDY HEHUA 08-26:extended centerline 2 right base
+Runways:ZGDY HEHUA 08-26:extended centerline 2 right ticks
+Runways:ZGDY HEHUA 08-26:extended centerline 2 right vectoring
+Runways:ZGDY HEHUA 08-26:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:29.094941:110.424360:29.114157:110.463827

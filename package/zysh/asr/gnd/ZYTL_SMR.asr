@@ -1,0 +1,113 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZYSH.sct
+Airports:ZYTL:name
+Airports:ZYTL:symbol
+Free Text:ZYTL\101:freetext
+Free Text:ZYTL\102:freetext
+Free Text:ZYTL\103:freetext
+Free Text:ZYTL\104:freetext
+Free Text:ZYTL\105:freetext
+Free Text:ZYTL\106:freetext
+Free Text:ZYTL\11:freetext
+Free Text:ZYTL\12:freetext
+Free Text:ZYTL\127:freetext
+Free Text:ZYTL\128:freetext
+Free Text:ZYTL\129:freetext
+Free Text:ZYTL\13:freetext
+Free Text:ZYTL\130:freetext
+Free Text:ZYTL\131:freetext
+Free Text:ZYTL\132:freetext
+Free Text:ZYTL\133:freetext
+Free Text:ZYTL\14:freetext
+Free Text:ZYTL\145:freetext
+Free Text:ZYTL\146:freetext
+Free Text:ZYTL\147:freetext
+Free Text:ZYTL\15:freetext
+Free Text:ZYTL\16:freetext
+Free Text:ZYTL\17:freetext
+Free Text:ZYTL\18:freetext
+Free Text:ZYTL\19:freetext
+Free Text:ZYTL\20:freetext
+Free Text:ZYTL\201:freetext
+Free Text:ZYTL\202:freetext
+Free Text:ZYTL\203:freetext
+Free Text:ZYTL\204:freetext
+Free Text:ZYTL\205:freetext
+Free Text:ZYTL\206:freetext
+Free Text:ZYTL\207:freetext
+Free Text:ZYTL\208:freetext
+Free Text:ZYTL\209:freetext
+Free Text:ZYTL\21:freetext
+Free Text:ZYTL\210:freetext
+Free Text:ZYTL\211:freetext
+Free Text:ZYTL\212:freetext
+Free Text:ZYTL\212R:freetext
+Free Text:ZYTL\213:freetext
+Free Text:ZYTL\214:freetext
+Free Text:ZYTL\214L:freetext
+Free Text:ZYTL\215:freetext
+Free Text:ZYTL\216:freetext
+Free Text:ZYTL\217:freetext
+Free Text:ZYTL\218:freetext
+Free Text:ZYTL\219:freetext
+Free Text:ZYTL\22:freetext
+Free Text:ZYTL\220:freetext
+Free Text:ZYTL\23:freetext
+Free Text:ZYTL\24:freetext
+Free Text:ZYTL\25:freetext
+Free Text:ZYTL\26:freetext
+Free Text:ZYTL\27:freetext
+Free Text:ZYTL\27L:freetext
+Free Text:ZYTL\27R:freetext
+Free Text:ZYTL\28:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A1:freetext
+Free Text:ZYTL\A2:freetext
+Free Text:ZYTL\B:freetext
+Free Text:ZYTL\C:freetext
+Free Text:ZYTL\Closed:freetext
+Free Text:ZYTL\Closed:freetext
+Free Text:ZYTL\Closed:freetext
+Free Text:ZYTL\D:freetext
+Free Text:ZYTL\E:freetext
+Free Text:ZYTL\Helicopter:freetext
+Free Text:ZYTL\P1:freetext
+Free Text:ZYTL\P2:freetext
+Geo:ZYTL:
+Regions:ZYTL:polygon
+Runways:ZYTL ZHOUSHUIZI 10-28:centerline
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 left base
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 left ticks
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 left vectoring
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 right base
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 right ticks
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 1 right vectoring
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 left base
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 left ticks
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 left vectoring
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 right base
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 right ticks
+Runways:ZYTL ZHOUSHUIZI 10-28:extended centerline 2 right vectoring
+Runways:ZYTL ZHOUSHUIZI 10-28:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:38.953700:121.509225:38.975967:121.565391
+PLUGIN:vSMR:Airport:ZYTL

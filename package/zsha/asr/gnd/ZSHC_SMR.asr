@@ -1,0 +1,236 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZSHC\101:freetext
+Free Text:ZSHC\102:freetext
+Free Text:ZSHC\103:freetext
+Free Text:ZSHC\104:freetext
+Free Text:ZSHC\105:freetext
+Free Text:ZSHC\106:freetext
+Free Text:ZSHC\106A:freetext
+Free Text:ZSHC\107:freetext
+Free Text:ZSHC\108:freetext
+Free Text:ZSHC\108A:freetext
+Free Text:ZSHC\201:freetext
+Free Text:ZSHC\201L:freetext
+Free Text:ZSHC\201R:freetext
+Free Text:ZSHC\202:freetext
+Free Text:ZSHC\203:freetext
+Free Text:ZSHC\203L:freetext
+Free Text:ZSHC\203R:freetext
+Free Text:ZSHC\206:freetext
+Free Text:ZSHC\207:freetext
+Free Text:ZSHC\208:freetext
+Free Text:ZSHC\209:freetext
+Free Text:ZSHC\210:freetext
+Free Text:ZSHC\211:freetext
+Free Text:ZSHC\212:freetext
+Free Text:ZSHC\213:freetext
+Free Text:ZSHC\214:freetext
+Free Text:ZSHC\215:freetext
+Free Text:ZSHC\216:freetext
+Free Text:ZSHC\217:freetext
+Free Text:ZSHC\218:freetext
+Free Text:ZSHC\301:freetext
+Free Text:ZSHC\302:freetext
+Free Text:ZSHC\303:freetext
+Free Text:ZSHC\304:freetext
+Free Text:ZSHC\305:freetext
+Free Text:ZSHC\306:freetext
+Free Text:ZSHC\307:freetext
+Free Text:ZSHC\308:freetext
+Free Text:ZSHC\309:freetext
+Free Text:ZSHC\310:freetext
+Free Text:ZSHC\311:freetext
+Free Text:ZSHC\312:freetext
+Free Text:ZSHC\313:freetext
+Free Text:ZSHC\314:freetext
+Free Text:ZSHC\315:freetext
+Free Text:ZSHC\316:freetext
+Free Text:ZSHC\317:freetext
+Free Text:ZSHC\318:freetext
+Free Text:ZSHC\319:freetext
+Free Text:ZSHC\32:freetext
+Free Text:ZSHC\320:freetext
+Free Text:ZSHC\321:freetext
+Free Text:ZSHC\322:freetext
+Free Text:ZSHC\323:freetext
+Free Text:ZSHC\324:freetext
+Free Text:ZSHC\325:freetext
+Free Text:ZSHC\326:freetext
+Free Text:ZSHC\327:freetext
+Free Text:ZSHC\328:freetext
+Free Text:ZSHC\329:freetext
+Free Text:ZSHC\33:freetext
+Free Text:ZSHC\330:freetext
+Free Text:ZSHC\331(E):freetext
+Free Text:ZSHC\331(F):freetext
+Free Text:ZSHC\332:freetext
+Free Text:ZSHC\333:freetext
+Free Text:ZSHC\334:freetext
+Free Text:ZSHC\335:freetext
+Free Text:ZSHC\336:freetext
+Free Text:ZSHC\337:freetext
+Free Text:ZSHC\338:freetext
+Free Text:ZSHC\339:freetext
+Free Text:ZSHC\34:freetext
+Free Text:ZSHC\340:freetext
+Free Text:ZSHC\341:freetext
+Free Text:ZSHC\342:freetext
+Free Text:ZSHC\343:freetext
+Free Text:ZSHC\35:freetext
+Free Text:ZSHC\36:freetext
+Free Text:ZSHC\381:freetext
+Free Text:ZSHC\382:freetext
+Free Text:ZSHC\383:freetext
+Free Text:ZSHC\384:freetext
+Free Text:ZSHC\385:freetext
+Free Text:ZSHC\386:freetext
+Free Text:ZSHC\501:freetext
+Free Text:ZSHC\502:freetext
+Free Text:ZSHC\503:freetext
+Free Text:ZSHC\504:freetext
+Free Text:ZSHC\505:freetext
+Free Text:ZSHC\506:freetext
+Free Text:ZSHC\507:freetext
+Free Text:ZSHC\508:freetext
+Free Text:ZSHC\509:freetext
+Free Text:ZSHC\510:freetext
+Free Text:ZSHC\511:freetext
+Free Text:ZSHC\512:freetext
+Free Text:ZSHC\513:freetext
+Free Text:ZSHC\514:freetext
+Free Text:ZSHC\515:freetext
+Free Text:ZSHC\516:freetext
+Free Text:ZSHC\517:freetext
+Free Text:ZSHC\518:freetext
+Free Text:ZSHC\601:freetext
+Free Text:ZSHC\602:freetext
+Free Text:ZSHC\603:freetext
+Free Text:ZSHC\604:freetext
+Free Text:ZSHC\605:freetext
+Free Text:ZSHC\606:freetext
+Free Text:ZSHC\607:freetext
+Free Text:ZSHC\608:freetext
+Free Text:ZSHC\609:freetext
+Free Text:ZSHC\618:freetext
+Free Text:ZSHC\619:freetext
+Free Text:ZSHC\620:freetext
+Free Text:ZSHC\621:freetext
+Free Text:ZSHC\622:freetext
+Free Text:ZSHC\623:freetext
+Free Text:ZSHC\624:freetext
+Free Text:ZSHC\625:freetext
+Free Text:ZSHC\626:freetext
+Free Text:ZSHC\701:freetext
+Free Text:ZSHC\702:freetext
+Free Text:ZSHC\703:freetext
+Free Text:ZSHC\704:freetext
+Free Text:ZSHC\705:freetext
+Free Text:ZSHC\706:freetext
+Free Text:ZSHC\707:freetext
+Free Text:ZSHC\708:freetext
+Free Text:ZSHC\709:freetext
+Free Text:ZSHC\710:freetext
+Free Text:ZSHC\711:freetext
+Free Text:ZSHC\A:freetext
+Free Text:ZSHC\A:freetext
+Free Text:ZSHC\A:freetext
+Free Text:ZSHC\A:freetext
+Free Text:ZSHC\A:freetext
+Free Text:ZSHC\A1:freetext
+Free Text:ZSHC\A2:freetext
+Free Text:ZSHC\A3:freetext
+Free Text:ZSHC\A4:freetext
+Free Text:ZSHC\A5:freetext
+Free Text:ZSHC\A6:freetext
+Free Text:ZSHC\A7:freetext
+Free Text:ZSHC\A8:freetext
+Free Text:ZSHC\B:freetext
+Free Text:ZSHC\B:freetext
+Free Text:ZSHC\B1:freetext
+Free Text:ZSHC\B3:freetext
+Free Text:ZSHC\B4:freetext
+Free Text:ZSHC\B5:freetext
+Free Text:ZSHC\B6:freetext
+Free Text:ZSHC\B6:freetext
+Free Text:ZSHC\B7:freetext
+Free Text:ZSHC\B7:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C:freetext
+Free Text:ZSHC\C1:freetext
+Free Text:ZSHC\C2:freetext
+Free Text:ZSHC\C3:freetext
+Free Text:ZSHC\C4:freetext
+Free Text:ZSHC\C5:freetext
+Free Text:ZSHC\C6:freetext
+Free Text:ZSHC\C7:freetext
+Free Text:ZSHC\C8:freetext
+Free Text:ZSHC\D:freetext
+Free Text:ZSHC\D:freetext
+Free Text:ZSHC\D:freetext
+Free Text:ZSHC\D:freetext
+Free Text:ZSHC\D:freetext
+Free Text:ZSHC\D5:freetext
+Free Text:ZSHC\D6:freetext
+Free Text:ZSHC\D7:freetext
+Free Text:ZSHC\D7:freetext
+Free Text:ZSHC\D7:freetext
+Free Text:ZSHC\D8:freetext
+Free Text:ZSHC\D8:freetext
+Free Text:ZSHC\J:freetext
+Free Text:ZSHC\J:freetext
+Free Text:ZSHC\J:freetext
+Free Text:ZSHC\J:freetext
+Free Text:ZSHC\J:freetext
+Free Text:ZSHC\J2:freetext
+Free Text:ZSHC\J3:freetext
+Free Text:ZSHC\J4:freetext
+Free Text:ZSHC\J4:freetext
+Free Text:ZSHC\J5:freetext
+Free Text:ZSHC\J5:freetext
+Free Text:ZSHC\J6:freetext
+Free Text:ZSHC\J6:freetext
+Free Text:ZSHC\J6:freetext
+Free Text:ZSHC\K:freetext
+Free Text:ZSHC\K:freetext
+Free Text:ZSHC\K:freetext
+Free Text:ZSHC\K:freetext
+Free Text:ZSHC\K:freetext
+Free Text:ZSHC\TML A:freetext
+Free Text:ZSHC\TML B:freetext
+Free Text:ZSHC\Z1:freetext
+Free Text:ZSHC\Z1:freetext
+Free Text:ZSHC\Z1:freetext
+Free Text:ZSHC\Z10:freetext
+Free Text:ZSHC\Z11:freetext
+Free Text:ZSHC\Z13:freetext
+Free Text:ZSHC\Z7:freetext
+Free Text:ZSHC\Z8:freetext
+Free Text:ZSHC\Z9:freetext
+Geo:ZSHC:
+Regions:ZSHC:polygon
+Runways:ZSQD LIUTING 17-35:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:30.219872:120.392477:30.254664:120.469106
+PLUGIN:vSMR:Airport:ZSHC

@@ -1,0 +1,201 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGNN:name
+Airports:ZGNN:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGNN\(18):freetext
+Free Text:ZGNN\(18):freetext
+Free Text:ZGNN\(18):freetext
+Free Text:ZGNN\(18):freetext
+Free Text:ZGNN\A:freetext
+Free Text:ZGNN\A:freetext
+Free Text:ZGNN\A:freetext
+Free Text:ZGNN\A:freetext
+Free Text:ZGNN\A:freetext
+Free Text:ZGNN\A1:freetext
+Free Text:ZGNN\A2:freetext
+Free Text:ZGNN\A4:freetext
+Free Text:ZGNN\A6:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B:freetext
+Free Text:ZGNN\B3:freetext
+Free Text:ZGNN\B3:freetext
+Free Text:ZGNN\B6:freetext
+Free Text:ZGNN\B9:freetext
+Free Text:ZGNN\B9:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C:freetext
+Free Text:ZGNN\C10:freetext
+Free Text:ZGNN\C3:freetext
+Free Text:ZGNN\C4:freetext
+Free Text:ZGNN\C5:freetext
+Free Text:ZGNN\C6:freetext
+Free Text:ZGNN\C7:freetext
+Free Text:ZGNN\C8:freetext
+Free Text:ZGNN\D:freetext
+Free Text:ZGNN\D:freetext
+Free Text:ZGNN\D:freetext
+Free Text:ZGNN\D:freetext
+Free Text:ZGNN\G1:freetext
+Free Text:ZGNN\G101:freetext
+Free Text:ZGNN\G102:freetext
+Free Text:ZGNN\G103:freetext
+Free Text:ZGNN\G104:freetext
+Free Text:ZGNN\G105:freetext
+Free Text:ZGNN\G106:freetext
+Free Text:ZGNN\G107:freetext
+Free Text:ZGNN\G108:freetext
+Free Text:ZGNN\G109:freetext
+Free Text:ZGNN\G110:freetext
+Free Text:ZGNN\G111:freetext
+Free Text:ZGNN\G112:freetext
+Free Text:ZGNN\G113:freetext
+Free Text:ZGNN\G114:freetext
+Free Text:ZGNN\G115:freetext
+Free Text:ZGNN\G116:freetext
+Free Text:ZGNN\G117:freetext
+Free Text:ZGNN\G118:freetext
+Free Text:ZGNN\G119:freetext
+Free Text:ZGNN\G120:freetext
+Free Text:ZGNN\G121:freetext
+Free Text:ZGNN\G122:freetext
+Free Text:ZGNN\G123:freetext
+Free Text:ZGNN\G124:freetext
+Free Text:ZGNN\G125:freetext
+Free Text:ZGNN\G126:freetext
+Free Text:ZGNN\G127:freetext
+Free Text:ZGNN\G128:freetext
+Free Text:ZGNN\G129:freetext
+Free Text:ZGNN\G130:freetext
+Free Text:ZGNN\G131:freetext
+Free Text:ZGNN\G132:freetext
+Free Text:ZGNN\G2:freetext
+Free Text:ZGNN\G3:freetext
+Free Text:ZGNN\G4:freetext
+Free Text:ZGNN\G5:freetext
+Free Text:ZGNN\G6:freetext
+Free Text:ZGNN\J4:freetext
+Free Text:ZGNN\J5:freetext
+Free Text:ZGNN\J6:freetext
+Free Text:ZGNN\J7:freetext
+Free Text:ZGNN\K:freetext
+Free Text:ZGNN\K:freetext
+Free Text:ZGNN\N:freetext
+Free Text:ZGNN\P10:freetext
+Free Text:ZGNN\P100:freetext
+Free Text:ZGNN\P11:freetext
+Free Text:ZGNN\P12:freetext
+Free Text:ZGNN\P13:freetext
+Free Text:ZGNN\P133:freetext
+Free Text:ZGNN\P134:freetext
+Free Text:ZGNN\P14:freetext
+Free Text:ZGNN\P15:freetext
+Free Text:ZGNN\P16:freetext
+Free Text:ZGNN\P17:freetext
+Free Text:ZGNN\P18:freetext
+Free Text:ZGNN\P201:freetext
+Free Text:ZGNN\P202:freetext
+Free Text:ZGNN\P203:freetext
+Free Text:ZGNN\P204:freetext
+Free Text:ZGNN\P205:freetext
+Free Text:ZGNN\P206:freetext
+Free Text:ZGNN\P207:freetext
+Free Text:ZGNN\P208:freetext
+Free Text:ZGNN\P209:freetext
+Free Text:ZGNN\P210:freetext
+Free Text:ZGNN\P211:freetext
+Free Text:ZGNN\P212:freetext
+Free Text:ZGNN\P213:freetext
+Free Text:ZGNN\P214:freetext
+Free Text:ZGNN\P215:freetext
+Free Text:ZGNN\P216:freetext
+Free Text:ZGNN\P217:freetext
+Free Text:ZGNN\P218:freetext
+Free Text:ZGNN\P219:freetext
+Free Text:ZGNN\P220:freetext
+Free Text:ZGNN\P221:freetext
+Free Text:ZGNN\P222:freetext
+Free Text:ZGNN\P223:freetext
+Free Text:ZGNN\P224:freetext
+Free Text:ZGNN\P225:freetext
+Free Text:ZGNN\P226:freetext
+Free Text:ZGNN\P227:freetext
+Free Text:ZGNN\P228:freetext
+Free Text:ZGNN\P301:freetext
+Free Text:ZGNN\P302:freetext
+Free Text:ZGNN\P303:freetext
+Free Text:ZGNN\P304:freetext
+Free Text:ZGNN\P305:freetext
+Free Text:ZGNN\P306:freetext
+Free Text:ZGNN\P307:freetext
+Free Text:ZGNN\P308:freetext
+Free Text:ZGNN\P309:freetext
+Free Text:ZGNN\P310:freetext
+Free Text:ZGNN\P311:freetext
+Free Text:ZGNN\P312:freetext
+Free Text:ZGNN\P313:freetext
+Free Text:ZGNN\P314:freetext
+Free Text:ZGNN\P315:freetext
+Free Text:ZGNN\P316:freetext
+Free Text:ZGNN\P317:freetext
+Free Text:ZGNN\P318:freetext
+Free Text:ZGNN\P319:freetext
+Free Text:ZGNN\P320:freetext
+Free Text:ZGNN\P321:freetext
+Free Text:ZGNN\P322:freetext
+Free Text:ZGNN\P323:freetext
+Free Text:ZGNN\P324:freetext
+Free Text:ZGNN\P325:freetext
+Free Text:ZGNN\P326:freetext
+Free Text:ZGNN\P327:freetext
+Free Text:ZGNN\P328:freetext
+Free Text:ZGNN\P329:freetext
+Free Text:ZGNN\P7:freetext
+Free Text:ZGNN\P8:freetext
+Free Text:ZGNN\P9:freetext
+Free Text:ZGNN\Q:freetext
+Free Text:ZGNN\Q:freetext
+Free Text:ZGNN\R:freetext
+Free Text:ZGNN\W:freetext
+Geo:ZGNN:
+Runways:ZGNN WUXU 05-23:extended centerline 1
+Runways:ZGNN WUXU 05-23:extended centerline 1 left base
+Runways:ZGNN WUXU 05-23:extended centerline 1 left ticks
+Runways:ZGNN WUXU 05-23:extended centerline 1 left vectoring
+Runways:ZGNN WUXU 05-23:extended centerline 1 right base
+Runways:ZGNN WUXU 05-23:extended centerline 1 right ticks
+Runways:ZGNN WUXU 05-23:extended centerline 1 right vectoring
+Runways:ZGNN WUXU 05-23:extended centerline 2
+Runways:ZGNN WUXU 05-23:extended centerline 2 left base
+Runways:ZGNN WUXU 05-23:extended centerline 2 left ticks
+Runways:ZGNN WUXU 05-23:extended centerline 2 left vectoring
+Runways:ZGNN WUXU 05-23:extended centerline 2 right base
+Runways:ZGNN WUXU 05-23:extended centerline 2 right ticks
+Runways:ZGNN WUXU 05-23:extended centerline 2 right vectoring
+Runways:ZGNN WUXU 05-23:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:22.589606:108.135616:22.627137:108.212701
+PLUGIN:vSMR:Airport:ZGNN

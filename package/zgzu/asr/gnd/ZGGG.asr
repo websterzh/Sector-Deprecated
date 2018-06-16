@@ -1,0 +1,419 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZGZU.sct
+Airports:ZGGG:name
+Airports:ZGGG:symbol
+Free Text:Sectors\All Right Reserved VATPRC@2016 www.vatprc.net:freetext
+Free Text:ZGGG\1:freetext
+Free Text:ZGGG\1:freetext
+Free Text:ZGGG\101:freetext
+Free Text:ZGGG\102:freetext
+Free Text:ZGGG\103:freetext
+Free Text:ZGGG\104:freetext
+Free Text:ZGGG\105:freetext
+Free Text:ZGGG\106:freetext
+Free Text:ZGGG\107:freetext
+Free Text:ZGGG\108:freetext
+Free Text:ZGGG\109:freetext
+Free Text:ZGGG\110:freetext
+Free Text:ZGGG\111:freetext
+Free Text:ZGGG\112:freetext
+Free Text:ZGGG\113:freetext
+Free Text:ZGGG\114:freetext
+Free Text:ZGGG\115:freetext
+Free Text:ZGGG\116:freetext
+Free Text:ZGGG\117:freetext
+Free Text:ZGGG\118:freetext
+Free Text:ZGGG\119:freetext
+Free Text:ZGGG\120:freetext
+Free Text:ZGGG\121:freetext
+Free Text:ZGGG\122:freetext
+Free Text:ZGGG\123:freetext
+Free Text:ZGGG\124:freetext
+Free Text:ZGGG\125:freetext
+Free Text:ZGGG\126:freetext
+Free Text:ZGGG\127:freetext
+Free Text:ZGGG\128:freetext
+Free Text:ZGGG\129:freetext
+Free Text:ZGGG\130:freetext
+Free Text:ZGGG\131:freetext
+Free Text:ZGGG\132:freetext
+Free Text:ZGGG\133:freetext
+Free Text:ZGGG\135:freetext
+Free Text:ZGGG\136:freetext
+Free Text:ZGGG\137:freetext
+Free Text:ZGGG\138:freetext
+Free Text:ZGGG\139:freetext
+Free Text:ZGGG\2:freetext
+Free Text:ZGGG\2:freetext
+Free Text:ZGGG\201:freetext
+Free Text:ZGGG\202:freetext
+Free Text:ZGGG\203:freetext
+Free Text:ZGGG\204:freetext
+Free Text:ZGGG\205:freetext
+Free Text:ZGGG\206:freetext
+Free Text:ZGGG\207:freetext
+Free Text:ZGGG\208:freetext
+Free Text:ZGGG\209:freetext
+Free Text:ZGGG\210:freetext
+Free Text:ZGGG\211:freetext
+Free Text:ZGGG\212:freetext
+Free Text:ZGGG\213:freetext
+Free Text:ZGGG\214:freetext
+Free Text:ZGGG\215:freetext
+Free Text:ZGGG\216:freetext
+Free Text:ZGGG\217:freetext
+Free Text:ZGGG\218:freetext
+Free Text:ZGGG\219:freetext
+Free Text:ZGGG\220:freetext
+Free Text:ZGGG\221:freetext
+Free Text:ZGGG\222:freetext
+Free Text:ZGGG\223:freetext
+Free Text:ZGGG\224:freetext
+Free Text:ZGGG\225:freetext
+Free Text:ZGGG\226:freetext
+Free Text:ZGGG\227:freetext
+Free Text:ZGGG\228:freetext
+Free Text:ZGGG\229:freetext
+Free Text:ZGGG\230:freetext
+Free Text:ZGGG\231:freetext
+Free Text:ZGGG\232:freetext
+Free Text:ZGGG\233:freetext
+Free Text:ZGGG\234:freetext
+Free Text:ZGGG\235:freetext
+Free Text:ZGGG\236:freetext
+Free Text:ZGGG\237:freetext
+Free Text:ZGGG\238:freetext
+Free Text:ZGGG\239:freetext
+Free Text:ZGGG\240:freetext
+Free Text:ZGGG\3:freetext
+Free Text:ZGGG\3:freetext
+Free Text:ZGGG\301:freetext
+Free Text:ZGGG\302:freetext
+Free Text:ZGGG\303:freetext
+Free Text:ZGGG\304:freetext
+Free Text:ZGGG\305:freetext
+Free Text:ZGGG\306:freetext
+Free Text:ZGGG\307:freetext
+Free Text:ZGGG\308:freetext
+Free Text:ZGGG\4:freetext
+Free Text:ZGGG\4:freetext
+Free Text:ZGGG\401:freetext
+Free Text:ZGGG\402:freetext
+Free Text:ZGGG\403:freetext
+Free Text:ZGGG\404:freetext
+Free Text:ZGGG\405:freetext
+Free Text:ZGGG\406:freetext
+Free Text:ZGGG\407:freetext
+Free Text:ZGGG\408:freetext
+Free Text:ZGGG\409:freetext
+Free Text:ZGGG\410:freetext
+Free Text:ZGGG\411:freetext
+Free Text:ZGGG\412:freetext
+Free Text:ZGGG\413:freetext
+Free Text:ZGGG\414:freetext
+Free Text:ZGGG\415:freetext
+Free Text:ZGGG\416:freetext
+Free Text:ZGGG\417:freetext
+Free Text:ZGGG\418:freetext
+Free Text:ZGGG\419:freetext
+Free Text:ZGGG\420:freetext
+Free Text:ZGGG\421:freetext
+Free Text:ZGGG\422:freetext
+Free Text:ZGGG\423:freetext
+Free Text:ZGGG\424:freetext
+Free Text:ZGGG\425:freetext
+Free Text:ZGGG\426:freetext
+Free Text:ZGGG\427:freetext
+Free Text:ZGGG\428:freetext
+Free Text:ZGGG\429:freetext
+Free Text:ZGGG\501:freetext
+Free Text:ZGGG\502:freetext
+Free Text:ZGGG\503:freetext
+Free Text:ZGGG\504:freetext
+Free Text:ZGGG\505:freetext
+Free Text:ZGGG\506:freetext
+Free Text:ZGGG\507:freetext
+Free Text:ZGGG\508:freetext
+Free Text:ZGGG\509:freetext
+Free Text:ZGGG\510:freetext
+Free Text:ZGGG\511:freetext
+Free Text:ZGGG\512:freetext
+Free Text:ZGGG\513:freetext
+Free Text:ZGGG\514:freetext
+Free Text:ZGGG\515:freetext
+Free Text:ZGGG\701:freetext
+Free Text:ZGGG\702:freetext
+Free Text:ZGGG\703:freetext
+Free Text:ZGGG\704:freetext
+Free Text:ZGGG\A:freetext
+Free Text:ZGGG\A:freetext
+Free Text:ZGGG\A:freetext
+Free Text:ZGGG\A:freetext
+Free Text:ZGGG\A:freetext
+Free Text:ZGGG\A1:freetext
+Free Text:ZGGG\A10:freetext
+Free Text:ZGGG\A2:freetext
+Free Text:ZGGG\A3:freetext
+Free Text:ZGGG\A4:freetext
+Free Text:ZGGG\A5:freetext
+Free Text:ZGGG\A6:freetext
+Free Text:ZGGG\A7:freetext
+Free Text:ZGGG\A8:freetext
+Free Text:ZGGG\A9:freetext
+Free Text:ZGGG\B:freetext
+Free Text:ZGGG\B:freetext
+Free Text:ZGGG\B:freetext
+Free Text:ZGGG\B:freetext
+Free Text:ZGGG\C:freetext
+Free Text:ZGGG\C:freetext
+Free Text:ZGGG\C:freetext
+Free Text:ZGGG\C:freetext
+Free Text:ZGGG\D:freetext
+Free Text:ZGGG\D:freetext
+Free Text:ZGGG\D:freetext
+Free Text:ZGGG\D:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\E:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F:freetext
+Free Text:ZGGG\F1:freetext
+Free Text:ZGGG\F10:freetext
+Free Text:ZGGG\F2:freetext
+Free Text:ZGGG\F3:freetext
+Free Text:ZGGG\F4:freetext
+Free Text:ZGGG\F5:freetext
+Free Text:ZGGG\F6:freetext
+Free Text:ZGGG\F7:freetext
+Free Text:ZGGG\F8:freetext
+Free Text:ZGGG\F9:freetext
+Free Text:ZGGG\FX1:freetext
+Free Text:ZGGG\FX10:freetext
+Free Text:ZGGG\FX11:freetext
+Free Text:ZGGG\FX12:freetext
+Free Text:ZGGG\FX13:freetext
+Free Text:ZGGG\FX14:freetext
+Free Text:ZGGG\FX15:freetext
+Free Text:ZGGG\FX16:freetext
+Free Text:ZGGG\FX17:freetext
+Free Text:ZGGG\FX18:freetext
+Free Text:ZGGG\FX19:freetext
+Free Text:ZGGG\FX2:freetext
+Free Text:ZGGG\FX20:freetext
+Free Text:ZGGG\FX21:freetext
+Free Text:ZGGG\FX22:freetext
+Free Text:ZGGG\FX23:freetext
+Free Text:ZGGG\FX24:freetext
+Free Text:ZGGG\FX26:freetext
+Free Text:ZGGG\FX28:freetext
+Free Text:ZGGG\FX3:freetext
+Free Text:ZGGG\FX4:freetext
+Free Text:ZGGG\FX5:freetext
+Free Text:ZGGG\FX6:freetext
+Free Text:ZGGG\FX7:freetext
+Free Text:ZGGG\FX8:freetext
+Free Text:ZGGG\FX9:freetext
+Free Text:ZGGG\GY1:freetext
+Free Text:ZGGG\GY10:freetext
+Free Text:ZGGG\GY11:freetext
+Free Text:ZGGG\GY12:freetext
+Free Text:ZGGG\GY2:freetext
+Free Text:ZGGG\GY3:freetext
+Free Text:ZGGG\GY4:freetext
+Free Text:ZGGG\GY5:freetext
+Free Text:ZGGG\GY6:freetext
+Free Text:ZGGG\GY7:freetext
+Free Text:ZGGG\GY8:freetext
+Free Text:ZGGG\GY9:freetext
+Free Text:ZGGG\J10:freetext
+Free Text:ZGGG\J10:freetext
+Free Text:ZGGG\J11:freetext
+Free Text:ZGGG\J11:freetext
+Free Text:ZGGG\J12:freetext
+Free Text:ZGGG\J12:freetext
+Free Text:ZGGG\J14:freetext
+Free Text:ZGGG\J18:freetext
+Free Text:ZGGG\J20:freetext
+Free Text:ZGGG\J6:freetext
+Free Text:ZGGG\J6:freetext
+Free Text:ZGGG\J7:freetext
+Free Text:ZGGG\J7:freetext
+Free Text:ZGGG\J8:freetext
+Free Text:ZGGG\J8:freetext
+Free Text:ZGGG\J9:freetext
+Free Text:ZGGG\J9:freetext
+Free Text:ZGGG\L10:freetext
+Free Text:ZGGG\L10:freetext
+Free Text:ZGGG\L11:freetext
+Free Text:ZGGG\L14:freetext
+Free Text:ZGGG\L15:freetext
+Free Text:ZGGG\L21:freetext
+Free Text:ZGGG\L22:freetext
+Free Text:ZGGG\L3:freetext
+Free Text:ZGGG\L3:freetext
+Free Text:ZGGG\L4:freetext
+Free Text:ZGGG\L4:freetext
+Free Text:ZGGG\L4:freetext
+Free Text:ZGGG\L5:freetext
+Free Text:ZGGG\L5:freetext
+Free Text:ZGGG\L6:freetext
+Free Text:ZGGG\L6:freetext
+Free Text:ZGGG\L7:freetext
+Free Text:ZGGG\L7:freetext
+Free Text:ZGGG\L8:freetext
+Free Text:ZGGG\L8:freetext
+Free Text:ZGGG\L9:freetext
+Free Text:ZGGG\L9:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M:freetext
+Free Text:ZGGG\M1:freetext
+Free Text:ZGGG\M10:freetext
+Free Text:ZGGG\M2:freetext
+Free Text:ZGGG\M3:freetext
+Free Text:ZGGG\M4:freetext
+Free Text:ZGGG\M5:freetext
+Free Text:ZGGG\M6:freetext
+Free Text:ZGGG\M7:freetext
+Free Text:ZGGG\M8:freetext
+Free Text:ZGGG\M9:freetext
+Free Text:ZGGG\P10:freetext
+Free Text:ZGGG\P11:freetext
+Free Text:ZGGG\P12:freetext
+Free Text:ZGGG\P13:freetext
+Free Text:ZGGG\P14:freetext
+Free Text:ZGGG\P3:freetext
+Free Text:ZGGG\P4:freetext
+Free Text:ZGGG\P9:freetext
+Free Text:ZGGG\Q:freetext
+Free Text:ZGGG\Q:freetext
+Free Text:ZGGG\Q10:freetext
+Free Text:ZGGG\Q11:freetext
+Free Text:ZGGG\Q15:freetext
+Free Text:ZGGG\Q15:freetext
+Free Text:ZGGG\Q6:freetext
+Free Text:ZGGG\Q6:freetext
+Free Text:ZGGG\Q7:freetext
+Free Text:ZGGG\Q8:freetext
+Free Text:ZGGG\Q8:freetext
+Free Text:ZGGG\Q9:freetext
+Free Text:ZGGG\T1:freetext
+Free Text:ZGGG\T1:freetext
+Free Text:ZGGG\T1:freetext
+Free Text:ZGGG\T1:freetext
+Free Text:ZGGG\T2:freetext
+Free Text:ZGGG\T2:freetext
+Free Text:ZGGG\T2:freetext
+Free Text:ZGGG\T2:freetext
+Free Text:ZGGG\T3:freetext
+Free Text:ZGGG\T3:freetext
+Free Text:ZGGG\T3:freetext
+Free Text:ZGGG\T3:freetext
+Free Text:ZGGG\T4:freetext
+Free Text:ZGGG\T4:freetext
+Free Text:ZGGG\T4:freetext
+Free Text:ZGGG\T4:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y:freetext
+Free Text:ZGGG\Y1:freetext
+Free Text:ZGGG\Y1:freetext
+Free Text:ZGGG\Y10:freetext
+Free Text:ZGGG\Y11:freetext
+Free Text:ZGGG\Y12:freetext
+Free Text:ZGGG\Y13:freetext
+Free Text:ZGGG\Y14:freetext
+Free Text:ZGGG\Y15:freetext
+Free Text:ZGGG\Y16:freetext
+Free Text:ZGGG\Y17:freetext
+Free Text:ZGGG\Y18:freetext
+Free Text:ZGGG\Y2:freetext
+Free Text:ZGGG\Y3:freetext
+Free Text:ZGGG\Y4:freetext
+Free Text:ZGGG\Y5:freetext
+Free Text:ZGGG\Y6:freetext
+Free Text:ZGGG\Y7:freetext
+Free Text:ZGGG\Y8:freetext
+Free Text:ZGGG\Y9:freetext
+Geo:ZGGG:
+Regions:ZGGG:polygon
+Runways:ZGGG BAIYUN 01-19:extended centerline 1
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 left base
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 left ticks
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 left vectoring
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 right base
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 right ticks
+Runways:ZGGG BAIYUN 01-19:extended centerline 1 right vectoring
+Runways:ZGGG BAIYUN 01-19:extended centerline 2
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 left base
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 left ticks
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 left vectoring
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 right base
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 right ticks
+Runways:ZGGG BAIYUN 01-19:extended centerline 2 right vectoring
+Runways:ZGGG BAIYUN 01-19:name
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 left base
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 left ticks
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 left vectoring
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 right base
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 right ticks
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 1 right vectoring
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 left base
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 left ticks
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 left vectoring
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 right base
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 right ticks
+Runways:ZGGG BAIYUN 02L-20R:extended centerline 2 right vectoring
+Runways:ZGGG BAIYUN 02L-20R:name
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 left base
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 left ticks
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 left vectoring
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 right base
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 right ticks
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 1 right vectoring
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 left base
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 left ticks
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 left vectoring
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 right base
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 right ticks
+Runways:ZGGG BAIYUN 02R-20L:extended centerline 2 right vectoring
+Runways:ZGGG BAIYUN 02R-20L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:76.10000
+TAGFAMILY:Eurocat
+WINDOWAREA:23.372748:113.263828:23.410279:113.340912

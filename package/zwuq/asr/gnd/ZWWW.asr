@@ -1,0 +1,181 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZWUQ.sct
+Free Text:ZWWW\1:freetext
+Free Text:ZWWW\10:freetext
+Free Text:ZWWW\100:freetext
+Free Text:ZWWW\101:freetext
+Free Text:ZWWW\102:freetext
+Free Text:ZWWW\103:freetext
+Free Text:ZWWW\104:freetext
+Free Text:ZWWW\105:freetext
+Free Text:ZWWW\106:freetext
+Free Text:ZWWW\107:freetext
+Free Text:ZWWW\108:freetext
+Free Text:ZWWW\109:freetext
+Free Text:ZWWW\11:freetext
+Free Text:ZWWW\110:freetext
+Free Text:ZWWW\111:freetext
+Free Text:ZWWW\112:freetext
+Free Text:ZWWW\113:freetext
+Free Text:ZWWW\114:freetext
+Free Text:ZWWW\115:freetext
+Free Text:ZWWW\116:freetext
+Free Text:ZWWW\12:freetext
+Free Text:ZWWW\13:freetext
+Free Text:ZWWW\14:freetext
+Free Text:ZWWW\141:freetext
+Free Text:ZWWW\142:freetext
+Free Text:ZWWW\143:freetext
+Free Text:ZWWW\144:freetext
+Free Text:ZWWW\145:freetext
+Free Text:ZWWW\146:freetext
+Free Text:ZWWW\147:freetext
+Free Text:ZWWW\15:freetext
+Free Text:ZWWW\16:freetext
+Free Text:ZWWW\17:freetext
+Free Text:ZWWW\171:freetext
+Free Text:ZWWW\172:freetext
+Free Text:ZWWW\173:freetext
+Free Text:ZWWW\174:freetext
+Free Text:ZWWW\175:freetext
+Free Text:ZWWW\176:freetext
+Free Text:ZWWW\177:freetext
+Free Text:ZWWW\178:freetext
+Free Text:ZWWW\179:freetext
+Free Text:ZWWW\18:freetext
+Free Text:ZWWW\180:freetext
+Free Text:ZWWW\19:freetext
+Free Text:ZWWW\2:freetext
+Free Text:ZWWW\20:freetext
+Free Text:ZWWW\23:freetext
+Free Text:ZWWW\24:freetext
+Free Text:ZWWW\25:freetext
+Free Text:ZWWW\28:freetext
+Free Text:ZWWW\29:freetext
+Free Text:ZWWW\3:freetext
+Free Text:ZWWW\30:freetext
+Free Text:ZWWW\31:freetext
+Free Text:ZWWW\32:freetext
+Free Text:ZWWW\33:freetext
+Free Text:ZWWW\34:freetext
+Free Text:ZWWW\38:freetext
+Free Text:ZWWW\39:freetext
+Free Text:ZWWW\4:freetext
+Free Text:ZWWW\40:freetext
+Free Text:ZWWW\41:freetext
+Free Text:ZWWW\42:freetext
+Free Text:ZWWW\43:freetext
+Free Text:ZWWW\44:freetext
+Free Text:ZWWW\45:freetext
+Free Text:ZWWW\46:freetext
+Free Text:ZWWW\47:freetext
+Free Text:ZWWW\5:freetext
+Free Text:ZWWW\71:freetext
+Free Text:ZWWW\72:freetext
+Free Text:ZWWW\73:freetext
+Free Text:ZWWW\74:freetext
+Free Text:ZWWW\75:freetext
+Free Text:ZWWW\76:freetext
+Free Text:ZWWW\77:freetext
+Free Text:ZWWW\78:freetext
+Free Text:ZWWW\79:freetext
+Free Text:ZWWW\8:freetext
+Free Text:ZWWW\80:freetext
+Free Text:ZWWW\81:freetext
+Free Text:ZWWW\9:freetext
+Free Text:ZWWW\99:freetext
+Free Text:ZWWW\A:freetext
+Free Text:ZWWW\A:freetext
+Free Text:ZWWW\A:freetext
+Free Text:ZWWW\A:freetext
+Free Text:ZWWW\A:freetext
+Free Text:ZWWW\A10:freetext
+Free Text:ZWWW\A10:freetext
+Free Text:ZWWW\A5:freetext
+Free Text:ZWWW\A6:freetext
+Free Text:ZWWW\A7:freetext
+Free Text:ZWWW\A7:freetext
+Free Text:ZWWW\A8:freetext
+Free Text:ZWWW\A8:freetext
+Free Text:ZWWW\A9:freetext
+Free Text:ZWWW\A9:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B:freetext
+Free Text:ZWWW\B1:freetext
+Free Text:ZWWW\B2:freetext
+Free Text:ZWWW\DC1:freetext
+Free Text:ZWWW\DC10:freetext
+Free Text:ZWWW\DC2:freetext
+Free Text:ZWWW\DC3:freetext
+Free Text:ZWWW\DC4:freetext
+Free Text:ZWWW\DC5:freetext
+Free Text:ZWWW\DC6:freetext
+Free Text:ZWWW\DC7:freetext
+Free Text:ZWWW\DC8:freetext
+Free Text:ZWWW\DC9:freetext
+Free Text:ZWWW\F:freetext
+Free Text:ZWWW\F:freetext
+Free Text:ZWWW\H:freetext
+Free Text:ZWWW\J:freetext
+Free Text:ZWWW\J:freetext
+Free Text:ZWWW\K:freetext
+Free Text:ZWWW\K:freetext
+Free Text:ZWWW\K:freetext
+Free Text:ZWWW\K:freetext
+Free Text:ZWWW\K:freetext
+Free Text:ZWWW\K1:freetext
+Free Text:ZWWW\K1:freetext
+Free Text:ZWWW\K2:freetext
+Free Text:ZWWW\K2:freetext
+Free Text:ZWWW\L:freetext
+Free Text:ZWWW\L:freetext
+Free Text:ZWWW\M:freetext
+Free Text:ZWWW\N:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T:freetext
+Free Text:ZWWW\T1:freetext
+Free Text:ZWWW\T2:freetext
+Free Text:ZWWW\T2:freetext
+Free Text:ZWWW\T3:freetext
+Free Text:ZWWW\T4:freetext
+Geo:ZWWW:
+Regions:ZWWW:polygon
+Runways:ZWWW DIWOPU 07-25:extended centerline 1
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 left base
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 left ticks
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 left vectoring
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 right base
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 right ticks
+Runways:ZWWW DIWOPU 07-25:extended centerline 1 right vectoring
+Runways:ZWWW DIWOPU 07-25:extended centerline 2
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 left base
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 left ticks
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 left vectoring
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 right base
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 right ticks
+Runways:ZWWW DIWOPU 07-25:extended centerline 2 right vectoring
+Runways:ZWWW DIWOPU 07-25:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:43.886042:87.433955:43.920833:87.524989

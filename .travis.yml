@@ -1,0 +1,26 @@
+language: generic
+
+services:
+  - docker
+
+before_install:
+  - sudo apt-get install -y sshpass
+  - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD
+  - docker pull $DOCKER_USERNAME/ubuntu-sector:3
+  - echo "Docker preparation completed"
+  
+before_script:
+  - docker run -v ${TRAVIS_BUILD_DIR}:/usr/local/bin/project $DOCKER_USERNAME/ubuntu-sector:3 /usr/local/bin/sctgen.sh --test /usr/local/bin/project
+  - docker container prune -f
+  - echo "Test completed"
+
+script:
+  - echo "Build Summary - Build Number $TRAVIS_BUILD_NUMBER, Branch $TRAVIS_BRANCH, Commit $TRAVIS_COMMIT"
+  - docker run -v ${TRAVIS_BUILD_DIR}:/usr/local/bin/project $DOCKER_USERNAME/ubuntu-sector:3 /usr/local/bin/sctgen.sh --build /usr/local/bin/project
+  - docker container prune -f
+  - echo "Build completed"
+
+after_success:
+   - cd ${TRAVIS_BUILD_DIR}/package/output && zip -r /tmp/build_${TRAVIS_BUILD_NUMBER}_${TRAVIS_BRANCH}_${TRAVIS_COMMIT}.zip ./
+   - curl -X POST --user "${DEPLOY_AUTH}" "${DEPLOY_URL}" --form files=@"/tmp/build_${TRAVIS_BUILD_NUMBER}_${TRAVIS_BRANCH}_${TRAVIS_COMMIT}.zip"
+   - echo "Deploy completed"

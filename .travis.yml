@@ -1,10 +1,16 @@
 language: generic
 
+branches:
+  only:
+  - master
+  - develop
+  - /^hotfix-.*$/
+  - ci-test
+
 services:
   - docker
 
 before_install:
-  - sudo apt-get install -y sshpass
   - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD
   - docker pull $DOCKER_USERNAME/ubuntu-sector:3
   - echo "Docker preparation completed"
@@ -21,6 +27,6 @@ script:
   - echo "Build completed"
 
 after_success:
-   - cd ${TRAVIS_BUILD_DIR}/package/output && zip -r /tmp/build_${TRAVIS_BUILD_NUMBER}_${TRAVIS_BRANCH}_${TRAVIS_COMMIT}.zip ./
-   - curl -X POST --user "${DEPLOY_AUTH}" "${DEPLOY_URL}" --form files=@"/tmp/build_${TRAVIS_BUILD_NUMBER}_${TRAVIS_BRANCH}_${TRAVIS_COMMIT}.zip"
+   - cd ${TRAVIS_BUILD_DIR}/package/output && zip -r /tmp/build_${TRAVIS_BUILD_NUMBER}.zip ./
+   - curl -X POST --user "${DEPLOY_AUTH}" "${DEPLOY_URL}" --form files=@"/tmp/build_${TRAVIS_BUILD_NUMBER}.zip"
    - echo "Deploy completed"

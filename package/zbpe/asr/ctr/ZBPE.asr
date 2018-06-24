@@ -308,6 +308,7 @@ High airways:G212:line
 High airways:G218:line
 High airways:G332:line
 High airways:G343:line
+High airways:H8:line
 High airways:V1:line
 High airways:V10:line
 High airways:V15:line
@@ -374,6 +375,7 @@ High airways:W82:line
 High airways:W83:line
 High airways:W86:line
 High airways:W92:line
+High airways:X103:line
 NDBs:A:name
 NDBs:A:symbol
 NDBs:AR:name
@@ -402,6 +404,8 @@ NDBs:GO:name
 NDBs:GO:symbol
 NDBs:HG:name
 NDBs:HG:symbol
+NDBs:J:name
+NDBs:J:symbol
 NDBs:JB:name
 NDBs:JB:symbol
 NDBs:JR:name
@@ -436,6 +440,8 @@ NDBs:YV:name
 NDBs:YV:symbol
 VORs:BAV:name
 VORs:BAV:symbol
+VORs:BJZ:name
+VORs:BJZ:symbol
 VORs:BTO:name
 VORs:BTO:symbol
 VORs:CGO:name

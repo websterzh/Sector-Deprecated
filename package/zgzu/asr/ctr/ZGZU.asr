@@ -270,6 +270,8 @@ Fixes:MALKA:name
 Fixes:MALKA:symbol
 Fixes:MAMSI:name
 Fixes:MAMSI:symbol
+Fixes:MASGU:name
+Fixes:MASGU:symbol
 Fixes:MEOVA:name
 Fixes:MEOVA:symbol
 Fixes:MEPAN:name
@@ -338,6 +340,8 @@ Fixes:OVGOT:name
 Fixes:OVGOT:symbol
 Fixes:OVTAN:name
 Fixes:OVTAN:symbol
+Fixes:OVTIX:name
+Fixes:OVTIX:symbol
 Fixes:PAPA:name
 Fixes:PAPA:symbol
 Fixes:PAVTU:name
@@ -440,6 +444,8 @@ Fixes:UVUNO:name
 Fixes:UVUNO:symbol
 Fixes:VAPNA:name
 Fixes:VAPNA:symbol
+Fixes:VAVSO:name
+Fixes:VAVSO:symbol
 Fixes:VEMBA:name
 Fixes:VEMBA:symbol
 Fixes:VEROK:name

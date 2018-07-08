@@ -16,7 +16,7 @@ m_Column:STAR:7:1:55:18:0:1::::1
 m_Column:SI:6:1:64:0:0:0::::4
 m_Column:S/Pad:8:1:19:29:0:1::::3
 m_Column:Crz:4:1:21:6:0:1:Plug-In for China:Plug-In for China::4
-m_Column:ASqwk:5:1:60:31:0:1::::1
+m_Column:ASSR:5:1:60:31:0:1::::1
 END
 SEL
 m_Visible:1
@@ -34,7 +34,7 @@ m_Column:Arr:4:1:17:7:1:1::::1
 m_Column:SID:7:1:56:17:17:1::::1
 m_Column:STAR:7:1:55:18:18:1::::1
 m_Column:Crz:4:1:21:6:0:1:Plug-In for China:Plug-In for China::2001427528
-m_Column:ASqwk:5:1:60:31:0:1::::1
+m_Column:ASSR:5:1:60:31:0:1::::1
 END
 DEP
 m_Visible:1
@@ -55,7 +55,7 @@ m_Column:SI:6:1:64:0:0:0::::4
 m_Column:S/Pad:8:1:19:29:0:1::::3
 m_Column:Alt:5:1:17:8:0:1:Plug-In for China:Plug-In for China::4
 m_Column:Crz:4:1:21:6:0:1:Plug-In for China:Plug-In for China::4
-m_Column:ASqwk:5:1:60:31:0:1::::1
+m_Column:ASSR:5:1:60:31:0:1::::1
 END
 ARR
 m_Visible:0
@@ -74,26 +74,26 @@ FP
 m_Visible:0
 m_X:0
 m_Y:599
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:4
+m_LineNumber:20
+m_Resizable:1
+m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:Call:7:0:9:8:0:1::::1739668558
+m_Column:C/S:8:1:9:0:0:1::::1739668558
 m_Column:Dep:5:1:61:0:0:1::::1739668558
-m_Column:Dest:5:1:17:7:0:1::::1739668558
-m_Column:Sts:6:1:82:34:34:1::::1739668558
+m_Column:Arr:5:1:17:0:0:1::::1739668558
+m_Column:ASSR:5:1:60:31:0:1::::1
 END
 CONFLICT
 m_Visible:0
 m_X:0
-m_Y:600
-m_LineNumber:6
-m_Resizable:0
+m_Y:1013
+m_LineNumber:0
+m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:TYPE:6:1:88:0:36:1::::1350843798
-m_Column:C/S:7:0:9:0:36:1::::1350843798
-m_Column:C/S:7:0:85:0:36:1::::1350843798
-m_Column:START:6:1:86:0:36:1::::1350843798
-m_Column:END:6:1:87:0:36:1::::1350843798
+m_Column:C/S:8:1:9:0:36:1::::1681931670
+m_Column:Type:6:1:88:0:36:1::::1681931670
+m_Column:C/S:8:1:85:0:36:1::::1681931670
+m_Column:Start:6:1:86:0:36:1::::1681931670
+m_Column:End:6:1:87:0:36:1::::1681931670
 END

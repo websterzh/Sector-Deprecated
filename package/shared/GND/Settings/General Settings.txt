@@ -62,7 +62,7 @@ SET_WTC_A380:J
 m_RotateRouteTexts:1
 m_NeverCloseFreqChat:1
 m_KeepScratchPadAfterDirect:1
-m_HiliteASELAircraft:0
+m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:IEFGRWQ
@@ -97,10 +97,10 @@ m_AtisMessageLevel:0
 m_PrivateMessageLevel:4
 m_FreqMessageLevel:4
 m_MericUnits:0
-m_ShowCorrelatedInFpList:0
-m_ShowUncorrelatedInFpList:1
-m_ShowVFRInFpList:1
-m_ShowIFRInFpList:0
+m_ShowCorrelatedInFpList:1
+m_ShowUncorrelatedInFpList:0
+m_ShowVFRInFpList:0
+m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:1

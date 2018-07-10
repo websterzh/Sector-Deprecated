@@ -1,44 +1,44 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:5987163:1.0:0:0:7
-Airports:name:5987163:4.0:0:0:1
-Low airways:line:6118749:3.5:2:0:7
-Low airways:name:5921370:3.4:0:0:8
-High airways:line:8947848:4.0:0:1:7
-High airways:name:5921370:3.4:0:0:8
-Fixes:symbol:7105644:0.5:0:1:7
-Fixes:name:6579300:3.5:0:0:2
-Sids:line:11513981:3.0:0:0:7
-Stars:line:3947580:3.0:0:1:7
-ARTCC high boundary:line:12315135:3.0:3:1:7
-ARTCC boundary:line:4056806:3.0:4:0:7
-ARTCC low boundary:line:6579300:3.0:0:1:7
-Geo:line:4934475:3.0:0:1:7
-VORs:symbol:11651551:2.0:0:1:7
-VORs:name:11651551:3.5:0:2:14
-VORs:frequency:11651551:3.5:0:0:2
-NDBs:symbol:11651551:1.0:0:0:7
-NDBs:name:11651551:3.5:0:0:12
-NDBs:frequency:11651551:3.5:0:0:0
-Runways:centerline:5592405:3.0:0:1:7
-Runways:extended centerline:6579300:3.5:0:1:7
+Airports:symbol:5263440:1.0:0:0:7
+Airports:name:5263440:4.0:0:0:1
+Low airways:line:5263440:3.5:2:0:7
+Low airways:name:5263440:3.4:0:0:8
+High airways:line:5263440:4.0:3:1:7
+High airways:name:5263440:3.4:0:0:8
+Fixes:symbol:5263440:0.5:0:1:7
+Fixes:name:5263440:3.5:0:0:2
+Sids:line:5263440:3.0:0:0:7
+Stars:line:5263440:3.0:0:1:7
+ARTCC high boundary:line:5263440:3.0:3:1:7
+ARTCC boundary:line:5263440:3.0:4:0:7
+ARTCC low boundary:line:5263440:3.0:0:1:7
+Geo:line:5921370:3.0:0:1:7
+VORs:symbol:5263440:2.0:0:1:7
+VORs:name:5263440:3.5:0:2:14
+VORs:frequency:5263440:3.5:0:0:2
+NDBs:symbol:5263440:1.0:0:0:7
+NDBs:name:5263440:3.5:0:0:12
+NDBs:frequency:5263440:3.5:0:0:0
+Runways:centerline:7895160:3.0:0:1:7
+Runways:extended centerline:8421504:3.5:0:1:7
 Runways:name:16777215:4.0:0:0:7
 Datablock:non concerned:16777215:3.5:0:1:7
 Datablock:notified:16777215:3.5:0:1:7
 Datablock:assumed:13172680:3.5:0:1:7
 Datablock:transfer to me initiated:6934015:3.5:0:1:7
 Datablock:redundant:16777215:3.5:0:1:7
-Datablock:information:230:3.5:0:1:7
+Datablock:information:200:3.5:0:1:7
 Datablock:even flight level:16777215:3.5:0:0:7
 Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
-Datablock:user 1:12500670:3.5:0:0:7
+Datablock:user 1:10526880:3.5:0:0:7
 Datablock:user 2:16777215:3.5:0:0:7
 Datablock:user 3:16777215:3.5:0:0:7
 Datablock:user 4:16777215:3.5:0:0:7
 Datablock:user 5:16777215:3.5:0:0:7
-Datablock:user 6:120:3.5:0:0:7
+Datablock:user 6:16777215:3.5:0:0:7
 Datablock:emergency:180:3.5:0:2:7
 Datablock:ongoing requested by me:16777215:3.5:0:0:7
 Datablock:ongoing requested by other:16777215:3.5:0:0:7
@@ -46,8 +46,8 @@ Datablock:ongoing accepted:11527855:3.5:0:0:7
 Datablock:ongoing refused:6934015:3.5:0:0:7
 Datablock:detailed background:0:3.5:0:0:7
 Datablock:active item background:9211020:3.5:0:0:7
-Datablock:AC list background:11842740:3.5:0:0:7
-Datablock:AC list selected background:3684408:3.5:0:0:7
+Datablock:AC list background:3287075:3.5:0:0:7
+Datablock:AC list selected background:10485760:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
@@ -66,10 +66,10 @@ Other:distance annotation:65535:4.0:0:0:7
 Other:separation leader:16777215:3.5:0:3:7
 Other:separation leader2:16777215:3.5:0:1:7
 Other:find:16777215:3.5:0:5:7
-Other:valid airway:11855615:3.0:1:2:2
-Other:bad direction airway:11855615:3.5:0:1:7
-Other:unconnected airway:11855615:3.5:0:1:7
-Other:direct no airway:11855615:3.5:0:2:7
+Other:valid airway:65280:3.0:1:2:2
+Other:bad direction airway:65280:3.5:0:1:7
+Other:unconnected airway:65280:3.5:0:1:7
+Other:direct no airway:65280:3.5:0:2:7
 Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
@@ -85,7 +85,7 @@ Other:terminal taxi line:255:5.0:0:3:2
 Other:list header:16777215:3.5:0:0:7
 Other:normal menu item:14211288:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
-Transitions:transition grid:0:3.0:0:0:7
+Transitions:transition grid:5263440:3.0:0:0:7
 Chat:text:16777215:3.5:0:0:7
 Chat:background:7237230:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7

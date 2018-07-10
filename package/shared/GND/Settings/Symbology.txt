@@ -1,30 +1,30 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:5987163:1.0:0:0:7
-Airports:name:5987163:4.0:0:0:1
-Low airways:line:6118749:3.5:2:0:7
-Low airways:name:5921370:3.4:0:0:8
-High airways:line:6118749:4.0:3:1:7
-High airways:name:5921370:3.4:0:0:8
+Airports:symbol:5263440:1.0:0:0:7
+Airports:name:5263440:4.0:0:0:1
+Low airways:line:5263440:3.5:2:0:7
+Low airways:name:5263440:3.4:0:0:8
+High airways:line:5263440:4.0:3:1:7
+High airways:name:5263440:3.4:0:0:8
 Fixes:symbol:5263440:0.5:0:1:7
 Fixes:name:5263440:3.5:0:0:2
-Sids:line:11513981:3.0:0:0:7
-Stars:line:3289650:3.0:0:1:7
-ARTCC high boundary:line:10787965:3.0:3:1:7
-ARTCC boundary:line:60395:3.0:4:0:7
-ARTCC low boundary:line:8224125:3.0:0:1:7
+Sids:line:5263440:3.0:0:0:7
+Stars:line:5263440:3.0:0:1:7
+ARTCC high boundary:line:5263440:3.0:3:1:7
+ARTCC boundary:line:5263440:3.0:4:0:7
+ARTCC low boundary:line:5263440:3.0:0:1:7
 Geo:line:5921370:3.0:0:1:7
 VORs:symbol:5263440:2.0:0:1:7
 VORs:name:5263440:3.5:0:2:14
 VORs:frequency:5263440:3.5:0:0:2
-NDBs:symbol:11651551:1.0:0:0:7
-NDBs:name:11651551:3.5:0:0:12
-NDBs:frequency:11651551:3.5:0:0:0
-Runways:centerline:5395026:3.0:0:1:7
+NDBs:symbol:5263440:1.0:0:0:7
+NDBs:name:5263440:3.5:0:0:12
+NDBs:frequency:5263440:3.5:0:0:0
+Runways:centerline:7895160:3.0:0:1:7
 Runways:extended centerline:8421504:3.5:0:1:7
 Runways:name:16777215:4.0:0:0:7
 Datablock:non concerned:16777215:3.5:0:1:7
-Datablock:notified:14869218:3.5:0:1:7
+Datablock:notified:16777215:3.5:0:1:7
 Datablock:assumed:13172680:3.5:0:1:7
 Datablock:transfer to me initiated:6934015:3.5:0:1:7
 Datablock:redundant:16777215:3.5:0:1:7
@@ -46,8 +46,8 @@ Datablock:ongoing accepted:11527855:3.5:0:0:7
 Datablock:ongoing refused:6934015:3.5:0:0:7
 Datablock:detailed background:0:3.5:0:0:7
 Datablock:active item background:9211020:3.5:0:0:7
-Datablock:AC list background:2501894:3.5:0:0:7
-Datablock:AC list selected background:3684408:3.5:0:0:7
+Datablock:AC list background:3287075:3.5:0:0:7
+Datablock:AC list selected background:10485760:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7

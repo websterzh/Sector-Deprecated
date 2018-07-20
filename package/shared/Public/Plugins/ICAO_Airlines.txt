@@ -2067,7 +2067,7 @@ HUY	Aero Transportes Del Humaya - Mexico	AERO HUMAYA
 HVA	Newair - United States	HAVEN-AIR
 HVK	Turkish Air Force - Turkey	TURKISH AIRFORCE
 HVL	Heavylift International - United Arab Emirates	HEAVYLIFT INTERNATIONAL
-HVN	Vietnam Airlines - Vietnam	VIET NAM AIRLINES
+HVN	Vietnam Airlines - Vietnam	VIET NAM
 HVY	Heavylift Cargo Airlines - Australia	HEAVY CARGO
 HWD	HPM Investments - United Kingdom	FLITEWISE
 HWY	Highland Airways - United Kingdom	HIWAY

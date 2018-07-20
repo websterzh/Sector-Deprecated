@@ -1,0 +1,83 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Free Text:ZSNT\1:freetext
+Free Text:ZSNT\2:freetext
+Free Text:ZSNT\3:freetext
+Free Text:ZSNT\312:freetext
+Free Text:ZSNT\313:freetext
+Free Text:ZSNT\314:freetext
+Free Text:ZSNT\315:freetext
+Free Text:ZSNT\316:freetext
+Free Text:ZSNT\317:freetext
+Free Text:ZSNT\318:freetext
+Free Text:ZSNT\4:freetext
+Free Text:ZSNT\5:freetext
+Free Text:ZSNT\6:freetext
+Free Text:ZSNT\901:freetext
+Free Text:ZSNT\902:freetext
+Free Text:ZSNT\903:freetext
+Free Text:ZSNT\904:freetext
+Free Text:ZSNT\905:freetext
+Free Text:ZSNT\906:freetext
+Free Text:ZSNT\907:freetext
+Free Text:ZSNT\908:freetext
+Free Text:ZSNT\909:freetext
+Free Text:ZSNT\A:freetext
+Free Text:ZSNT\A:freetext
+Free Text:ZSNT\A:freetext
+Free Text:ZSNT\A:freetext
+Free Text:ZSNT\A:freetext
+Free Text:ZSNT\B:freetext
+Free Text:ZSNT\C:freetext
+Free Text:ZSNT\C:freetext
+Free Text:ZSNT\China Express Hangar:freetext
+Free Text:ZSNT\D:freetext
+Free Text:ZSNT\D:freetext
+Free Text:ZSNT\E:freetext
+Free Text:ZSNT\E:freetext
+Free Text:ZSNT\F:freetext
+Free Text:ZSNT\F:freetext
+Free Text:ZSNT\G:freetext
+Free Text:ZSNT\H:freetext
+Free Text:ZSNT\L:freetext
+Free Text:ZSNT\L:freetext
+Free Text:ZSNT\L:freetext
+Free Text:ZSNT\T:freetext
+Free Text:ZSNT\T:freetext
+Free Text:ZSNT\T:freetext
+Free Text:ZSNT\Under Construction:freetext
+Free Text:ZSNT\Yuantong Express Building:freetext
+Geo:ZSNT:
+Regions:ZSNT:polygon
+Runways:ZSNT NANTONG 18-36:extended centerline 1
+Runways:ZSNT NANTONG 18-36:extended centerline 1 left base
+Runways:ZSNT NANTONG 18-36:extended centerline 1 left ticks
+Runways:ZSNT NANTONG 18-36:extended centerline 1 left vectoring
+Runways:ZSNT NANTONG 18-36:extended centerline 1 right base
+Runways:ZSNT NANTONG 18-36:extended centerline 1 right ticks
+Runways:ZSNT NANTONG 18-36:extended centerline 1 right vectoring
+Runways:ZSNT NANTONG 18-36:extended centerline 2
+Runways:ZSNT NANTONG 18-36:extended centerline 2 left base
+Runways:ZSNT NANTONG 18-36:extended centerline 2 left ticks
+Runways:ZSNT NANTONG 18-36:extended centerline 2 left vectoring
+Runways:ZSNT NANTONG 18-36:extended centerline 2 right base
+Runways:ZSNT NANTONG 18-36:extended centerline 2 right ticks
+Runways:ZSNT NANTONG 18-36:extended centerline 2 right vectoring
+Runways:ZSNT NANTONG 18-36:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:32.052393:120.932979:32.095882:121.028765
+PLUGIN:vSMR:Airport:ZSNT

@@ -42,6 +42,10 @@ Airports:ZBYZ:symbol
 Airports:ZBZJ:name
 Airports:ZBZJ:symbol
 ARTCC low boundary:ZBAA:
+ARTCC low boundary:ZBHH:
+ARTCC low boundary:ZBSJ:
+ARTCC low boundary:ZBTJ:
+ARTCC low boundary:ZBYN:
 ARTCC low boundary:ZHCC:
 ARTCC low boundary:ZSJN:
 Fixes:ABIBB:name
@@ -308,7 +312,9 @@ High airways:G212:line
 High airways:G218:line
 High airways:G332:line
 High airways:G343:line
+High airways:H7:line
 High airways:H8:line
+High airways:J38:line
 High airways:V1:line
 High airways:V10:line
 High airways:V15:line
@@ -472,6 +478,8 @@ VORs:LUX:name
 VORs:LUX:symbol
 VORs:PEK:name
 VORs:PEK:symbol
+VORs:QHD:name
+VORs:QHD:symbol
 VORs:SJW:name
 VORs:SJW:symbol
 VORs:SZY:name

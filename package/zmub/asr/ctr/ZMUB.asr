@@ -135,6 +135,8 @@ Fixes:HASUT:name
 Fixes:HASUT:symbol
 Fixes:HATGA:name
 Fixes:HATGA:symbol
+Fixes:HOBUL:name
+Fixes:HOBUL:symbol
 Fixes:HORGO:name
 Fixes:HORGO:symbol
 Fixes:HORIN:name
@@ -283,6 +285,8 @@ Fixes:VIZOT:name
 Fixes:VIZOT:symbol
 Fixes:ZAHIR:name
 Fixes:ZAHIR:symbol
+Fixes:ZAMUS:name
+Fixes:ZAMUS:symbol
 Fixes:ZOBUL:name
 Fixes:ZOBUL:symbol
 Free Text:Group\1:freetext
@@ -727,5 +731,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat (feet)
 WINDOWAREA:38.155991:80.311876:56.150445:129.950948

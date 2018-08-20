@@ -1,0 +1,65 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZSHA.sct
+Airports:ZSYN:name
+Airports:ZSYN:symbol
+Free Text:ZSYN\1:freetext
+Free Text:ZSYN\10:freetext
+Free Text:ZSYN\11:freetext
+Free Text:ZSYN\12:freetext
+Free Text:ZSYN\13:freetext
+Free Text:ZSYN\14:freetext
+Free Text:ZSYN\15:freetext
+Free Text:ZSYN\16:freetext
+Free Text:ZSYN\17:freetext
+Free Text:ZSYN\18:freetext
+Free Text:ZSYN\19:freetext
+Free Text:ZSYN\2:freetext
+Free Text:ZSYN\20:freetext
+Free Text:ZSYN\3:freetext
+Free Text:ZSYN\4:freetext
+Free Text:ZSYN\5:freetext
+Free Text:ZSYN\6:freetext
+Free Text:ZSYN\7:freetext
+Free Text:ZSYN\8:freetext
+Free Text:ZSYN\9:freetext
+Free Text:ZSYN\A:freetext
+Free Text:ZSYN\A:freetext
+Free Text:ZSYN\A:freetext
+Free Text:ZSYN\A:freetext
+Free Text:ZSYN\B(Closed):freetext
+Free Text:ZSYN\C(Closed):freetext
+Free Text:ZSYN\D:freetext
+Geo:ZSYN:
+Regions:ZSYN:polygon
+Runways:ZSYN NANYANG 04-22:extended centerline 1
+Runways:ZSYN NANYANG 04-22:extended centerline 1 left base
+Runways:ZSYN NANYANG 04-22:extended centerline 1 left ticks
+Runways:ZSYN NANYANG 04-22:extended centerline 1 left vectoring
+Runways:ZSYN NANYANG 04-22:extended centerline 1 right base
+Runways:ZSYN NANYANG 04-22:extended centerline 1 right ticks
+Runways:ZSYN NANYANG 04-22:extended centerline 1 right vectoring
+Runways:ZSYN NANYANG 04-22:extended centerline 2
+Runways:ZSYN NANYANG 04-22:extended centerline 2 left base
+Runways:ZSYN NANYANG 04-22:extended centerline 2 left ticks
+Runways:ZSYN NANYANG 04-22:extended centerline 2 left vectoring
+Runways:ZSYN NANYANG 04-22:extended centerline 2 right base
+Runways:ZSYN NANYANG 04-22:extended centerline 2 right ticks
+Runways:ZSYN NANYANG 04-22:extended centerline 2 right vectoring
+Runways:ZSYN NANYANG 04-22:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:33.410522:120.167949:33.445162:120.244244
+PLUGIN:vSMR:Airport:ZSYN

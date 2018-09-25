@@ -89,6 +89,7 @@ Airports:ZUZH:name
 Airports:ZUZH:symbol
 Airports:ZUZY:name
 Airports:ZUZY:symbol
+ARTCC low boundary:ZPLJ:
 ARTCC low boundary:ZPPP:
 ARTCC low boundary:ZUCK:
 ARTCC low boundary:ZUGY:

@@ -13,6 +13,6 @@
 #define gndHP 170
 #define gndClosed 200
 #define gndDirection 60395
-#define gndTerminalEX 8553090
+#define gndTerminalEX 6316128
 #define gndRunwayEX 3684408
 

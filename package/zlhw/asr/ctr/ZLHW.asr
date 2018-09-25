@@ -43,6 +43,7 @@ Airports:ZLZY:name
 Airports:ZLZY:symbol
 ARTCC low boundary:ZLIC:
 ARTCC low boundary:ZLLL:
+ARTCC low boundary:ZLXN:
 ARTCC low boundary:ZLXY:
 Fixes:A:name
 Fixes:A:symbol

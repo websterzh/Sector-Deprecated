@@ -41,10 +41,6 @@ Airports:ZLZW:name
 Airports:ZLZW:symbol
 Airports:ZLZY:name
 Airports:ZLZY:symbol
-ARTCC low boundary:ZLIC:
-ARTCC low boundary:ZLLL:
-ARTCC low boundary:ZLXN:
-ARTCC low boundary:ZLXY:
 Fixes:A:name
 Fixes:A:symbol
 Fixes:ADMUX:name
@@ -197,6 +193,7 @@ Fixes:XIXAN:name
 Fixes:XIXAN:symbol
 Fixes:XODAS:name
 Fixes:XODAS:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A596:line
 High airways:B215:line
 High airways:B330:line

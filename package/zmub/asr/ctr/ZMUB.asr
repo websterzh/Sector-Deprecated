@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:ZMUB.sct
+DisplayRotation:0.00000:
 Fixes:ALBAT:name
 Fixes:ALBAT:symbol
 Fixes:ALDAR:name
@@ -203,6 +204,8 @@ Fixes:PICAS:name
 Fixes:PICAS:symbol
 Fixes:PIKOM:name
 Fixes:PIKOM:symbol
+Fixes:PIMIT:name
+Fixes:PIMIT:symbol
 Fixes:POLHO:name
 Fixes:POLHO:symbol
 Fixes:PRING:name
@@ -289,6 +292,7 @@ Fixes:ZAMUS:name
 Fixes:ZAMUS:symbol
 Fixes:ZOBUL:name
 Fixes:ZOBUL:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 Free Text:Group\1:freetext
 Free Text:Group\2:freetext
 Free Text:Group\4200m/13800ft:freetext
@@ -315,6 +319,7 @@ High airways:A308:line
 High airways:A310:line
 High airways:A573:line
 High airways:A575:line
+High airways:A822:line
 High airways:A937:line
 High airways:B161:line
 High airways:B208:line
@@ -410,292 +415,6 @@ NDBs:UH:name
 NDBs:UH:symbol
 NDBs:US:name
 NDBs:US:symbol
-Runways:UIII IRKUTSK 12-30:extended centerline 1 left base
-Runways:UIII IRKUTSK 12-30:extended centerline 1 left vectoring
-Runways:UIII IRKUTSK 12-30:extended centerline 1 right base
-Runways:UIII IRKUTSK 12-30:extended centerline 1 right vectoring
-Runways:UIII IRKUTSK 12-30:extended centerline 2
-Runways:UIII IRKUTSK 12-30:extended centerline 2 left base
-Runways:UIII IRKUTSK 12-30:extended centerline 2 left ticks
-Runways:UIII IRKUTSK 12-30:extended centerline 2 left vectoring
-Runways:UIII IRKUTSK 12-30:extended centerline 2 right base
-Runways:UIII IRKUTSK 12-30:extended centerline 2 right ticks
-Runways:UIII IRKUTSK 12-30:extended centerline 2 right vectoring
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 1 left base
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 1 left vectoring
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 1 right base
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 1 right vectoring
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 left base
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 left ticks
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 left vectoring
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 right base
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 right ticks
-Runways:UIIR VOSTOCHNY 14-32:extended centerline 2 right vectoring
-Runways:UIUU MUKHINO 08-26:extended centerline 1 left base
-Runways:UIUU MUKHINO 08-26:extended centerline 1 left vectoring
-Runways:UIUU MUKHINO 08-26:extended centerline 1 right base
-Runways:UIUU MUKHINO 08-26:extended centerline 1 right vectoring
-Runways:UIUU MUKHINO 08-26:extended centerline 2
-Runways:UIUU MUKHINO 08-26:extended centerline 2 left base
-Runways:UIUU MUKHINO 08-26:extended centerline 2 left ticks
-Runways:UIUU MUKHINO 08-26:extended centerline 2 left vectoring
-Runways:UIUU MUKHINO 08-26:extended centerline 2 right base
-Runways:UIUU MUKHINO 08-26:extended centerline 2 right ticks
-Runways:UIUU MUKHINO 08-26:extended centerline 2 right vectoring
-Runways:UNKY KYZYL 05-23:extended centerline 1 left base
-Runways:UNKY KYZYL 05-23:extended centerline 1 left vectoring
-Runways:UNKY KYZYL 05-23:extended centerline 1 right base
-Runways:UNKY KYZYL 05-23:extended centerline 1 right vectoring
-Runways:UNKY KYZYL 05-23:extended centerline 2
-Runways:UNKY KYZYL 05-23:extended centerline 2 left base
-Runways:UNKY KYZYL 05-23:extended centerline 2 left ticks
-Runways:UNKY KYZYL 05-23:extended centerline 2 left vectoring
-Runways:UNKY KYZYL 05-23:extended centerline 2 right base
-Runways:UNKY KYZYL 05-23:extended centerline 2 right ticks
-Runways:UNKY KYZYL 05-23:extended centerline 2 right vectoring
-Runways:ZBLA HAILAR 09-27:extended centerline 1 left base
-Runways:ZBLA HAILAR 09-27:extended centerline 1 left vectoring
-Runways:ZBLA HAILAR 09-27:extended centerline 1 right base
-Runways:ZBLA HAILAR 09-27:extended centerline 1 right vectoring
-Runways:ZBLA HAILAR 09-27:extended centerline 2
-Runways:ZBLA HAILAR 09-27:extended centerline 2 left base
-Runways:ZBLA HAILAR 09-27:extended centerline 2 left ticks
-Runways:ZBLA HAILAR 09-27:extended centerline 2 left vectoring
-Runways:ZBLA HAILAR 09-27:extended centerline 2 right base
-Runways:ZBLA HAILAR 09-27:extended centerline 2 right ticks
-Runways:ZBLA HAILAR 09-27:extended centerline 2 right vectoring
-Runways:ZBMZ XIJIAO 12-30:extended centerline 1 left base
-Runways:ZBMZ XIJIAO 12-30:extended centerline 1 left vectoring
-Runways:ZBMZ XIJIAO 12-30:extended centerline 1 right base
-Runways:ZBMZ XIJIAO 12-30:extended centerline 1 right vectoring
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 left base
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 left ticks
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 left vectoring
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 right base
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 right ticks
-Runways:ZBMZ XIJIAO 12-30:extended centerline 2 right vectoring
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 1 left base
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 1 left vectoring
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 1 right base
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 1 right vectoring
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 left base
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 left ticks
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 left vectoring
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 right base
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 right ticks
-Runways:ZMAH ARVAIKHEER 14-32:extended centerline 2 right vectoring
-Runways:ZMAT ALTAI 11-29:extended centerline 1 left base
-Runways:ZMAT ALTAI 11-29:extended centerline 1 left vectoring
-Runways:ZMAT ALTAI 11-29:extended centerline 1 right base
-Runways:ZMAT ALTAI 11-29:extended centerline 1 right vectoring
-Runways:ZMAT ALTAI 11-29:extended centerline 2
-Runways:ZMAT ALTAI 11-29:extended centerline 2 left base
-Runways:ZMAT ALTAI 11-29:extended centerline 2 left ticks
-Runways:ZMAT ALTAI 11-29:extended centerline 2 left vectoring
-Runways:ZMAT ALTAI 11-29:extended centerline 2 right base
-Runways:ZMAT ALTAI 11-29:extended centerline 2 right ticks
-Runways:ZMAT ALTAI 11-29:extended centerline 2 right vectoring
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 1 left base
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 1 left vectoring
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 1 right base
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 1 right vectoring
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 left base
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 left ticks
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 left vectoring
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 right base
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 right ticks
-Runways:ZMBH BAYANKHONGOR 16-34:extended centerline 2 right vectoring
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 1 left base
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 1 left vectoring
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 1 right base
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 1 right vectoring
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 left base
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 left ticks
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 left vectoring
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 right base
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 right ticks
-Runways:ZMBS BULGAN SUM 17-35:extended centerline 2 right vectoring
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 1 left base
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 1 left vectoring
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 1 right base
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 1 right vectoring
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 left base
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 left ticks
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 left vectoring
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 right base
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 right ticks
-Runways:ZMBU BARUUN-URT 18-36:extended centerline 2 right vectoring
-Runways:ZMCD DORNOD 12-30:extended centerline 1 left base
-Runways:ZMCD DORNOD 12-30:extended centerline 1 left vectoring
-Runways:ZMCD DORNOD 12-30:extended centerline 1 right base
-Runways:ZMCD DORNOD 12-30:extended centerline 1 right vectoring
-Runways:ZMCD DORNOD 12-30:extended centerline 2
-Runways:ZMCD DORNOD 12-30:extended centerline 2 left base
-Runways:ZMCD DORNOD 12-30:extended centerline 2 left ticks
-Runways:ZMCD DORNOD 12-30:extended centerline 2 left vectoring
-Runways:ZMCD DORNOD 12-30:extended centerline 2 right base
-Runways:ZMCD DORNOD 12-30:extended centerline 2 right ticks
-Runways:ZMCD DORNOD 12-30:extended centerline 2 right vectoring
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 1 left base
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 1 left vectoring
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 1 right base
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 1 right vectoring
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 left base
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 left ticks
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 left vectoring
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 right base
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 right ticks
-Runways:ZMDZ GURVANSAIKHAN 11-29:extended centerline 2 right vectoring
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 1 left base
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 1 left vectoring
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 1 right base
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 1 right vectoring
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 left base
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 left ticks
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 left vectoring
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 right base
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 right ticks
-Runways:ZMKB KHANBUMBAT 15-33:extended centerline 2 right vectoring
-Runways:ZMKD KHOVD 16-34:extended centerline 1 left base
-Runways:ZMKD KHOVD 16-34:extended centerline 1 left vectoring
-Runways:ZMKD KHOVD 16-34:extended centerline 1 right base
-Runways:ZMKD KHOVD 16-34:extended centerline 1 right vectoring
-Runways:ZMKD KHOVD 16-34:extended centerline 2
-Runways:ZMKD KHOVD 16-34:extended centerline 2 left base
-Runways:ZMKD KHOVD 16-34:extended centerline 2 left ticks
-Runways:ZMKD KHOVD 16-34:extended centerline 2 left vectoring
-Runways:ZMKD KHOVD 16-34:extended centerline 2 right base
-Runways:ZMKD KHOVD 16-34:extended centerline 2 right ticks
-Runways:ZMKD KHOVD 16-34:extended centerline 2 right vectoring
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 1 left base
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 1 left vectoring
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 1 right base
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 1 right vectoring
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 left base
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 left ticks
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 left vectoring
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 right base
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 right ticks
-Runways:ZMMG MANDALGOBI 18-36:extended centerline 2 right vectoring
-Runways:ZMMN MUREN 10-28:extended centerline 1 left base
-Runways:ZMMN MUREN 10-28:extended centerline 1 left vectoring
-Runways:ZMMN MUREN 10-28:extended centerline 1 right base
-Runways:ZMMN MUREN 10-28:extended centerline 1 right vectoring
-Runways:ZMMN MUREN 10-28:extended centerline 2
-Runways:ZMMN MUREN 10-28:extended centerline 2 left base
-Runways:ZMMN MUREN 10-28:extended centerline 2 left ticks
-Runways:ZMMN MUREN 10-28:extended centerline 2 left vectoring
-Runways:ZMMN MUREN 10-28:extended centerline 2 right base
-Runways:ZMMN MUREN 10-28:extended centerline 2 right ticks
-Runways:ZMMN MUREN 10-28:extended centerline 2 right vectoring
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 1 left base
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 1 left vectoring
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 1 right base
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 1 right vectoring
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 left base
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 left ticks
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 left vectoring
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 right base
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 right ticks
-Runways:ZMTG TSETSERLEG 14-32:extended centerline 2 right vectoring
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 1 left base
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 1 left vectoring
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 1 right base
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 1 right vectoring
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 left base
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 left ticks
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 left vectoring
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 right base
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 right ticks
-Runways:ZMTL TOSONTSENGEL 10-28:extended centerline 2 right vectoring
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 1 left base
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 1 left vectoring
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 1 right base
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 1 right vectoring
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 left base
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 left ticks
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 left vectoring
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 right base
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 right ticks
-Runways:ZMTT TAVAN TOLGOI 15-33:extended centerline 2 right vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 1 left base
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 1 left vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 1 right base
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 1 right vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 left base
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 left ticks
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 left vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 right base
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 right ticks
-Runways:ZMUB CHINGGIS KHAAN INTL 14-32:extended centerline 2 right vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 1 left base
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 1 left vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 1 right base
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 1 right vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 left base
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 left ticks
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 left vectoring
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 right base
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 right ticks
-Runways:ZMUB CHINGGIS KHAAN INTL 15-33:extended centerline 2 right vectoring
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 1 left base
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 1 left vectoring
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 1 right base
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 1 right vectoring
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 left base
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 left ticks
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 left vectoring
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 right base
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 right ticks
-Runways:ZMUG DEGLII TSAGAAN 13-31:extended centerline 2 right vectoring
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 1 left base
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 1 left vectoring
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 1 right base
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 1 right vectoring
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 left base
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 left ticks
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 left vectoring
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 right base
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 right ticks
-Runways:ZMUH UNDURKHAAN 06-24:extended centerline 2 right vectoring
-Runways:ZMUL ULGII 12-30:extended centerline 1 left base
-Runways:ZMUL ULGII 12-30:extended centerline 1 left vectoring
-Runways:ZMUL ULGII 12-30:extended centerline 1 right base
-Runways:ZMUL ULGII 12-30:extended centerline 1 right vectoring
-Runways:ZMUL ULGII 12-30:extended centerline 2
-Runways:ZMUL ULGII 12-30:extended centerline 2 left base
-Runways:ZMUL ULGII 12-30:extended centerline 2 left ticks
-Runways:ZMUL ULGII 12-30:extended centerline 2 left vectoring
-Runways:ZMUL ULGII 12-30:extended centerline 2 right base
-Runways:ZMUL ULGII 12-30:extended centerline 2 right ticks
-Runways:ZMUL ULGII 12-30:extended centerline 2 right vectoring
-Runways:ZMUL ULGII 12L-30R:extended centerline 1 left base
-Runways:ZMUL ULGII 12L-30R:extended centerline 1 left vectoring
-Runways:ZMUL ULGII 12L-30R:extended centerline 1 right base
-Runways:ZMUL ULGII 12L-30R:extended centerline 1 right vectoring
-Runways:ZMUL ULGII 12L-30R:extended centerline 2
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 left base
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 left ticks
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 left vectoring
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 right base
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 right ticks
-Runways:ZMUL ULGII 12L-30R:extended centerline 2 right vectoring
 Runways:ZYQQ SANJIAZI 17-35:centerline
 Runways:ZYQQ SANJIAZI 17-35:extended centerline 1
 Runways:ZYQQ SANJIAZI 17-35:extended centerline 1 left base
@@ -731,6 +450,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat (feet)
 WINDOWAREA:38.155991:80.311876:56.150445:129.950948

@@ -89,11 +89,6 @@ Airports:ZUZH:name
 Airports:ZUZH:symbol
 Airports:ZUZY:name
 Airports:ZUZY:symbol
-ARTCC low boundary:ZPLJ:
-ARTCC low boundary:ZPPP:
-ARTCC low boundary:ZUCK:
-ARTCC low boundary:ZUGY:
-ARTCC low boundary:ZUUU:
 Fixes:ABVIR:name
 Fixes:ABVIR:symbol
 Fixes:ADBAG:name
@@ -454,6 +449,7 @@ Fixes:ZW:name
 Fixes:ZW:symbol
 Fixes:ZYG:name
 Fixes:ZYG:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A581:line
 High airways:A599:line
 High airways:B213:line

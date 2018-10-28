@@ -87,17 +87,7 @@ Airports:ZSYW:name
 Airports:ZSYW:symbol
 Airports:ZSZS:name
 Airports:ZSZS:symbol
-ARTCC low boundary:ZSAM:
-ARTCC low boundary:ZSCN:
-ARTCC low boundary:ZSFZ:
-ARTCC low boundary:ZSHC:
-ARTCC low boundary:ZSJN:
-ARTCC low boundary:ZSNB:
-ARTCC low boundary:ZSNJ:
-ARTCC low boundary:ZSOF:
-ARTCC low boundary:ZSQD:
-ARTCC low boundary:ZSSS:
-ARTCC low boundary:ZSWZ:
+DisplayRotation:0.00000:
 Fixes:A:name
 Fixes:A:symbol
 Fixes:ABOM:name
@@ -124,6 +114,8 @@ Fixes:AKARA:name
 Fixes:AKARA:symbol
 Fixes:AKAVO:name
 Fixes:AKAVO:symbol
+Fixes:AKBEP:name
+Fixes:AKBEP:symbol
 Fixes:AKSIG:name
 Fixes:AKSIG:symbol
 Fixes:ALADU:name
@@ -320,6 +312,8 @@ Fixes:ISNEB:name
 Fixes:ISNEB:symbol
 Fixes:ISPUR:name
 Fixes:ISPUR:symbol
+Fixes:IVPIP:name
+Fixes:IVPIP:symbol
 Fixes:JINGN:name
 Fixes:JINGN:symbol
 Fixes:KADUG:name
@@ -508,6 +502,8 @@ Fixes:RIBVI:name
 Fixes:RIBVI:symbol
 Fixes:RULMU:name
 Fixes:RULMU:symbol
+Fixes:RUMIB:name
+Fixes:RUMIB:symbol
 Fixes:RUPID:name
 Fixes:RUPID:symbol
 Fixes:RUPOX:name
@@ -632,6 +628,7 @@ Fixes:XUVGI:name
 Fixes:XUVGI:symbol
 Fixes:ZIPPY:name
 Fixes:ZIPPY:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A326:line
 High airways:A470:line
 High airways:A591:line
@@ -650,6 +647,7 @@ High airways:G597:line
 High airways:M503:line
 High airways:R200:line
 High airways:R343:line
+High airways:R596:line
 High airways:R596:line
 High airways:V14:line
 High airways:V2:line
@@ -776,6 +774,8 @@ NDBs:CJ:symbol
 NDBs:CK:name
 NDBs:CK:symbol
 NDBs:D:name
+NDBs:D:name
+NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DO:name
 NDBs:DO:symbol
@@ -958,6 +958,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:12.455840:80.857502:48.999653:161.345785

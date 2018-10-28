@@ -59,13 +59,6 @@ Airports:ZSGZ:name
 Airports:ZSGZ:symbol
 Airports:ZUGY:name
 Airports:ZUGY:symbol
-ARTCC low boundary:ZGGG:
-ARTCC low boundary:ZGHA:
-ARTCC low boundary:ZGJD:
-ARTCC low boundary:ZGKL:
-ARTCC low boundary:ZGNN:
-ARTCC low boundary:ZGOW:
-ARTCC low boundary:ZHHH:
 Fixes:A:name
 Fixes:A:symbol
 Fixes:ABBEY:name
@@ -464,6 +457,7 @@ Fixes:XEREN:name
 Fixes:XEREN:symbol
 Fixes:XOLON:name
 Fixes:XOLON:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A1:line
 High airways:A202:line
 High airways:A461:line

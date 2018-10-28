@@ -35,7 +35,6 @@ Airports:ZWWW:name
 Airports:ZWWW:symbol
 Airports:ZWYN:name
 Airports:ZWYN:symbol
-ARTCC low boundary:ZWWW:
 Fixes:ADMUX:name
 Fixes:ADMUX:symbol
 Fixes:ADPET:name
@@ -62,6 +61,8 @@ Fixes:DAKPA:name
 Fixes:DAKPA:symbol
 Fixes:DUBUV:name
 Fixes:DUBUV:symbol
+Fixes:DUKOM:name
+Fixes:DUKOM:symbol
 Fixes:DUMAM:name
 Fixes:DUMAM:symbol
 Fixes:EGUVO:name
@@ -184,6 +185,7 @@ Fixes:VIDAV:name
 Fixes:VIDAV:symbol
 Fixes:VIKOL:name
 Fixes:VIKOL:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A343:line
 High airways:A364:line
 High airways:A368:line

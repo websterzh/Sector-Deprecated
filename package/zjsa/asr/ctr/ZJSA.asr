@@ -7,8 +7,6 @@ Airports:ZJHK:name
 Airports:ZJHK:symbol
 Airports:ZJSY:name
 Airports:ZJSY:symbol
-ARTCC low boundary:ZJHK:
-ARTCC low boundary:ZJSY:
 Fixes:A:name
 Fixes:A:symbol
 Fixes:ADKUN:name
@@ -79,6 +77,7 @@ Fixes:VEGDO:name
 Fixes:VEGDO:symbol
 Fixes:XELOV:name
 Fixes:XELOV:symbol
+Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A1:line
 High airways:A202:line
 High airways:G221:line

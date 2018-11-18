@@ -87,7 +87,6 @@ Airports:ZSYW:name
 Airports:ZSYW:symbol
 Airports:ZSZS:name
 Airports:ZSZS:symbol
-DisplayRotation:0.00000:
 Fixes:A:name
 Fixes:A:symbol
 Fixes:ABOM:name
@@ -648,7 +647,6 @@ High airways:M503:line
 High airways:R200:line
 High airways:R343:line
 High airways:R596:line
-High airways:R596:line
 High airways:V14:line
 High airways:V2:line
 High airways:V27:line
@@ -774,8 +772,6 @@ NDBs:CJ:symbol
 NDBs:CK:name
 NDBs:CK:symbol
 NDBs:D:name
-NDBs:D:name
-NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DO:name
 NDBs:DO:symbol
@@ -958,5 +954,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:12.455840:80.857502:48.999653:161.345785

@@ -1,6 +1,6 @@
 # VATPRC Sector Project
 
-[![Build Status](https://travis-ci.org/VATPRC-Sector/VATPRC-Sector-Project.svg?branch=master)](https://travis-ci.org/VATPRC-Sector/VATPRC-Sector-Project)
+[![Build Status](https://travis-ci.org/VATPRC-Sector/Sector.svg?branch=master)](https://travis-ci.org/VATPRC-Sector/Sector)
 
 欢迎来到 VATPRC Sector Project！这是一个用于维护 [VATSIM 中国分部（VATPRC）](http://vatprc.net/)官方扇区文件的公开项目。
 

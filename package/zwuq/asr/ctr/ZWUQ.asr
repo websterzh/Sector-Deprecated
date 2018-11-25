@@ -89,6 +89,8 @@ Fixes:IDOPU:name
 Fixes:IDOPU:symbol
 Fixes:IGBAV:name
 Fixes:IGBAV:symbol
+Fixes:IKARA:name
+Fixes:IKARA:symbol
 Fixes:IKENA:name
 Fixes:IKENA:symbol
 Fixes:IPMUN:name
@@ -101,6 +103,8 @@ Fixes:KEXAB:name
 Fixes:KEXAB:symbol
 Fixes:LANBI:name
 Fixes:LANBI:symbol
+Fixes:LEDEM:name
+Fixes:LEDEM:symbol
 Fixes:LESVI:name
 Fixes:LESVI:symbol
 Fixes:LIKMI:name
@@ -259,5 +263,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:24.890997:48.166047:54.922681:126.746255

@@ -91,6 +91,8 @@ Fixes:ATIKO:name
 Fixes:ATIKO:symbol
 Fixes:ATLAT:name
 Fixes:ATLAT:symbol
+Fixes:AVGUT:name
+Fixes:AVGUT:symbol
 Fixes:AVPAM:name
 Fixes:AVPAM:symbol
 Fixes:B:name
@@ -217,6 +219,8 @@ Fixes:JULIT:name
 Fixes:JULIT:symbol
 Fixes:KALMU:name
 Fixes:KALMU:symbol
+Fixes:KAPSA:name
+Fixes:KAPSA:symbol
 Fixes:KEVAR:name
 Fixes:KEVAR:symbol
 Fixes:KIBAS:name
@@ -728,5 +732,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:11.205454:82.620084:39.404632:140.538951

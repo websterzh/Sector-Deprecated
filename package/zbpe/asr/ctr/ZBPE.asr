@@ -41,7 +41,6 @@ Airports:ZBYZ:name
 Airports:ZBYZ:symbol
 Airports:ZBZJ:name
 Airports:ZBZJ:symbol
-DisplayRotation:0.00000:
 Fixes:ABIBB:name
 Fixes:ABIBB:symbol
 Fixes:ABOM:name
@@ -478,6 +477,8 @@ VORs:PEK:name
 VORs:PEK:symbol
 VORs:QHD:name
 VORs:QHD:symbol
+VORs:QHDX:name
+VORs:QHDX:symbol
 VORs:SJW:name
 VORs:SJW:symbol
 VORs:SZY:name
@@ -513,5 +514,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:29.352933:93.295143:47.559359:138.145402

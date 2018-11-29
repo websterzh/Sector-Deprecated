@@ -21,7 +21,13 @@ Free Text:ZYTL\130:freetext
 Free Text:ZYTL\131:freetext
 Free Text:ZYTL\132:freetext
 Free Text:ZYTL\133:freetext
+Free Text:ZYTL\134:freetext
+Free Text:ZYTL\135:freetext
 Free Text:ZYTL\14:freetext
+Free Text:ZYTL\141:freetext
+Free Text:ZYTL\142:freetext
+Free Text:ZYTL\143:freetext
+Free Text:ZYTL\144:freetext
 Free Text:ZYTL\145:freetext
 Free Text:ZYTL\146:freetext
 Free Text:ZYTL\147:freetext
@@ -67,18 +73,20 @@ Free Text:ZYTL\A:freetext
 Free Text:ZYTL\A:freetext
 Free Text:ZYTL\A:freetext
 Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
+Free Text:ZYTL\A:freetext
 Free Text:ZYTL\A1:freetext
 Free Text:ZYTL\A2:freetext
 Free Text:ZYTL\B:freetext
 Free Text:ZYTL\C:freetext
 Free Text:ZYTL\Closed:freetext
-Free Text:ZYTL\Closed:freetext
-Free Text:ZYTL\Closed:freetext
 Free Text:ZYTL\D:freetext
 Free Text:ZYTL\E:freetext
-Free Text:ZYTL\Helicopter:freetext
-Free Text:ZYTL\P1:freetext
-Free Text:ZYTL\P2:freetext
+Free Text:ZYTL\Only:freetext
+Free Text:ZYTL\Only:freetext
+Free Text:ZYTL\Pushback:freetext
+Free Text:ZYTL\Pushback:freetext
 Geo:ZYTL:
 Regions:ZYTL:polygon
 Runways:ZYTL ZHOUSHUIZI 10-28:centerline

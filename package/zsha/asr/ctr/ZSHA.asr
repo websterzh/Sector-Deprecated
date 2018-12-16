@@ -209,6 +209,8 @@ Fixes:DONVO:name
 Fixes:DONVO:symbol
 Fixes:DOPNO:name
 Fixes:DOPNO:symbol
+Fixes:DOVIV:name
+Fixes:DOVIV:symbol
 Fixes:DUBGO:name
 Fixes:DUBGO:symbol
 Fixes:DUMAS:name
@@ -419,8 +421,12 @@ Fixes:NUDPO:name
 Fixes:NUDPO:symbol
 Fixes:NUMEN:name
 Fixes:NUMEN:symbol
+Fixes:NUNDU:name
+Fixes:NUNDU:symbol
 Fixes:NUSPA:name
 Fixes:NUSPA:symbol
+Fixes:OBDIS:name
+Fixes:OBDIS:symbol
 Fixes:OBKEL:name
 Fixes:OBKEL:symbol
 Fixes:OBLAP:name
@@ -433,6 +439,8 @@ Fixes:OKATO:name
 Fixes:OKATO:symbol
 Fixes:OKTUG:name
 Fixes:OKTUG:symbol
+Fixes:OLBIM:name
+Fixes:OLBIM:symbol
 Fixes:OLDID:name
 Fixes:OLDID:symbol
 Fixes:OLGAP:name
@@ -455,6 +463,8 @@ Fixes:OSPAM:name
 Fixes:OSPAM:symbol
 Fixes:OSTIN:name
 Fixes:OSTIN:symbol
+Fixes:OSVEN:name
+Fixes:OSVEN:symbol
 Fixes:OVNEV:name
 Fixes:OVNEV:symbol
 Fixes:OVTAN:name
@@ -499,6 +509,8 @@ Fixes:REPOL:name
 Fixes:REPOL:symbol
 Fixes:RIBVI:name
 Fixes:RIBVI:symbol
+Fixes:RILRO:name
+Fixes:RILRO:symbol
 Fixes:RULMU:name
 Fixes:RULMU:symbol
 Fixes:RUMIB:name
@@ -531,6 +543,8 @@ Fixes:SARGO:name
 Fixes:SARGO:symbol
 Fixes:SASAN:name
 Fixes:SASAN:symbol
+Fixes:SEBLI:name
+Fixes:SEBLI:symbol
 Fixes:SEGPI:name
 Fixes:SEGPI:symbol
 Fixes:SHENU:name
@@ -660,6 +674,7 @@ High airways:V53:line
 High airways:V55:line
 High airways:V64:line
 High airways:V65:line
+High airways:V68:line
 High airways:V70:line
 High airways:V71:line
 High airways:V72:line
@@ -707,6 +722,8 @@ High airways:W184:line
 High airways:W185:line
 High airways:W19:line
 High airways:W2:line
+High airways:W200:line
+High airways:W201:line
 High airways:W38:line
 High airways:W4:line
 High airways:W40:line
@@ -755,6 +772,8 @@ High airways:W67:line
 High airways:W73:line
 High airways:W8:line
 High airways:W95:line
+High airways:Y644:line
+High airways:Y697:line
 NDBs:A:name
 NDBs:A:symbol
 NDBs:AR:name

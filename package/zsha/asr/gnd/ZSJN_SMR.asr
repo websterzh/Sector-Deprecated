@@ -5,7 +5,15 @@ SECTORFILE:
 SECTORTITLE:ZSHA.sct
 Airports:ZSJN:name
 Airports:ZSJN:symbol
-Free Text:ZSJN\1:freetext
+Free Text:ZSJN\01:freetext
+Free Text:ZSJN\02:freetext
+Free Text:ZSJN\03:freetext
+Free Text:ZSJN\04:freetext
+Free Text:ZSJN\05:freetext
+Free Text:ZSJN\06:freetext
+Free Text:ZSJN\07:freetext
+Free Text:ZSJN\08:freetext
+Free Text:ZSJN\09:freetext
 Free Text:ZSJN\10:freetext
 Free Text:ZSJN\11:freetext
 Free Text:ZSJN\12:freetext
@@ -16,7 +24,6 @@ Free Text:ZSJN\16:freetext
 Free Text:ZSJN\17:freetext
 Free Text:ZSJN\18:freetext
 Free Text:ZSJN\19:freetext
-Free Text:ZSJN\2:freetext
 Free Text:ZSJN\20:freetext
 Free Text:ZSJN\200:freetext
 Free Text:ZSJN\201:freetext
@@ -31,10 +38,8 @@ Free Text:ZSJN\209:freetext
 Free Text:ZSJN\21:freetext
 Free Text:ZSJN\22:freetext
 Free Text:ZSJN\23:freetext
-Free Text:ZSJN\24:freetext
-Free Text:ZSJN\24L:freetext
-Free Text:ZSJN\24R:freetext
-Free Text:ZSJN\3:freetext
+Free Text:ZSJN\23L:freetext
+Free Text:ZSJN\23R:freetext
 Free Text:ZSJN\301:freetext
 Free Text:ZSJN\302:freetext
 Free Text:ZSJN\303:freetext
@@ -45,12 +50,6 @@ Free Text:ZSJN\308:freetext
 Free Text:ZSJN\309:freetext
 Free Text:ZSJN\311:freetext
 Free Text:ZSJN\312:freetext
-Free Text:ZSJN\4:freetext
-Free Text:ZSJN\5:freetext
-Free Text:ZSJN\6:freetext
-Free Text:ZSJN\7:freetext
-Free Text:ZSJN\8:freetext
-Free Text:ZSJN\9:freetext
 Free Text:ZSJN\A:freetext
 Free Text:ZSJN\A:freetext
 Free Text:ZSJN\A:freetext
@@ -80,20 +79,6 @@ Free Text:ZSJN\T3:freetext
 Free Text:ZSJN\T4:freetext
 Geo:ZSJN:
 Regions:ZSJN:polygon
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 left base
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 left ticks
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 left vectoring
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 right base
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 right ticks
-Runways:ZSJN YAOQIANG 01-19:extended centerline 1 right vectoring
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 left base
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 left ticks
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 left vectoring
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 right base
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 right ticks
-Runways:ZSJN YAOQIANG 01-19:extended centerline 2 right vectoring
 Runways:ZSJN YAOQIANG 01-19:name
 SHOWC:1
 SHOWSB:0

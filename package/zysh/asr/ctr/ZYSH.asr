@@ -167,12 +167,18 @@ Fixes:NODAL:name
 Fixes:NODAL:symbol
 Fixes:NUBKI:name
 Fixes:NUBKI:symbol
+Fixes:NUNDU:name
+Fixes:NUNDU:symbol
 Fixes:NUTVA:name
 Fixes:NUTVA:symbol
 Fixes:O:name
 Fixes:O:symbol
+Fixes:OBDIS:name
+Fixes:OBDIS:symbol
 Fixes:OGIPO:name
 Fixes:OGIPO:symbol
+Fixes:OLBIM:name
+Fixes:OLBIM:symbol
 Fixes:OMBAD:name
 Fixes:OMBAD:symbol
 Fixes:OMDUS:name
@@ -183,6 +189,8 @@ Fixes:ORAVA:name
 Fixes:ORAVA:symbol
 Fixes:OSUTU:name
 Fixes:OSUTU:symbol
+Fixes:OSVEN:name
+Fixes:OSVEN:symbol
 Fixes:OTABO:name
 Fixes:OTABO:symbol
 Fixes:PABKI:name
@@ -199,6 +207,8 @@ Fixes:RANBO:name
 Fixes:RANBO:symbol
 Fixes:REDEM:name
 Fixes:REDEM:symbol
+Fixes:RILRO:name
+Fixes:RILRO:symbol
 Fixes:RULOP:name
 Fixes:RULOP:symbol
 Fixes:RUPID:name
@@ -296,6 +306,8 @@ High airways:V63:line
 High airways:W106:line
 High airways:W107:line
 High airways:W173:line
+High airways:W201:line
+High airways:W202:line
 High airways:W27:line
 High airways:W39:line
 High airways:W4:line
@@ -321,6 +333,8 @@ High airways:W604:line
 High airways:W606:line
 High airways:W8:line
 High airways:W89:line
+High airways:Y644:line
+High airways:Y697:line
 NDBs:B:name
 NDBs:B:symbol
 NDBs:BM:name
@@ -426,5 +440,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:32.727120:93.981327:56.878163:154.900907

@@ -15,6 +15,8 @@ Fixes:AGEGI:name
 Fixes:AGEGI:symbol
 Fixes:AGPOR:name
 Fixes:AGPOR:symbol
+Fixes:AGTEL:name
+Fixes:AGTEL:symbol
 Fixes:ASSAD:name
 Fixes:ASSAD:symbol
 Fixes:ATALA:name
@@ -95,6 +97,7 @@ High airways:W170:line
 High airways:W171:line
 High airways:W605:line
 High airways:W70:line
+High airways:W71:line
 High airways:X163:line
 High airways:X164:line
 High airways:X165:line
@@ -129,5 +132,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:11.431932:97.914788:24.927401:124.710079

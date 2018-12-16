@@ -67,6 +67,8 @@ Fixes:ADBIN:name
 Fixes:ADBIN:symbol
 Fixes:AGPOR:name
 Fixes:AGPOR:symbol
+Fixes:AGTEL:name
+Fixes:AGTEL:symbol
 Fixes:AGVOS:name
 Fixes:AGVOS:symbol
 Fixes:AKNAV:name
@@ -551,12 +553,15 @@ High airways:W618:line
 High airways:W68:line
 High airways:W7:line
 High airways:W70:line
+High airways:W71:line
 High airways:W88:line
 High airways:W90:line
 NDBs:CD:name
 NDBs:CD:symbol
 NDBs:D:name
 NDBs:D:symbol
+NDBs:DR:name
+NDBs:DR:symbol
 NDBs:DY:name
 NDBs:DY:symbol
 NDBs:F:name
@@ -571,6 +576,8 @@ NDBs:J:name
 NDBs:J:symbol
 NDBs:JA:name
 NDBs:JA:symbol
+NDBs:JV:name
+NDBs:JV:symbol
 NDBs:JW:name
 NDBs:JW:symbol
 NDBs:JX:name
@@ -665,6 +672,8 @@ VORs:LIG:name
 VORs:LIG:symbol
 VORs:LIN:name
 VORs:LIN:symbol
+VORs:LIU:name
+VORs:LIU:symbol
 VORs:LKC:name
 VORs:LKC:symbol
 VORs:LKO:name

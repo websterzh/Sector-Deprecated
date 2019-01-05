@@ -313,6 +313,8 @@ Fixes:NIKUN:name
 Fixes:NIKUN:symbol
 Fixes:NIVUX:name
 Fixes:NIVUX:symbol
+Fixes:NOBIK:name
+Fixes:NOBIK:symbol
 Fixes:NOKET:name
 Fixes:NOKET:symbol
 Fixes:NONIM:name
@@ -450,6 +452,7 @@ Fixes:ZW:symbol
 Fixes:ZYG:name
 Fixes:ZYG:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A581:line
 High airways:A599:line
 High airways:B213:line
@@ -572,6 +575,8 @@ VORs:GMA:name
 VORs:GMA:symbol
 VORs:GZY:name
 VORs:GZY:symbol
+VORs:HLC:name
+VORs:HLC:symbol
 VORs:HUY:name
 VORs:HUY:symbol
 VORs:JHG:name

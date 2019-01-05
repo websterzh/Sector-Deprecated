@@ -294,6 +294,7 @@ Fixes:XINGI:symbol
 Fixes:XIVEP:name
 Fixes:XIVEP:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 Geo:!ZBAA_Restricted:
 High airways:A326:line
 High airways:A461:line
@@ -517,6 +518,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:29.352933:93.295143:47.559359:138.145402

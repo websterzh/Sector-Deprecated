@@ -194,6 +194,7 @@ Fixes:XIXAN:symbol
 Fixes:XODAS:name
 Fixes:XODAS:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A596:line
 High airways:B215:line
 High airways:B330:line
@@ -239,6 +240,8 @@ NDBs:M:name
 NDBs:M:symbol
 NDBs:OD:name
 NDBs:OD:symbol
+NDBs:P:name
+NDBs:P:symbol
 NDBs:V:name
 NDBs:V:symbol
 NDBs:YM:name
@@ -306,6 +309,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:24.028768:75.456769:48.281960:132.342263

@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:ZSHA.sct
-Airports:ZSNJ:name
-Airports:ZSNJ:symbol
 Free Text:ZSNJ\1:freetext
 Free Text:ZSNJ\10:freetext
 Free Text:ZSNJ\13:freetext
@@ -156,6 +154,7 @@ Free Text:ZSNJ\A:freetext
 Free Text:ZSNJ\A:freetext
 Free Text:ZSNJ\A:freetext
 Free Text:ZSNJ\A:freetext
+Free Text:ZSNJ\A:freetext
 Free Text:ZSNJ\A1:freetext
 Free Text:ZSNJ\A10:freetext
 Free Text:ZSNJ\A2:freetext
@@ -164,10 +163,12 @@ Free Text:ZSNJ\A4:freetext
 Free Text:ZSNJ\A5:freetext
 Free Text:ZSNJ\A6:freetext
 Free Text:ZSNJ\A7:freetext
+Free Text:ZSNJ\A7:freetext
 Free Text:ZSNJ\A8:freetext
 Free Text:ZSNJ\A9:freetext
 Free Text:ZSNJ\B:freetext
 Free Text:ZSNJ\B:freetext
+Free Text:ZSNJ\B:freetext
 Free Text:ZSNJ\C:freetext
 Free Text:ZSNJ\C:freetext
 Free Text:ZSNJ\C:freetext
@@ -184,8 +185,6 @@ Free Text:ZSNJ\C10:freetext
 Free Text:ZSNJ\C11:freetext
 Free Text:ZSNJ\C11:freetext
 Free Text:ZSNJ\C11:freetext
-Free Text:ZSNJ\C11:freetext
-Free Text:ZSNJ\C12:freetext
 Free Text:ZSNJ\C12:freetext
 Free Text:ZSNJ\C12:freetext
 Free Text:ZSNJ\C12:freetext
@@ -206,7 +205,6 @@ Free Text:ZSNJ\C8:freetext
 Free Text:ZSNJ\C9:freetext
 Free Text:ZSNJ\C9:freetext
 Free Text:ZSNJ\China Eastern Maintenance:freetext
-Free Text:ZSNJ\Closed:freetext
 Free Text:ZSNJ\D:freetext
 Free Text:ZSNJ\D:freetext
 Free Text:ZSNJ\D:freetext
@@ -216,7 +214,6 @@ Free Text:ZSNJ\D:freetext
 Free Text:ZSNJ\D:freetext
 Free Text:ZSNJ\D:freetext
 Free Text:ZSNJ\D:freetext
-Free Text:ZSNJ\D1:freetext
 Free Text:ZSNJ\D1:freetext
 Free Text:ZSNJ\D2:freetext
 Free Text:ZSNJ\D3:freetext
@@ -227,8 +224,9 @@ Free Text:ZSNJ\D5:freetext
 Free Text:ZSNJ\D6:freetext
 Free Text:ZSNJ\K:freetext
 Free Text:ZSNJ\K:freetext
+Free Text:ZSNJ\K:freetext
 Free Text:ZSNJ\L:freetext
-Free Text:ZSNJ\N:freetext
+Free Text:ZSNJ\L:freetext
 Free Text:ZSNJ\N:freetext
 Free Text:ZSNJ\N:freetext
 Free Text:ZSNJ\N:freetext
@@ -255,13 +253,19 @@ Free Text:ZSNJ\Q:freetext
 Free Text:ZSNJ\Q:freetext
 Free Text:ZSNJ\Q1:freetext
 Free Text:ZSNJ\Q2:freetext
+Free Text:ZSNJ\Q2:freetext
+Free Text:ZSNJ\Q2:freetext
+Free Text:ZSNJ\Q3:freetext
 Free Text:ZSNJ\Q3:freetext
 Free Text:ZSNJ\Q3:freetext
 Free Text:ZSNJ\Q4:freetext
+Free Text:ZSNJ\Q4:freetext
+Free Text:ZSNJ\Q4:freetext
+Free Text:ZSNJ\Q5:freetext
+Free Text:ZSNJ\Q5:freetext
 Free Text:ZSNJ\Q5:freetext
 Free Text:ZSNJ\Q6:freetext
-Free Text:ZSNJ\R:freetext
-Free Text:ZSNJ\R:freetext
+Free Text:ZSNJ\Q6:freetext
 Free Text:ZSNJ\R:freetext
 Free Text:ZSNJ\R:freetext
 Free Text:ZSNJ\R:freetext
@@ -281,12 +285,11 @@ Free Text:ZSNJ\T21:freetext
 Free Text:ZSNJ\T21:freetext
 Free Text:ZSNJ\T22:freetext
 Free Text:ZSNJ\T22:freetext
-Free Text:ZSNJ\T22:freetext
-Free Text:ZSNJ\T22:freetext
 Free Text:ZSNJ\T23:freetext
 Free Text:ZSNJ\T23:freetext
 Free Text:ZSNJ\T23:freetext
-Free Text:ZSNJ\T23:freetext
+Free Text:ZSNJ\T3:freetext
+Free Text:ZSNJ\T3:freetext
 Free Text:ZSNJ\T3:freetext
 Free Text:ZSNJ\T4:freetext
 Free Text:ZSNJ\T4:freetext
@@ -300,7 +303,6 @@ Free Text:ZSNJ\T6:freetext
 Free Text:ZSNJ\T7:freetext
 Free Text:ZSNJ\T7:freetext
 Free Text:ZSNJ\T7:freetext
-Free Text:ZSNJ\T8:freetext
 Free Text:ZSNJ\T8:freetext
 Free Text:ZSNJ\T8:freetext
 Free Text:ZSNJ\T9:freetext
@@ -323,35 +325,7 @@ Free Text:ZSNJ\Z7:freetext
 Free Text:ZSNJ\Z7:freetext
 Geo:ZSNJ:
 Regions:ZSNJ:polygon
-Runways:ZSNJ LUKOU 06-24:extended centerline 1
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 left base
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 left ticks
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 left vectoring
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 right base
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 right ticks
-Runways:ZSNJ LUKOU 06-24:extended centerline 1 right vectoring
-Runways:ZSNJ LUKOU 06-24:extended centerline 2
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 left base
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 left ticks
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 left vectoring
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 right base
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 right ticks
-Runways:ZSNJ LUKOU 06-24:extended centerline 2 right vectoring
 Runways:ZSNJ LUKOU 06-24:name
-Runways:ZSNJ LUKOU 07-25:extended centerline 1
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 left base
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 left ticks
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 left vectoring
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 right base
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 right ticks
-Runways:ZSNJ LUKOU 07-25:extended centerline 1 right vectoring
-Runways:ZSNJ LUKOU 07-25:extended centerline 2
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 left base
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 left ticks
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 left vectoring
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 right base
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 right ticks
-Runways:ZSNJ LUKOU 07-25:extended centerline 2 right vectoring
 Runways:ZSNJ LUKOU 07-25:name
 SHOWC:1
 SHOWSB:0
@@ -361,8 +335,9 @@ LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:1
+SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:31.90000
 TAGFAMILY:Eurocat
-WINDOWAREA:31.709884:118.818578:31.753184:118.913946
+WINDOWAREA:31.714571:118.824211:31.749211:118.900506

@@ -272,13 +272,16 @@ Fixes:Y:symbol
 Fixes:Z:name
 Fixes:Z:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A326:line
 High airways:A345:line
 High airways:A575:line
 High airways:A588:line
+High airways:A588:line
 High airways:A591:line
 High airways:B150:line
 High airways:B332:line
+High airways:B334:line
 High airways:B334:line
 High airways:B451:line
 High airways:G212:line
@@ -440,6 +443,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:32.727120:93.981327:56.878163:154.900907

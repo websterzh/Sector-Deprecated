@@ -642,6 +642,7 @@ Fixes:XUVGI:symbol
 Fixes:ZIPPY:name
 Fixes:ZIPPY:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A326:line
 High airways:A470:line
 High airways:A591:line
@@ -662,6 +663,7 @@ High airways:R200:line
 High airways:R343:line
 High airways:R596:line
 High airways:V14:line
+High airways:V2:line
 High airways:V2:line
 High airways:V27:line
 High airways:V30:line
@@ -791,6 +793,8 @@ NDBs:CJ:symbol
 NDBs:CK:name
 NDBs:CK:symbol
 NDBs:D:name
+NDBs:D:name
+NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DO:name
 NDBs:DO:symbol
@@ -973,6 +977,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:12.455840:80.857502:48.999653:161.345785

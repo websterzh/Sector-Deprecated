@@ -190,6 +190,7 @@ Fixes:VIDAV:symbol
 Fixes:VIKOL:name
 Fixes:VIKOL:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A343:line
 High airways:A364:line
 High airways:A368:line
@@ -263,6 +264,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:24.890997:48.166047:54.922681:126.746255

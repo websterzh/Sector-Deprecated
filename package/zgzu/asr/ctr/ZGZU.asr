@@ -464,6 +464,7 @@ Fixes:XEREN:symbol
 Fixes:XOLON:name
 Fixes:XOLON:symbol
 Free Text:Copyright\Copyright (C) 2013 - 2018 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
+Free Text:Copyright\Copyright (C) 2013 - 2019 VATPRC. All Rights Reserved. / www.vatprc.net:freetext
 High airways:A1:line
 High airways:A202:line
 High airways:A461:line
@@ -502,6 +503,7 @@ High airways:V522:line
 High airways:V571:line
 High airways:V591:line
 High airways:V66:line
+High airways:W105:line
 High airways:W105:line
 High airways:W130:line
 High airways:W138:line
@@ -559,6 +561,7 @@ High airways:W90:line
 NDBs:CD:name
 NDBs:CD:symbol
 NDBs:D:name
+NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DR:name
 NDBs:DR:symbol
@@ -741,6 +744,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Eurocat
 WINDOWAREA:11.205454:82.620084:39.404632:140.538951

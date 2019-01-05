@@ -1,0 +1,33 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:ZYSH.sct
+Free Text:ZYMD\1:freetext
+Free Text:ZYMD\2:freetext
+Free Text:ZYMD\3:freetext
+Free Text:ZYMD\4:freetext
+Free Text:ZYMD\A:freetext
+Free Text:ZYMD\A:freetext
+Free Text:ZYMD\A:freetext
+Free Text:ZYMD\A:freetext
+Free Text:ZYMD\A:freetext
+Free Text:ZYMD\C:freetext
+Free Text:ZYMD\D:freetext
+Free Text:ZYMD\F:freetext
+Geo:ZYMD:
+Regions:ZYMD:polygon
+Runways:ZYMD HAILANG 04-22:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Eurocat
+WINDOWAREA:44.504620:129.514968:44.548110:129.624669

@@ -107,6 +107,8 @@ Fixes:DOGAR:name
 Fixes:DOGAR:symbol
 Fixes:DOTOS:name
 Fixes:DOTOS:symbol
+Fixes:DOVIV:name
+Fixes:DOVIV:symbol
 Fixes:DOVSU:name
 Fixes:DOVSU:symbol
 Fixes:DUBAG:name
@@ -340,6 +342,7 @@ High airways:W160:line
 High airways:W175:line
 High airways:W176:line
 High airways:W193:line
+High airways:W200:line
 High airways:W32:line
 High airways:W33:line
 High airways:W4:line

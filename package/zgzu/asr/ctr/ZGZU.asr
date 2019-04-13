@@ -167,6 +167,8 @@ Fixes:ESBIX:name
 Fixes:ESBIX:symbol
 Fixes:ESDOS:name
 Fixes:ESDOS:symbol
+Fixes:ESKAM:name
+Fixes:ESKAM:symbol
 Fixes:F:name
 Fixes:F:symbol
 Fixes:FISHA:name
@@ -486,6 +488,10 @@ High airways:R343:line
 High airways:R471:line
 High airways:R473:line
 High airways:R474:line
+High airways:V106:line
+High airways:V107:line
+High airways:V108:line
+High airways:V110:line
 High airways:V13:line
 High airways:V17:line
 High airways:V18:line
@@ -504,13 +510,13 @@ High airways:V571:line
 High airways:V591:line
 High airways:V66:line
 High airways:W105:line
-High airways:W105:line
 High airways:W130:line
 High airways:W138:line
 High airways:W139:line
 High airways:W140:line
 High airways:W141:line
 High airways:W155:line
+High airways:W156:line
 High airways:W169:line
 High airways:W18:line
 High airways:W181:line
@@ -519,6 +525,8 @@ High airways:W19:line
 High airways:W194:line
 High airways:W2:line
 High airways:W20:line
+High airways:W207:line
+High airways:W208:line
 High airways:W21:line
 High airways:W22:line
 High airways:W23:line
@@ -561,7 +569,6 @@ High airways:W90:line
 NDBs:CD:name
 NDBs:CD:symbol
 NDBs:D:name
-NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DR:name
 NDBs:DR:symbol
@@ -617,6 +624,8 @@ NDBs:U:name
 NDBs:U:symbol
 NDBs:UJ:name
 NDBs:UJ:symbol
+NDBs:UK:name
+NDBs:UK:symbol
 NDBs:VQ:name
 NDBs:VQ:symbol
 NDBs:W:name
@@ -647,6 +656,8 @@ VORs:DHB:name
 VORs:DHB:symbol
 VORs:DHP:name
 VORs:DHP:symbol
+VORs:DSY:name
+VORs:DSY:symbol
 VORs:DTM:name
 VORs:DTM:symbol
 VORs:DYG:name

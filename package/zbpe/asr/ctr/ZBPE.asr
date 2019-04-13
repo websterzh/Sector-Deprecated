@@ -95,6 +95,8 @@ Fixes:BIVOR:name
 Fixes:BIVOR:symbol
 Fixes:BOBAK:name
 Fixes:BOBAK:symbol
+Fixes:BORGI:name
+Fixes:BORGI:symbol
 Fixes:BUTPO:name
 Fixes:BUTPO:symbol
 Fixes:CDYNB:name
@@ -153,6 +155,8 @@ Fixes:IDULA:name
 Fixes:IDULA:symbol
 Fixes:IGPAS:name
 Fixes:IGPAS:symbol
+Fixes:IGPIL:name
+Fixes:IGPIL:symbol
 Fixes:IKENU:name
 Fixes:IKENU:symbol
 Fixes:INTIK:name
@@ -233,6 +237,8 @@ Fixes:POKOR:name
 Fixes:POKOR:symbol
 Fixes:POLHO:name
 Fixes:POLHO:symbol
+Fixes:PUBOV:name
+Fixes:PUBOV:symbol
 Fixes:RAXEV:name
 Fixes:RAXEV:symbol
 Fixes:REGIR:name
@@ -285,6 +291,8 @@ Fixes:UPDIV:name
 Fixes:UPDIV:symbol
 Fixes:UPSAT:name
 Fixes:UPSAT:symbol
+Fixes:URKED:name
+Fixes:URKED:symbol
 Fixes:VANVO:name
 Fixes:VANVO:symbol
 Fixes:VEMOT:name
@@ -315,6 +323,8 @@ High airways:H8:line
 High airways:J38:line
 High airways:V1:line
 High airways:V10:line
+High airways:V104:line
+High airways:V105:line
 High airways:V15:line
 High airways:V30:line
 High airways:V31:line
@@ -325,6 +335,10 @@ High airways:V54:line
 High airways:V79:line
 High airways:V80:line
 High airways:V9:line
+High airways:V91:line
+High airways:V92:line
+High airways:V93:line
+High airways:V94:line
 High airways:W128:line
 High airways:W129:line
 High airways:W131:line
@@ -368,6 +382,7 @@ High airways:W60:line
 High airways:W623:line
 High airways:W624:line
 High airways:W63:line
+High airways:W631:line
 High airways:W74:line
 High airways:W75:line
 High airways:W76:line
@@ -441,6 +456,8 @@ NDBs:WF:name
 NDBs:WF:symbol
 NDBs:X:name
 NDBs:X:symbol
+NDBs:Y:name
+NDBs:Y:symbol
 NDBs:YF:name
 NDBs:YF:symbol
 NDBs:YV:name
@@ -463,6 +480,8 @@ VORs:DZY:name
 VORs:DZY:symbol
 VORs:FYG:name
 VORs:FYG:symbol
+VORs:HAR:name
+VORs:HAR:symbol
 VORs:HDS:name
 VORs:HDS:symbol
 VORs:HET:name

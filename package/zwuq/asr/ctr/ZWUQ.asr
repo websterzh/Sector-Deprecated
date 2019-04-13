@@ -173,6 +173,10 @@ Fixes:TEAST:name
 Fixes:TEAST:symbol
 Fixes:TEBUS:name
 Fixes:TEBUS:symbol
+Fixes:TEPUT:name
+Fixes:TEPUT:symbol
+Fixes:TUNKI:name
+Fixes:TUNKI:symbol
 Fixes:UDOXU:name
 Fixes:UDOXU:symbol
 Fixes:UGPEL:name
@@ -227,6 +231,10 @@ NDBs:X:name
 NDBs:X:symbol
 VORs:AKS:name
 VORs:AKS:symbol
+VORs:DJQ:name
+VORs:DJQ:symbol
+VORs:DSC:name
+VORs:DSC:symbol
 VORs:FKG:name
 VORs:FKG:symbol
 VORs:HAM:name
@@ -249,6 +257,8 @@ VORs:TCH:name
 VORs:TCH:symbol
 VORs:URC:name
 VORs:URC:symbol
+VORs:WUR:name
+VORs:WUR:symbol
 VORs:XFY:name
 VORs:XFY:symbol
 VORs:XKC:name

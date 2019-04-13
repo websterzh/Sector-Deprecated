@@ -173,6 +173,8 @@ Fixes:TEMOL:name
 Fixes:TEMOL:symbol
 Fixes:TODOD:name
 Fixes:TODOD:symbol
+Fixes:TOGOG:name
+Fixes:TOGOG:symbol
 Fixes:TONAX:name
 Fixes:TONAX:symbol
 Fixes:TOSAP:name
@@ -203,6 +205,8 @@ High airways:G470:line
 High airways:L888:line
 High airways:V34:line
 High airways:V67:line
+High airways:V97:line
+High airways:V99:line
 High airways:W111:line
 High airways:W112:line
 High airways:W135:line
@@ -242,6 +246,8 @@ NDBs:OD:name
 NDBs:OD:symbol
 NDBs:P:name
 NDBs:P:symbol
+NDBs:UF:name
+NDBs:UF:symbol
 NDBs:V:name
 NDBs:V:symbol
 NDBs:YM:name

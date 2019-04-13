@@ -125,6 +125,8 @@ Fixes:ALPHA:name
 Fixes:ALPHA:symbol
 Fixes:AMURI:name
 Fixes:AMURI:symbol
+Fixes:AND:name
+Fixes:AND:symbol
 Fixes:ANDNG:name
 Fixes:ANDNG:symbol
 Fixes:ANISA:name
@@ -664,7 +666,6 @@ High airways:R343:line
 High airways:R596:line
 High airways:V14:line
 High airways:V2:line
-High airways:V2:line
 High airways:V27:line
 High airways:V30:line
 High airways:V31:line
@@ -793,8 +794,6 @@ NDBs:CJ:symbol
 NDBs:CK:name
 NDBs:CK:symbol
 NDBs:D:name
-NDBs:D:name
-NDBs:D:symbol
 NDBs:D:symbol
 NDBs:DO:name
 NDBs:DO:symbol

@@ -5,6 +5,7 @@ SECTORFILE:
 SECTORTITLE:ZYSH.sct
 Airports:ZYCC:name
 Airports:ZYCC:symbol
+Free Text:ZYCC:freetext
 Free Text:ZYCC\101:freetext
 Free Text:ZYCC\102:freetext
 Free Text:ZYCC\103:freetext
@@ -14,9 +15,6 @@ Free Text:ZYCC\106:freetext
 Free Text:ZYCC\107:freetext
 Free Text:ZYCC\108:freetext
 Free Text:ZYCC\109:freetext
-Free Text:ZYCC\110:freetext
-Free Text:ZYCC\111:freetext
-Free Text:ZYCC\A:freetext
 Free Text:ZYCC\A:freetext
 Free Text:ZYCC\A:freetext
 Free Text:ZYCC\A:freetext
@@ -24,6 +22,7 @@ Free Text:ZYCC\A:freetext
 Free Text:ZYCC\A:freetext
 Free Text:ZYCC\A08:freetext
 Free Text:ZYCC\A09:freetext
+Free Text:ZYCC\A1:freetext
 Free Text:ZYCC\A10:freetext
 Free Text:ZYCC\A11:freetext
 Free Text:ZYCC\A12:freetext
@@ -43,14 +42,15 @@ Free Text:ZYCC\A25:freetext
 Free Text:ZYCC\A26:freetext
 Free Text:ZYCC\A27:freetext
 Free Text:ZYCC\A28:freetext
-Free Text:ZYCC\B:freetext
 Free Text:ZYCC\C:freetext
-Free Text:ZYCC\D:freetext
-Free Text:ZYCC\D:freetext
-Free Text:ZYCC\E:freetext
-Free Text:ZYCC\E:freetext
 Free Text:ZYCC\F:freetext
 Free Text:ZYCC\G:freetext
+Free Text:ZYCC\L1:freetext
+Free Text:ZYCC\L2:freetext
+Free Text:ZYCC\L3:freetext
+Free Text:ZYCC\L4:freetext
+Free Text:ZYCC\XXX:freetext
+Free Text:ZYCC\XXX:freetext
 Geo:ZYCC:
 Regions:ZYCC:polygon
 Runways:ZYCC LONGJIA 06-24:centerline
